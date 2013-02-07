@@ -1,4 +1,4 @@
-\documentclass[svgnames,two side,openright,a4paper]{book}
+\documentclass[svgnames,oneside,openright,a4paper]{book}
 \usepackage{tikz}
 \usepackage[danish]{babel}
 \usepackage[lf]{venturis}
@@ -67,10 +67,10 @@
 	  \normalfont\sffamily\Huge\bfseries\scshape}
 	{\gdef\chapterlabel{\thechapter\ }}{0pt}
 	{\begin{tikzpicture}[remember picture, overlay]
-		\node[yshift=-3cm] at (current page.north west)
+		\node[yshift=-4cm] at (current page.north west)
 			{\begin{tikzpicture} [remember picture, overlay]
 				\draw[fill=MGB] (0,0) rectangle (\paperwidth, 3cm);
-				\node[anchor=east, xshift=.9\paperwidth,rectangle, rounded corners=20pt, inner sep=11pt, fill=MGR]
+				\node[anchor=west, xshift=.1\paperwidth,rectangle, rounded corners=20pt, inner sep=11pt, fill=MGR]
 				{\color{white}\chapterlabel#1};
 			\end{tikzpicture}
 			};

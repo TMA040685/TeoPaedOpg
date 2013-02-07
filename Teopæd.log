@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=latex 2011.7.3)  6 FEB 2013 13:59
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=latex 2011.7.3)  7 FEB 2013 13:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -726,7 +726,8 @@ Package: geometry 2010/09/12 v5.6 Page Geometry
 \@input{bibliografi/abbrivations.aux}
 \openout2 = `bibliografi/abbrivations.aux'.
 
-(./bibliografi/abbrivations.tex) (./Teopæd.aux)
+(./bibliografi/abbrivations.tex) (./Teopæd.aux (./chapters/Introduktion.aux)
+(./chapters/main.aux) (./chapters/konklusion.aux))
 \openout1 = `Teopæd.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 90.
@@ -785,21 +786,21 @@ LaTeX Info: Redefining \Ref on input line 90.
 * paper: a4paper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: twoside 
-* h-part:(L,W,R)=(71.70166pt, 418.25368pt, 107.55254pt)
+* modes: 
+* h-part:(L,W,R)=(89.62709pt, 418.25368pt, 89.6271pt)
 * v-part:(T,H,B)=(101.40665pt, 591.5302pt, 152.11pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
 * \textwidth=418.25368pt
 * \textheight=591.5302pt
-* \oddsidemargin=-0.56833pt
-* \evensidemargin=35.28255pt
+* \oddsidemargin=17.3571pt
+* \evensidemargin=17.3571pt
 * \topmargin=-0.93083pt
 * \headheight=12.0pt
 * \headsep=18.06749pt
 * \topskip=10.0pt
 * \footskip=25.29494pt
-* \marginparwidth=115.0pt
+* \marginparwidth=61.0pt
 * \marginparsep=7.0pt
 * \columnsep=10.0pt
 * \skip\footins=9.0pt plus 4.0pt minus 2.0pt
@@ -807,10 +808,22 @@ LaTeX Info: Redefining \Ref on input line 90.
 * \voffset=0.0pt
 * \mag=1000
 * \@twocolumnfalse
-* \@twosidetrue
-* \@mparswitchtrue
+* \@twosidefalse
+* \@mparswitchfalse
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 92.
+
+
+Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
+less on input line 92.
+
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 92.
 
 (./chapters/frontmatter.tex
 LaTeX Font Info:    Try loading font information for T1+cmtt on input line 13.
@@ -826,55 +839,108 @@ File: figures/MARS.eps Graphic file (type eps)
 
 
 
-] [2
-
 ]
 
-Package natbib Warning: Citation `JHT10' on page iii undefined on input line 31
-.
+Package natbib Warning: Citation `JHT10' on page i undefined on input line 31.
 
-) (./chapters/forord.tex [3] [4
+) (./chapters/forord.tex [1
 
-] [5] [6
+] [2
 
 ]
 LaTeX Font Info:    Font shape `T1/yv1/m/sl' in size <10> not available
 (Font)              Font shape `T1/yv1/m/it' tried instead on input line 10.
-) [7] [8
+) [3
 
-] (./Teopæd.toc)
+] (./Teopæd.toc
+LaTeX Font Info:    Try loading font information for U+msa on input line 7.
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 7.
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for U+lasy on input line 7.
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+))
 \tf@toc=\write5
 \openout5 = `Teopæd.toc'.
 
- [9] [10
+ [4
 
 ]
+\openout2 = `chapters/Introduktion.aux'.
+
+
+(./chapters/Introduktion.tex
 Kapitel 1.
 
 Package FiXme Warning: \fixme is deprecated;
-(FiXme)                please use \fxfatal instead on input line 107.
+(FiXme)                please use \fxfatal instead on input line 3.
 
 Package hyperref Info: bookmark level for unknown fixme defaults to 0 on input 
-line 107.
+line 3.
 
-FiXme Fatal Error: 'Skriv en god introduktion' on input line 107.
+FiXme Fatal Error: 'Skriv en god introduktion' on input line 3.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 107--108
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
  []
 
-[1
+) [1
 
-] [2
+
 
 ]
+\openout2 = `chapters/main.aux'.
+
+ (./chapters/main.tex
 Kapitel 2.
-[3] [4
+[2
+
+
 
 ]
 Kapitel 3.
-[5] [6
+[3
+
+]
+Kapitel 4.
+[4
+
+]
+Kapitel 5.
+[5
+
+]
+Kapitel 6.
+[6
+
+]
+Kapitel 7.
+) [7
+
+]
+\openout2 = `chapters/konklusion.aux'.
+
+ (./chapters/konklusion.tex
+Kapitel 8.
+
+Package FiXme Warning: \fixme is deprecated;
+(FiXme)                please use \fxfatal instead on input line 4.
+
+
+FiXme Fatal Error: 'Konklusionen' on input line 4.
+
+) [8
+
+
 
 ] (./Teopæd.bbl)
 
@@ -884,35 +950,31 @@ Package natbib Warning: There were undefined citations.
 FiXme Summary: Number of notes: 0,
 (FiXme)        Number of warnings: 0,
 (FiXme)        Number of errors: 0,
-(FiXme)        Number of fatal errors: 1,
-(FiXme)        Total: 1.
+(FiXme)        Number of fatal errors: 2,
+(FiXme)        Total: 2.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 120.
-[7
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 115.
+[9
+
+
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 120.
- (./Teopæd.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 120.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 120.
-
-
-Package rerunfilecheck Warning: File `Teopæd.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Teopæd.out':
-(rerunfilecheck)             Before: 6BC945B71209B8BB976BCE727CBCF19A;280
-(rerunfilecheck)             After:  BE73BBC95BB8903C260219D7F45B7017;227.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 120.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 115.
+ (./Teopæd.aux (./chapters/Introduktion.aux) (./chapters/main.aux)
+(./chapters/konklusion.aux))
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 115.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 115.
+Package rerunfilecheck Info: File `Teopæd.out' has not changed.
+(rerunfilecheck)             Checksum: BAA947D2AE8575199B1972360C0EE610;914.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 115.
  ) 
 Here is how much of TeX's memory you used:
- 17204 strings out of 493634
- 292310 string characters out of 3143401
- 379075 words of memory out of 3000000
- 20185 multiletter control sequences out of 15000+200000
- 62650 words of font info for 31 fonts, out of 3000000 for 9000
+ 17307 strings out of 493634
+ 294217 string characters out of 3143401
+ 383157 words of memory out of 3000000
+ 20248 multiletter control sequences out of 15000+200000
+ 69206 words of font info for 43 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
- 56i,11n,75p,673b,1081s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 56i,11n,77p,673b,1083s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on Teopæd.dvi (17 pages, 45940 bytes).
+Output written on Teopæd.dvi (14 pages, 64016 bytes).

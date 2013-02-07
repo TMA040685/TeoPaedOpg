@@ -2,6 +2,9 @@ This is BibTeX, Version 0.99d (TeX Live 2011)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: Teopæd.aux
 The style file: astron.bst
+A level-1 auxiliary file: chapters/Introduktion.aux
+A level-1 auxiliary file: chapters/main.aux
+A level-1 auxiliary file: chapters/konklusion.aux
 Database file #1: bibliografi/bibliografi.bib
 Warning--I didn't find a database entry for "JHT10"
 Name 1 in "Bj{\o}rn Friis Johannsen, and L{\ae}rke Bang Jacobsen" has a comma at the end for entry Johannsen:2009M
@@ -11,45 +14,45 @@ while executing---line 1093 of file astron.bst
 Warning--can't use both author and editor fields in Gympd
 Name 1 in "Bj{\o}rn Friis Johannsen, and L{\ae}rke Bang Jacobsen" has a comma at the end for entry Johannsen:2009M
 while executing---line 1168 of file astron.bst
-You've used 10 entries,
+You've used 11 entries,
             2251 wiz_defined-function locations,
-            546 strings with 4952 characters,
-and the built_in function-call counts, 3894 in all, are:
-= -- 369
-> -- 215
-< -- 11
-+ -- 76
-- -- 76
-* -- 383
-:= -- 706
+            556 strings with 5144 characters,
+and the built_in function-call counts, 4193 in all, are:
+= -- 395
+> -- 222
+< -- 13
++ -- 78
+- -- 78
+* -- 406
+:= -- 759
 add.period$ -- 0
-call.type$ -- 10
-change.case$ -- 80
-chr.to.int$ -- 10
-cite$ -- 11
-duplicate$ -- 140
-empty$ -- 214
-format.name$ -- 94
-if$ -- 727
+call.type$ -- 11
+change.case$ -- 85
+chr.to.int$ -- 11
+cite$ -- 12
+duplicate$ -- 156
+empty$ -- 241
+format.name$ -- 97
+if$ -- 787
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 14
-newline$ -- 47
-num.names$ -- 30
-pop$ -- 70
+missing$ -- 16
+newline$ -- 52
+num.names$ -- 33
+pop$ -- 80
 preamble$ -- 1
-purify$ -- 88
+purify$ -- 94
 quote$ -- 0
-skip$ -- 108
+skip$ -- 117
 stack$ -- 0
-substring$ -- 180
-swap$ -- 29
-text.length$ -- 2
+substring$ -- 192
+swap$ -- 32
+text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 52
+type$ -- 56
 warning$ -- 1
-while$ -- 26
+while$ -- 28
 width$ -- 0
-write$ -- 123
+write$ -- 136
 (There were 3 error messages)
