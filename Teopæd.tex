@@ -1,0 +1,120 @@
+\documentclass[svgnames,two side,openright,a4paper]{book}
+\usepackage{tikz}
+\usepackage[danish]{babel}
+\usepackage[lf]{venturis}
+\usepackage[explicit]{titlesec}
+\usepackage[sort&compress]{natbib}
+\renewcommand*\familydefault{\sfdefault}
+\usepackage[T1]{fontenc}
+\usepackage[applemac]{inputenc}
+\usepackage[colorlinks]{hyperref}
+\usepackage{graphicx}
+\bibliographystyle{astron}
+\usepackage{fancyhdr}
+\usepackage{varioref}
+\usepackage[draft,inline]{fixme}
+\usepackage{appendix}
+\usepackage{amsmath,amssymb, latexsym}
+\usepackage[notref,notcite,draft]{showkeys}
+\usepackage[a4paper]{geometry}
+\parindent 0pt
+
+% ------------------------ Header setup  ------------------------ %
+\newcommand{\fncyfront}{%
+	\fancyhead [RO] {{\footnotesize \rightmark}}
+	\fancyfoot [RO] {\thepage}
+	\fancyhead [LE] {{\footnotesize \leftmark}}
+	\fancyfoot [LE] {\thepage}
+	\fancyhead [RE,LO] {}
+	\fancyfoot [C] {}
+	\renewcommand{\headrulewidth}{0.3pt}}	
+\newcommand{\fncymain}{%
+	\fancyhead [RO] {{\footnotesize \rightmark}}
+	\fancyfoot [RO] {\thepage} 
+	\fancyhead [LE] {{\footnotesize \leftmark}}
+	\fancyfoot [LE] {\thepage}
+	\fancyfoot [C] {}
+	\renewcommand{\headrulewidth}{0.3pt}}		
+\newcommand{\fncyappendix}{%
+	\fancyhead [RO] {{\footnotesize \rightmark}}
+	\fancyfoot [RO] {\thepage}
+	\fancyhead [LE] {{\footnotesize \leftmark}}
+	\fancyfoot [LE] {\thepage}
+	\fancyhead [RE,LO] {}
+	\fancyfoot [C] {}	
+	\renewcommand{\headrulewidth}{0.3pt}
+	\renewcommand{\footrulewidth}{0.3pt}}
+\makeatletter
+\def\cleardoublepage{\clearpage\if@twoside
+\ifodd\c@page
+\else\hbox{}\thispagestyle{empty}\newpage
+\if@twocolumn\hbox{}\newpage\fi\fi\fi}
+\makeatother 
+\pagestyle{fancy}
+
+\include{bibliografi/abbrivations}
+
+% ------------------------ Abstract setup  ------------------------ %
+\newenvironment{abstract}%
+{\cleardoublepage\null \vfill\begin{center}%
+\bfseries \abstractname \end{center}}%
+	{\vfill\null}
+
+% ------------------------ Chapter setup  ------------------------ %
+\newcommand*\chapterlabel{}
+\titleformat{\chapter}
+	{\gdef\chapterlabel{}
+	  \normalfont\sffamily\Huge\bfseries\scshape}
+	{\gdef\chapterlabel{\thechapter\ }}{0pt}
+	{\begin{tikzpicture}[remember picture, overlay]
+		\node[yshift=-3cm] at (current page.north west)
+			{\begin{tikzpicture} [remember picture, overlay]
+				\draw[fill=MGB] (0,0) rectangle (\paperwidth, 3cm);
+				\node[anchor=east, xshift=.9\paperwidth,rectangle, rounded corners=20pt, inner sep=11pt, fill=MGR]
+				{\color{white}\chapterlabel#1};
+			\end{tikzpicture}
+			};
+		\end{tikzpicture}
+	}
+	\titlespacing*{\chapter}{0pt}{50pt}{-60pt}
+	
+% ------------------------ Custom setup  ------------------------ %	
+\newcommand{\figref}[1]{figure \ref{fig:#1}}
+\newcommand{\tblref}[1]{table \ref{tbl:#1}}
+\newcommand{\secref}[1]{section \ref{sec:#1}}
+\newcommand{\appref}[1]{appendix \ref{app:#1}}
+\renewcommand{\eqref}[1]{equation (\ref{eq:#1})}
+\newcommand{\chapref}[1]{chapter \ref{chap:#1}}
+\graphicspath{{figures/}}	
+
+\begin{document}
+	%\raggedbottom
+	\fncyfront
+	\frontmatter
+	\input{chapters/frontmatter}
+	\input{chapters/forord}
+	\tableofcontents
+
+\mainmatter
+% ------------------------ Mainmatter setup  ------------------------ %	
+%	- Introduktion								 %
+%	- Problemformulering						 %
+%	- Main									 %
+%	- Konklusion								 %
+% -------------------------------------------------------------------------- %
+
+\chapter{Introduktion}
+\fixme{Skriv en god introduktion}\\
+
+bla bla bla \citep{Jacobsen:2008M,Johannsen:2009M,Gympd,Michelsen:2011M,Dolin:2007M,Harlen:2011:M}
+%\chapter{Problemformulering}
+\chapter{Main}
+Test tekst\citep{Gympd}
+
+\chapter{Konklusion}
+
+\backmatter
+%\begin{thebibliography}{}
+\bibliography{bibliografi/bibliografi}
+%\end{thebibliography}
+\end{document}
