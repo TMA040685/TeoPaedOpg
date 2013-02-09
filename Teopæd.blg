@@ -5,6 +5,7 @@ The style file: astron.bst
 A level-1 auxiliary file: chapters/Introduktion.aux
 A level-1 auxiliary file: chapters/main.aux
 A level-1 auxiliary file: chapters/konklusion.aux
+A level-1 auxiliary file: appendix/Verdensbilleder.aux
 Database file #1: bibliografi/bibliografi.bib
 Warning--I didn't find a database entry for "JHT10"
 Name 1 in "Bj{\o}rn Friis Johannsen, and L{\ae}rke Bang Jacobsen" has a comma at the end for entry Johannsen:2009M
@@ -16,38 +17,38 @@ Name 1 in "Bj{\o}rn Friis Johannsen, and L{\ae}rke Bang Jacobsen" has a comma at
 while executing---line 1168 of file astron.bst
 You've used 11 entries,
             2251 wiz_defined-function locations,
-            556 strings with 5144 characters,
-and the built_in function-call counts, 4193 in all, are:
+            557 strings with 5141 characters,
+and the built_in function-call counts, 4174 in all, are:
 = -- 395
 > -- 222
-< -- 13
+< -- 12
 + -- 78
 - -- 78
-* -- 406
-:= -- 759
+* -- 404
+:= -- 758
 add.period$ -- 0
 call.type$ -- 11
 change.case$ -- 85
 chr.to.int$ -- 11
 cite$ -- 12
-duplicate$ -- 156
-empty$ -- 241
+duplicate$ -- 154
+empty$ -- 237
 format.name$ -- 97
-if$ -- 787
+if$ -- 782
 int.to.chr$ -- 1
 int.to.str$ -- 0
 missing$ -- 16
 newline$ -- 52
 num.names$ -- 33
-pop$ -- 80
+pop$ -- 77
 preamble$ -- 1
 purify$ -- 94
 quote$ -- 0
-skip$ -- 117
+skip$ -- 118
 stack$ -- 0
 substring$ -- 192
-swap$ -- 32
-text.length$ -- 3
+swap$ -- 31
+text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 56

@@ -1,5 +1,5 @@
 \documentclass[svgnames,oneside,openright,a4paper]{book}
-\usepackage{tikz}
+\usepackage{tikz,booktabs}
 \usepackage[danish]{babel}
 \usepackage[lf]{venturis}
 \usepackage[explicit]{titlesec}
@@ -17,6 +17,7 @@
 \usepackage{amsmath,amssymb, latexsym}
 \usepackage[notref,notcite,draft]{showkeys}
 \usepackage[a4paper]{geometry}
+\usepackage{multirow}
 \parindent 0pt
 
 % ------------------------ Header setup  ------------------------ %
@@ -84,7 +85,7 @@
 \newcommand{\secref}[1]{section \ref{sec:#1}}
 \newcommand{\appref}[1]{appendix \ref{app:#1}}
 \renewcommand{\eqref}[1]{equation (\ref{eq:#1})}
-\newcommand{\chapref}[1]{chapter \ref{chap:#1}}
+\newcommand{\chapref}[1]{chapter \ref{ch:#1}}
 \graphicspath{{figures/}}	
 
 \begin{document}
@@ -94,6 +95,8 @@
 	\input{chapters/frontmatter}
 	\input{chapters/forord}
 	\tableofcontents
+	\listoftables
+	\listoffigures
 
 \mainmatter
 % ------------------------ Mainmatter setup  ------------------------ %	
@@ -108,8 +111,14 @@
 \include{chapters/konklusion}
 
 
+\begin{appendix}
+\include{appendix/Verdensbilleder}
+
+\end{appendix}
+
 \backmatter
 %\begin{thebibliography}{}
 \bibliography{bibliografi/bibliografi}
 %\end{thebibliography}
+
 \end{document}
