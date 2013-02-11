@@ -5,19 +5,19 @@
 \contentsline {chapter}{\numberline {2}Progression og Metode i opgaven}{2}{chapter.2}
 \contentsline {chapter}{\numberline {3}Begrebsafklaring}{3}{chapter.3}
 \contentsline {section}{\numberline {3.1}L\IeC {\ae }ring}{3}{section.3.1}
-\contentsline {section}{\numberline {3.2}Motivation}{3}{section.3.2}
-\contentsline {chapter}{\numberline {4}L\IeC {\ae }ringsstile i klassen}{5}{chapter.4}
-\contentsline {section}{\numberline {4.1}Elevtyper}{5}{section.4.1}
-\contentsline {chapter}{\numberline {5}Didaktisk-teoretiske overvejelser om forl\IeC {\o }bet}{6}{chapter.5}
-\contentsline {section}{\numberline {5.1}Forl\IeC {\o }bets teoretiske udgangspunkt}{6}{section.5.1}
-\contentsline {section}{\numberline {5.2}Den faglige progression}{6}{section.5.2}
-\contentsline {chapter}{\numberline {6}Analyse og diskussion af den faglige progression}{7}{chapter.6}
-\contentsline {chapter}{\numberline {7}Evaluering af forl\IeC {\o }bet}{8}{chapter.7}
-\contentsline {chapter}{\numberline {8}Konklusion}{9}{chapter.8}
-\contentsline {chapter}{\numberline {A}Undervisnings forl\IeC {\o }bet Verdensbilleder}{10}{appendix.A}
-\contentsline {section}{\numberline {A.1}Form\r al:}{10}{section.A.1}
-\contentsline {section}{\numberline {A.2}Indhold:}{10}{section.A.2}
-\contentsline {section}{\numberline {A.3}Metode:}{10}{section.A.3}
-\contentsline {section}{\numberline {A.4}Materiale:}{10}{section.A.4}
-\contentsline {section}{\numberline {A.5}Evaluering:}{10}{section.A.5}
-\contentsline {section}{\numberline {A.6}Modul plan:}{10}{section.A.6}
+\contentsline {section}{\numberline {3.2}Motivation}{4}{section.3.2}
+\contentsline {chapter}{\numberline {4}L\IeC {\ae }ringsstile i klassen}{6}{chapter.4}
+\contentsline {section}{\numberline {4.1}Elevtyper}{6}{section.4.1}
+\contentsline {chapter}{\numberline {5}Didaktisk-teoretiske overvejelser om forl\IeC {\o }bet}{7}{chapter.5}
+\contentsline {section}{\numberline {5.1}Forl\IeC {\o }bets teoretiske udgangspunkt}{7}{section.5.1}
+\contentsline {section}{\numberline {5.2}Den faglige progression}{7}{section.5.2}
+\contentsline {chapter}{\numberline {6}Analyse og diskussion af den faglige progression}{8}{chapter.6}
+\contentsline {chapter}{\numberline {7}Evaluering af forl\IeC {\o }bet}{9}{chapter.7}
+\contentsline {chapter}{\numberline {8}Konklusion}{10}{chapter.8}
+\contentsline {chapter}{\numberline {A}Undervisnings forl\IeC {\o }bet Verdensbilleder}{11}{appendix.A}
+\contentsline {section}{\numberline {A.1}Form\r al:}{11}{section.A.1}
+\contentsline {section}{\numberline {A.2}Indhold:}{11}{section.A.2}
+\contentsline {section}{\numberline {A.3}Metode:}{11}{section.A.3}
+\contentsline {section}{\numberline {A.4}Materiale:}{11}{section.A.4}
+\contentsline {section}{\numberline {A.5}Evaluering:}{11}{section.A.5}
+\contentsline {section}{\numberline {A.6}Modul plan:}{11}{section.A.6}

@@ -5,6 +5,11 @@
 \newblock {\em Det vurderende {\o}je},
 \newblock Gyldendal Akademisk, Oslo
 
+\bibitem[\protect\astroncite{Dewey}{1938}]{Dewey:1978}
+Dewey, J.: 1978/1938,
+\newblock {\em Erfaring og opdragelse},
+\newblock Chr. Ejlers' Forlag
+
 \bibitem[\protect\astroncite{Dolin}{2007}]{Dolin:2007M}
 Dolin, J.: 2007,
 \newblock {\em MONA} {\bf 2}, 20
@@ -44,6 +49,12 @@ Jung, C.~G.: 1971,
 \newblock {\em "Psychological Types" Collected Works of Carl Gustav Jung},
   Vol.~6,
 \newblock Princeton University Press
+
+\bibitem[\protect\astroncite{Kolb}{1984}]{Kolb:1984}
+Kolb, D.: 1984,
+\newblock {\em Experiential Learning: Experience as the Source of Learning and
+  Development},
+\newblock Prentice Hall
 
 \bibitem[\protect\astroncite{Michelsen}{2011}]{Michelsen:2011M}
 Michelsen, C.: 2011,

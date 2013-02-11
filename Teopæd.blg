@@ -15,45 +15,46 @@ while executing---line 1093 of file astron.bst
 Warning--can't use both author and editor fields in Gympd
 Name 1 in "Bj{\o}rn Friis Johannsen, and L{\ae}rke Bang Jacobsen" has a comma at the end for entry Johannsen:2009M
 while executing---line 1168 of file astron.bst
-You've used 11 entries,
+Warning--can't use both author and editor fields in Kolb:1984
+You've used 13 entries,
             2251 wiz_defined-function locations,
-            557 strings with 5141 characters,
-and the built_in function-call counts, 4174 in all, are:
-= -- 395
-> -- 222
-< -- 12
-+ -- 78
-- -- 78
-* -- 404
-:= -- 758
+            569 strings with 5349 characters,
+and the built_in function-call counts, 4731 in all, are:
+= -- 445
+> -- 236
+< -- 14
++ -- 82
+- -- 82
+* -- 447
+:= -- 860
 add.period$ -- 0
-call.type$ -- 11
-change.case$ -- 85
-chr.to.int$ -- 11
-cite$ -- 12
-duplicate$ -- 154
-empty$ -- 237
-format.name$ -- 97
-if$ -- 782
+call.type$ -- 13
+change.case$ -- 95
+chr.to.int$ -- 13
+cite$ -- 15
+duplicate$ -- 182
+empty$ -- 283
+format.name$ -- 103
+if$ -- 890
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 16
-newline$ -- 52
-num.names$ -- 33
-pop$ -- 77
+missing$ -- 20
+newline$ -- 62
+num.names$ -- 39
+pop$ -- 92
 preamble$ -- 1
-purify$ -- 94
+purify$ -- 106
 quote$ -- 0
-skip$ -- 118
+skip$ -- 138
 stack$ -- 0
-substring$ -- 192
-swap$ -- 31
+substring$ -- 216
+swap$ -- 36
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 56
-warning$ -- 1
-while$ -- 28
+type$ -- 64
+warning$ -- 2
+while$ -- 32
 width$ -- 0
-write$ -- 136
+write$ -- 160
 (There were 3 error messages)
