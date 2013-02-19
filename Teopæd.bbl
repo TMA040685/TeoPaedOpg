@@ -40,8 +40,9 @@ Haue, H., Damberg, E., Gleerup, J., Dolin, J., Kaspersen, P., Lieberkind, L.,
 Jacobsen, L.~B.: 2008,
 \newblock {\em MONA} {\bf 4}, 22
 
-\bibitem[\protect\astroncite{Johannsen and Jacobsen}{2009}]{Johannsen:2009M}
-Johannsen, B.~F. and Jacobsen, L.~B.: 2009,
+\bibitem[\protect\astroncite{{Johannsen} and
+  {Jacobsen}}{2009}]{Johannsen:2009M}
+{Johannsen}, B.~F. and {Jacobsen}, L.~B.: 2009,
 \newblock {\em MONA} {\bf 2}, 56
 
 \bibitem[\protect\astroncite{Jung}{1971}]{JTI}
@@ -64,5 +65,9 @@ Michelsen, C.: 2011,
 {Myers}, I.~B. and {Myers}, P.~B.: 1980, 1995,
 \newblock {\em Gifts Differing: Understanding Personality Type.},
 \newblock Davies-Black Publishing, Mountain View CA
+
+\bibitem[\protect\astroncite{UVM.dk}{2013}]{STXbek}
+UVM.dk: 2013,
+\newblock {\em Bekendtg{\o}relsen for STX}
 
 \end{thebibliography}
