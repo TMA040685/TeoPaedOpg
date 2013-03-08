@@ -3,54 +3,58 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: Teopæd.aux
 The style file: astron.bst
 A level-1 auxiliary file: chapters/Introduktion.aux
+A level-1 auxiliary file: chapters/problemformulering.aux
 A level-1 auxiliary file: chapters/main.aux
+A level-1 auxiliary file: chapters/ringsstile.aux
+A level-1 auxiliary file: chapters/JTI-MBTI.aux
+A level-1 auxiliary file: chapters/Didaktik.aux
+A level-1 auxiliary file: chapters/Analyse.aux
+A level-1 auxiliary file: chapters/Evaluering.aux
 A level-1 auxiliary file: chapters/konklusion.aux
 A level-1 auxiliary file: appendix/Verdensbilleder.aux
 Database file #1: bibliografi/bibliografi.bib
-Warning--entry type for "STXbek" isn't style-file defined
---line 12 of file bibliografi/bibliografi.bib
 Warning--I didn't find a database entry for "JHT10"
 Warning--can't use both author and editor fields in Gympd
 Warning--can't use both author and editor fields in Kolb:1984
-You've used 14 entries,
+You've used 17 entries,
             2251 wiz_defined-function locations,
-            574 strings with 5400 characters,
-and the built_in function-call counts, 4971 in all, are:
-= -- 469
-> -- 243
-< -- 15
-+ -- 84
-- -- 84
-* -- 466
-:= -- 907
+            598 strings with 5908 characters,
+and the built_in function-call counts, 5878 in all, are:
+= -- 548
+> -- 270
+< -- 19
++ -- 92
+- -- 92
+* -- 535
+:= -- 1068
 add.period$ -- 0
-call.type$ -- 14
-change.case$ -- 100
-chr.to.int$ -- 14
-cite$ -- 16
-duplicate$ -- 193
-empty$ -- 298
-format.name$ -- 106
-if$ -- 933
+call.type$ -- 17
+change.case$ -- 116
+chr.to.int$ -- 17
+cite$ -- 19
+duplicate$ -- 239
+empty$ -- 376
+format.name$ -- 119
+if$ -- 1113
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 20
-newline$ -- 66
-num.names$ -- 42
-pop$ -- 96
+missing$ -- 26
+newline$ -- 81
+num.names$ -- 51
+pop$ -- 125
 preamble$ -- 1
-purify$ -- 112
+purify$ -- 131
 quote$ -- 0
-skip$ -- 147
+skip$ -- 178
 stack$ -- 0
-substring$ -- 228
-swap$ -- 38
-text.length$ -- 2
+substring$ -- 264
+swap$ -- 46
+text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 70
+type$ -- 82
 warning$ -- 2
-while$ -- 34
+while$ -- 40
 width$ -- 0
-write$ -- 170
-(There were 4 warnings)
+write$ -- 207
+(There were 3 warnings)

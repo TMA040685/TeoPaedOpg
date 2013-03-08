@@ -1,25 +1,30 @@
-\documentclass[svgnames,oneside,openright,a4paper]{book}
+%% COMPILE WITH XeLaTeX %%
+\documentclass[svgnames,oneside,openright,a4paper,10pt]{book}
 \usepackage{tikz,booktabs}
 \usepackage[danish]{babel}
 \usepackage[lf]{venturis}
 \usepackage[explicit]{titlesec}
 \usepackage[sort&compress]{natbib}
 \renewcommand*\familydefault{\sfdefault}
-\usepackage[T1]{fontenc}
+\usepackage{fontspec}
+\setmainfont{Arial}
+%\setsecfont{Neo Tech Std}
+%\usepackage[T1]{fontenc}
 \usepackage[applemac]{inputenc}
 \usepackage[colorlinks]{hyperref}
 \usepackage{graphicx}
 \bibliographystyle{astron}
 \usepackage{fancyhdr}
-\usepackage{varioref}
+\usepackage{varioref,caption,subcaption}
 \usepackage[draft,inline]{fixme}
 \usepackage{appendix}
-\usepackage{amsmath,amssymb, latexsym}
+\usepackage{amsmath, latexsym}
 \usepackage[notref,notcite,draft]{showkeys}
 \usepackage[a4paper]{geometry}
 \usepackage{multirow}
 \parindent 0pt
 
+\definecolor{DDS}{cmyk}{1,.7,0,.3}
 % ------------------------ Header setup  ------------------------ %
 \newcommand{\fncyfront}{%
 	\fancyhead [RO] {{\footnotesize \rightmark}}
@@ -62,30 +67,39 @@
 	{\vfill\null}
 
 % ------------------------ Chapter setup  ------------------------ %
+\titleformat{\section}[hang]%
+	{\color{DDS}\fontspec[SizeFeatures={{Size=14}}]{Neo Tech Std Light}}%
+	{\hspace{20pt}\MakeUppercase{\thesection#1 }} %
+	{\parindent}%
+	{}%
 \newcommand*\chapterlabel{}
 \titleformat{\chapter}
 	{\gdef\chapterlabel{}
-	  \normalfont\sffamily\Huge\bfseries\scshape}
+	 }% \normalfont\sffamily\Huge}
 	{\gdef\chapterlabel{\thechapter\ }}{0pt}
 	{\begin{tikzpicture}[remember picture, overlay]
-		\node[yshift=-4cm] at (current page.north west)
+		\node[yshift=-3cm] at (current page.north west)
 			{\begin{tikzpicture} [remember picture, overlay]
-				\draw[fill=MGB] (0,0) rectangle (\paperwidth, 3cm);
-				\node[anchor=west, xshift=.1\paperwidth,rectangle, rounded corners=20pt, inner sep=11pt, fill=MGR]
-				{\color{white}\chapterlabel#1};
+				\draw[very thick, fill=DDS,draw=LightSkyBlue] (0,0) rectangle (\paperwidth, 3cm);
+				\draw[thick, fill=LightSkyBlue,draw=DDS,anchor=west, xshift=.075\paperwidth, yshift=-.5cm] (0,0) rectangle (.95\paperwidth, 2cm);
+				\draw[draw=LightSkyBlue,fill=white,anchor=west,xshift=.925\paperwidth] (0,0) rectangle (.075\paperwidth,3cm);
+				%\draw[draw=DDS,fill=DDS,anchor=west,xshift=.925\paperwidth,yshift=.03cm] (0,0) rectangle (.075\paperwidth,2.3cm);
+				\draw[draw=LightSkyBlue,fill=LightSkyBlue,anchor=west,xshift=.925\paperwidth,yshift=0cm] (0,0) rectangle (.075\paperwidth,2.3cm);
+				\node[anchor=west, xshift=.1\paperwidth,yshift=.55cm,rectangle, fill=LightSkyBlue]%rounded corners=20pt, inner sep=11pt, fill=DDS]
+				{\fontspec[SizeFeatures={{Size=24}}]{Neo Tech Std}\color{DDS}\MakeUppercase{\chapterlabel#1}};
 			\end{tikzpicture}
 			};
 		\end{tikzpicture}
 	}
-	\titlespacing*{\chapter}{0pt}{50pt}{-60pt}
+	\titlespacing*{\chapter}{0pt}{50pt}{-40pt}
 	
 % ------------------------ Custom setup  ------------------------ %	
-\newcommand{\figref}[1]{figure \ref{fig:#1}}
-\newcommand{\tblref}[1]{table \ref{tbl:#1}}
-\newcommand{\secref}[1]{section \ref{sec:#1}}
+\newcommand{\figref}[1]{figur \ref{fig:#1}}
+\newcommand{\tblref}[1]{tabel \ref{tbl:#1}}
+\newcommand{\secref}[1]{afsnit \ref{sec:#1}}
 \newcommand{\appref}[1]{appendix \ref{app:#1}}
-\renewcommand{\eqref}[1]{equation (\ref{eq:#1})}
-\newcommand{\chapref}[1]{chapter \ref{ch:#1}}
+\renewcommand{\eqref}[1]{ligning (\ref{eq:#1})}
+\newcommand{\chapref}[1]{kapitel \ref{ch:#1}}
 \graphicspath{{figures/}}	
 
 \begin{document}
@@ -107,12 +121,19 @@
 % -------------------------------------------------------------------------- %
 
 \include{chapters/Introduktion}
+\include{chapters/problemformulering}
 \include{chapters/main}
+\include{chapters/ringsstile}
+\include{chapters/JTI-MBTI}
+\include{chapters/Didaktik}
+\include{chapters/Analyse}
+\include{chapters/Evaluering}
 \include{chapters/konklusion}
 
 
 \begin{appendix}
 \include{appendix/Verdensbilleder}
+\include{appendix/Sporgeskema}
 
 \end{appendix}
 

@@ -1,23 +1,31 @@
 \select@language {danish}
 \contentsline {chapter}{Forord}{ii}{chapter*.1}
-\contentsline {chapter}{Problemformulering}{iii}{chapter*.2}
 \contentsline {chapter}{\numberline {1}Introduktion}{1}{chapter.1}
-\contentsline {chapter}{\numberline {2}Progression og Metode i opgaven}{2}{chapter.2}
-\contentsline {chapter}{\numberline {3}Begrebsafklaring}{3}{chapter.3}
-\contentsline {section}{\numberline {3.1}L\IeC {\ae }ring}{3}{section.3.1}
-\contentsline {section}{\numberline {3.2}Motivation}{4}{section.3.2}
-\contentsline {chapter}{\numberline {4}L\IeC {\ae }ringsstile i klassen}{6}{chapter.4}
-\contentsline {section}{\numberline {4.1}Elevtyper}{6}{section.4.1}
-\contentsline {chapter}{\numberline {5}Didaktisk-teoretiske overvejelser om forl\IeC {\o }bet}{7}{chapter.5}
-\contentsline {section}{\numberline {5.1}Forl\IeC {\o }bets teoretiske udgangspunkt}{7}{section.5.1}
-\contentsline {section}{\numberline {5.2}Den faglige progression}{7}{section.5.2}
-\contentsline {chapter}{\numberline {6}Analyse og diskussion af den faglige progression}{8}{chapter.6}
-\contentsline {chapter}{\numberline {7}Evaluering af forl\IeC {\o }bet}{9}{chapter.7}
-\contentsline {chapter}{\numberline {8}Konklusion}{10}{chapter.8}
-\contentsline {chapter}{\numberline {A}Undervisnings forl\IeC {\o }bet Verdensbilleder}{11}{appendix.A}
-\contentsline {section}{\numberline {A.1}Form\r al:}{11}{section.A.1}
-\contentsline {section}{\numberline {A.2}Indhold:}{11}{section.A.2}
-\contentsline {section}{\numberline {A.3}Metode:}{11}{section.A.3}
-\contentsline {section}{\numberline {A.4}Materiale:}{11}{section.A.4}
-\contentsline {section}{\numberline {A.5}Evaluering:}{11}{section.A.5}
-\contentsline {section}{\numberline {A.6}Modul plan:}{11}{section.A.6}
+\contentsline {chapter}{\numberline {2}Problemformulering}{2}{chapter.2}
+\contentsline {chapter}{\numberline {3}Progression og Metode i opgaven}{3}{chapter.3}
+\contentsline {chapter}{\numberline {4}Begrebsafklaring}{4}{chapter.4}
+\contentsline {section}{\numberline {4.1}L\IeC {\ae }ring}{4}{section.4.1}
+\contentsline {section}{\numberline {4.2}Motivation}{5}{section.4.2}
+\contentsline {chapter}{\numberline {5}L\IeC {\ae }ringsstile i klassen}{7}{chapter.5}
+\contentsline {section}{\numberline {5.1}Elevtyper}{7}{section.5.1}
+\contentsline {chapter}{\numberline {6}Jungs Type Indikator}{8}{chapter.6}
+\contentsline {chapter}{\numberline {7}Didaktisk-teoretiske overvejelser om forl\IeC {\o }bet}{9}{chapter.7}
+\contentsline {section}{\numberline {7.1}Forl\IeC {\o }bets teoretiske udgangspunkt}{9}{section.7.1}
+\contentsline {section}{\numberline {7.2}Den faglige progression}{10}{section.7.2}
+\contentsline {chapter}{\numberline {8}Analyse og diskussion af den faglige progression}{11}{chapter.8}
+\contentsline {chapter}{\numberline {9}Evaluering af forl\IeC {\o }bet}{12}{chapter.9}
+\contentsline {section}{\numberline {9.1}Forl\IeC {\o }bets afvikling i 2bm}{12}{section.9.1}
+\contentsline {chapter}{\numberline {10}Konklusion}{16}{chapter.10}
+\contentsline {chapter}{\numberline {A}Undervisnings forl\IeC {\o }bet Verdensbilleder}{17}{appendix.A}
+\contentsline {section}{\numberline {A.1}Form\r al:}{17}{section.A.1}
+\contentsline {section}{\numberline {A.2}Indhold:}{17}{section.A.2}
+\contentsline {section}{\numberline {A.3}Metode:}{17}{section.A.3}
+\contentsline {section}{\numberline {A.4}Materiale:}{17}{section.A.4}
+\contentsline {section}{\numberline {A.5}Evaluering:}{17}{section.A.5}
+\contentsline {section}{\numberline {A.6}Modul plan:}{17}{section.A.6}
+\contentsline {chapter}{\numberline {B}Evaluering af forl\IeC {\o }bet Verdensbilleder}{23}{appendix.B}
+\contentsline {section}{\numberline {B.1}Evaluering af forl\IeC {\o }bet verdensbilleder}{23}{section.B.1}
+\contentsline {section}{\numberline {B.2}Evaluering af timerne}{23}{section.B.2}
+\contentsline {section}{\numberline {B.3}Evaluering af arbejdsformerne}{23}{section.B.3}
+\contentsline {section}{\numberline {B.4}Evaluering af Klassen}{24}{section.B.4}
+\contentsline {section}{\numberline {B.5}Forbedringer}{25}{section.B.5}
