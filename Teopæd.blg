@@ -12,49 +12,50 @@ A level-1 auxiliary file: chapters/Analyse.aux
 A level-1 auxiliary file: chapters/Evaluering.aux
 A level-1 auxiliary file: chapters/konklusion.aux
 A level-1 auxiliary file: appendix/Verdensbilleder.aux
+A level-1 auxiliary file: appendix/Sporgeskema.aux
 Database file #1: bibliografi/bibliografi.bib
 Warning--I didn't find a database entry for "JHT10"
 Warning--can't use both author and editor fields in Gympd
 Warning--can't use both author and editor fields in Kolb:1984
-You've used 17 entries,
+You've used 18 entries,
             2251 wiz_defined-function locations,
-            598 strings with 5908 characters,
-and the built_in function-call counts, 5878 in all, are:
-= -- 548
-> -- 270
+            604 strings with 6849 characters,
+and the built_in function-call counts, 7243 in all, are:
+= -- 644
+> -- 453
 < -- 19
-+ -- 92
-- -- 92
-* -- 535
-:= -- 1068
++ -- 164
+- -- 164
+* -- 697
+:= -- 1329
 add.period$ -- 0
-call.type$ -- 17
-change.case$ -- 116
-chr.to.int$ -- 17
-cite$ -- 19
-duplicate$ -- 239
-empty$ -- 376
-format.name$ -- 119
-if$ -- 1113
+call.type$ -- 18
+change.case$ -- 156
+chr.to.int$ -- 18
+cite$ -- 20
+duplicate$ -- 253
+empty$ -- 399
+format.name$ -- 192
+if$ -- 1343
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 26
-newline$ -- 81
-num.names$ -- 51
-pop$ -- 125
+missing$ -- 28
+newline$ -- 86
+num.names$ -- 54
+pop$ -- 169
 preamble$ -- 1
-purify$ -- 131
+purify$ -- 172
 quote$ -- 0
-skip$ -- 178
+skip$ -- 187
 stack$ -- 0
-substring$ -- 264
-swap$ -- 46
+substring$ -- 276
+swap$ -- 48
 text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 82
+type$ -- 86
 warning$ -- 2
-while$ -- 40
+while$ -- 42
 width$ -- 0
-write$ -- 207
+write$ -- 219
 (There were 3 warnings)

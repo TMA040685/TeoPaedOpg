@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.3-0.9997.5 (TeX Live 2011) (format=xelatex 2011.7.3)  4 MAR 2013 10:50
+This is XeTeX, Version 3.1415926-2.3-0.9997.5 (TeX Live 2011) (format=xelatex 2011.7.3)  18 MAR 2013 11:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1452,13 +1452,116 @@ th options [SizeFeatures={{Size=14}}].
 
 LaTeX Font Warning: Font shape `EU1/NeoTechStd(1)/m/n' in size <10> not availab
 le
-(Font)              size <14> substituted on input line 38.
+(Font)              size <14> substituted on input line 63.
 
-) [8
+[8
 
 
 
 ]
+Overfull \hbox (3.02856pt too wide) in paragraph at lines 121--122
+[][][]| 
+ []
+
+
+Underfull \hbox (badness 4429) in paragraph at lines 123--123
+\EU1/lmss/m/n/10 udvikling ved hjælp
+ []
+
+
+Underfull \hbox (badness 1112) in paragraph at lines 123--123
+\EU1/lmss/m/n/10 gennemtænkte meto-
+ []
+
+
+Underfull \hbox (badness 5756) in paragraph at lines 125--125
+[]\EU1/lmss/m/n/10 At udfører arbejder
+ []
+
+
+Underfull \hbox (badness 8151) in paragraph at lines 127--127
+[]\EU1/lmss/m/n/10 At fordele arbejdet
+ []
+
+
+Underfull \hbox (badness 3312) in paragraph at lines 127--127
+[]\EU1/lmss/m/n/10 At kommunikere på
+ []
+
+
+Underfull \hbox (badness 1622) in paragraph at lines 129--129
+[]\EU1/lmss/m/n/10 At gennemgå planer
+ []
+
+
+Underfull \hbox (badness 3343) in paragraph at lines 129--129
+\EU1/lmss/m/n/10 ningsfulde for grup-
+ []
+
+
+Underfull \hbox (badness 6348) in paragraph at lines 129--130
+[]\EU1/lmss/m/n/10 At undersøge kom-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--130
+\EU1/lmss/m/n/10 plekse problemers
+ []
+
+
+Underfull \hbox (badness 1460) in paragraph at lines 131--131
+\EU1/lmss/m/n/10 forskellige måder for
+ []
+
+
+Underfull \hbox (badness 6775) in paragraph at lines 131--132
+[]\EU1/lmss/m/n/10 At diskutere udfor-
+ []
+
+
+Overfull \hbox (3.02856pt too wide) in paragraph at lines 145--146
+[][][]| 
+ []
+
+
+Underfull \hbox (badness 2556) in paragraph at lines 147--147
+[]\EU1/lmss/m/n/10 At anvende nye og
+ []
+
+
+Underfull \hbox (badness 5050) in paragraph at lines 153--153
+[]\EU1/lmss/m/n/10 At anvende uafprø-
+ []
+
+
+Underfull \hbox (badness 5985) in paragraph at lines 153--153
+\EU1/lmss/m/n/10 vede og ikke gen-
+ []
+
+
+Underfull \hbox (badness 1057) in paragraph at lines 153--153
+[]\EU1/lmss/m/n/10 At komme med kri-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--155
+[]\EU1/lmss/m/n/10 At behandle an-
+ []
+
+
+Underfull \hbox (badness 5345) in paragraph at lines 155--155
+\EU1/lmss/m/n/10 dre mennesker som
+ []
+
+
+Underfull \hbox (badness 1117) in paragraph at lines 155--156
+[]\EU1/lmss/m/n/10 At deltage i alt for
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+) [9] [10]
 \openout2 = `chapters/Didaktik.aux'.
 
  (./chapters/Didaktik.tex
@@ -1473,16 +1576,16 @@ File: figures/kolbstyle.eps Graphic file (type eps)
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[9
+[11
 
 
 
-]) [10]
+]) [12]
 \openout2 = `chapters/Analyse.aux'.
 
  (./chapters/Analyse.tex
 Kapitel 8.
-) [11
+) [13
 
 
 
@@ -1518,11 +1621,11 @@ File: figures/Verdensbilleder.eps Graphic file (type eps)
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) [12
+) [14
 
 
 
-] [13] [14] [15]
+] [15] [16] [17]
 \openout2 = `chapters/konklusion.aux'.
 
  (./chapters/konklusion.tex
@@ -1534,7 +1637,7 @@ Package FiXme Warning: \fixme is deprecated;
 
 FiXme Fatal Error: 'Konklusionen' on input line 4.
 
-) [16
+) [18
 
 
 
@@ -1762,22 +1865,22 @@ Underfull \hbox (badness 1112) in paragraph at lines 200--200
 \EU1/lmss/m/n/10 skrive rapport i og stille
  []
 
-) [17
+) [19
 
 
 
-] [18] [19] [20] [21] [22]
+] [20] [21] [22] [23] [24]
 \openout2 = `appendix/Sporgeskema.aux'.
 
  (./appendix/Sporgeskema.tex
 Bilag B.
-[23
+[25
 
 
 
-] [24]) [25] (./Teopæd.bbl
+] [26]) [27] (./Teopæd.bbl
 LaTeX Font Info:    Font shape `EU1/lmss/m/it' in size <10> not available
-(Font)              Font shape `EU1/lmss/m/sl' tried instead on input line 5.
+(Font)              Font shape `EU1/lmss/m/sl' tried instead on input line 13.
 )
 
 Package natbib Warning: There were undefined citations.
@@ -1790,7 +1893,7 @@ FiXme Summary: Number of notes: 0,
 (FiXme)        Total: 2.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 145.
-[26
+[28
 
 
 
@@ -1811,12 +1914,12 @@ LaTeX Font Warning: Size substitutions with differences
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 145.
  ) 
 Here is how much of TeX's memory you used:
- 28982 strings out of 494150
- 504301 string characters out of 3152950
- 667729 words of memory out of 3000000
- 31622 multiletter control sequences out of 15000+200000
+ 28996 strings out of 494150
+ 504524 string characters out of 3152950
+ 668831 words of memory out of 3000000
+ 31636 multiletter control sequences out of 15000+200000
  5455 words of font info for 55 fonts, out of 3000000 for 9000
  1018 hyphenation exceptions out of 8191
  56i,11n,92p,2232b,1158s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on Teopæd.pdf (32 pages).
+Output written on Teopæd.pdf (34 pages).
