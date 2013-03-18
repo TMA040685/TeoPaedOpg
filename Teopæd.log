@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.3-0.9997.5 (TeX Live 2011) (format=xelatex 2011.7.3)  18 MAR 2013 11:07
+This is XeTeX, Version 3.1415926-2.3-0.9997.5 (TeX Live 2011) (format=xelatex 2011.7.3)  18 MAR 2013 13:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1281,6 +1281,45 @@ File: eu1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 LaTeX Font Warning: Font shape `EU1/lmss/m/sc' in size <24.88> not available
 (Font)              Font shape `EU1/lmr/m/sc' tried instead on input line 16.
 
+\g_fontspec_family_Neo Tech Std Light_int=\count314
+ fontspec info: Defining font family 'NeoTechStdLight(0)' for font 'Neo Tech St
+d Light' with options [].
+
+\g_fontspec_NeoTechStdLight(0)_prop=\toks59
+ fontspec info: Defining shape 'normal' with NFSS spec.:
+(fontspec)  <->"Neo Tech Std Light/ICU:script=latn;language=DFLT;"
+
+ fontspec info: Defining shape 'bold' with NFSS spec.:
+(fontspec)  <->"Neo Tech Std Light/B/ICU:script=latn;language=DFLT;"
+
+ fontspec info: Defining shape 'italic' with NFSS spec.:
+(fontspec)  <->"Neo Tech Std Light/I/ICU:script=latn;language=DFLT;"
+
+ fontspec info: Defining shape 'bold italic' with NFSS spec.:
+(fontspec)  <->"Neo Tech Std Light/BI/ICU:script=latn;language=DFLT;"
+
+
+LaTeX Font Warning: Font shape `EU1/NeoTechStdLight(0)/m/sc' undefined
+(Font)              using `EU1/NeoTechStdLight(0)/m/n' instead on input line 16
+.
+
+\g_fontspec_family_Neo Tech Std_int=\count315
+ fontspec info: Defining font family 'NeoTechStd(0)' for font 'Neo Tech Std' wi
+th options [].
+
+\g_fontspec_NeoTechStd(0)_prop=\toks60
+ fontspec info: Defining shape 'normal' with NFSS spec.:
+(fontspec)  <->"Neo Tech Std/ICU:script=latn;language=DFLT;"
+
+ fontspec info: Defining shape 'bold' with NFSS spec.:
+(fontspec)  <->"Neo Tech Std/B/ICU:script=latn;language=DFLT;"
+
+ fontspec info: Defining shape 'italic' with NFSS spec.:
+(fontspec)  <->"Neo Tech Std/I/ICU:script=latn;language=DFLT;"
+
+ fontspec info: Defining shape 'bold italic' with NFSS spec.:
+(fontspec)  <->"Neo Tech Std/BI/ICU:script=latn;language=DFLT;"
+
 File: figures/MARS.eps Graphic file (type eps)
 <figures/MARS.eps>
 (/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
@@ -1299,11 +1338,10 @@ Package natbib Warning: Citation `JHT10' on page i undefined on input line 35.
 ) (./chapters/forord.tex [1
 
 ]
-\g_fontspec_family_Neo Tech Std_int=\count314
- fontspec info: Defining font family 'NeoTechStd(0)' for font 'Neo Tech Std' wi
+ fontspec info: Defining font family 'NeoTechStd(1)' for font 'Neo Tech Std' wi
 th options [SizeFeatures={{Size=24}}].
 
-\g_fontspec_NeoTechStd(0)_prop=\toks59
+\g_fontspec_NeoTechStd(1)_prop=\toks61
  fontspec info: Defining shape 'normal' with NFSS spec.:
 (fontspec)  <24>"Neo Tech Std/ICU:script=latn;language=DFLT;"
 
@@ -1318,7 +1356,7 @@ th options [SizeFeatures={{Size=24}}].
 
 
 
-LaTeX Font Warning: Font shape `EU1/NeoTechStd(0)/m/n' in size <10> not availab
+LaTeX Font Warning: Font shape `EU1/NeoTechStd(1)/m/n' in size <10> not availab
 le
 (Font)              size <24> substituted on input line 1.
 
@@ -1390,11 +1428,10 @@ Kapitel 3.
 
 ]
 Kapitel 4.
-\g_fontspec_family_Neo Tech Std Light_int=\count315
- fontspec info: Defining font family 'NeoTechStdLight(0)' for font 'Neo Tech St
+ fontspec info: Defining font family 'NeoTechStdLight(1)' for font 'Neo Tech St
 d Light' with options [SizeFeatures={{Size=14}}].
 
-\g_fontspec_NeoTechStdLight(0)_prop=\toks60
+\g_fontspec_NeoTechStdLight(1)_prop=\toks62
  fontspec info: Defining shape 'normal' with NFSS spec.:
 (fontspec)  <14>"Neo Tech Std Light/ICU:script=latn;language=DFLT;"
 
@@ -1408,7 +1445,7 @@ d Light' with options [SizeFeatures={{Size=14}}].
 (fontspec)  <14>"Neo Tech Std Light/BI/ICU:script=latn;language=DFLT;"
 
 
-LaTeX Font Warning: Font shape `EU1/NeoTechStdLight(0)/m/n' in size <10> not av
+LaTeX Font Warning: Font shape `EU1/NeoTechStdLight(1)/m/n' in size <10> not av
 ailable
 (Font)              size <14> substituted on input line 10.
 
@@ -1433,10 +1470,10 @@ Kapitel 5.
 
  (./chapters/JTI-MBTI.tex
 Kapitel 6.
- fontspec info: Defining font family 'NeoTechStd(1)' for font 'Neo Tech Std' wi
+ fontspec info: Defining font family 'NeoTechStd(2)' for font 'Neo Tech Std' wi
 th options [SizeFeatures={{Size=14}}].
 
-\g_fontspec_NeoTechStd(1)_prop=\toks61
+\g_fontspec_NeoTechStd(2)_prop=\toks63
  fontspec info: Defining shape 'normal' with NFSS spec.:
 (fontspec)  <14>"Neo Tech Std/ICU:script=latn;language=DFLT;"
 
@@ -1450,7 +1487,7 @@ th options [SizeFeatures={{Size=14}}].
 (fontspec)  <14>"Neo Tech Std/BI/ICU:script=latn;language=DFLT;"
 
 
-LaTeX Font Warning: Font shape `EU1/NeoTechStd(1)/m/n' in size <10> not availab
+LaTeX Font Warning: Font shape `EU1/NeoTechStd(2)/m/n' in size <10> not availab
 le
 (Font)              size <14> substituted on input line 63.
 
@@ -1521,6 +1558,11 @@ Underfull \hbox (badness 6775) in paragraph at lines 131--132
 
 Overfull \hbox (3.02856pt too wide) in paragraph at lines 145--146
 [][][]| 
+ []
+
+
+Underfull \hbox (badness 1117) in paragraph at lines 147--147
+[]\EU1/lmss/m/n/10 At deltage i alt for
  []
 
 
@@ -1911,15 +1953,18 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 145.
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 14.0pt have occurred.
 
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 145.
  ) 
 Here is how much of TeX's memory you used:
- 28996 strings out of 494150
- 504524 string characters out of 3152950
- 668831 words of memory out of 3000000
- 31636 multiletter control sequences out of 15000+200000
- 5455 words of font info for 55 fonts, out of 3000000 for 9000
+ 29058 strings out of 494150
+ 506535 string characters out of 3152950
+ 668491 words of memory out of 3000000
+ 31684 multiletter control sequences out of 15000+200000
+ 5567 words of font info for 69 fonts, out of 3000000 for 9000
  1018 hyphenation exceptions out of 8191
- 56i,11n,92p,2232b,1158s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 56i,11n,92p,2232b,1157s stack positions out of 5000i,500n,10000p,200000b,50000s
 
 Output written on Teopæd.pdf (34 pages).
