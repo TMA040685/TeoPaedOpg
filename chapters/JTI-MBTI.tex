@@ -1,0 +1,159 @@
+\chapter{Jungs Type Indikator}
+\label{ch:JTI}
+I begyndelsen af 1920'erne udgav den Carl Gustav Jung en bog som omhandlede typologiske teorier, denne blev i 1923 oversat til engelsk hvor den fik titlen "Psykological Types". I denne bog fremstillede Jung fire overordnede psykologiske egenskaber som vi opfatter verden igennem: sansning, intuition, føling og tænkning. Men kun en af disse er dominant det meste af tiden \citep{Ringstad:2002}. Disse teorier af Jung danner grundlaget for det vi idag kender som Jungs type indikator (JTI). Efter at Jung havde udgivet sit værk blev det forarbejdet af Katharine Cook Briggs og Isabel Briggs Myers og i 1962 udgav de deres type indikator under navnet Myers Briggs Type Indikator (MBTI). Både JTI og MBTI bygger på et system hvor man afdækker personlighedens præferencer for forskellige ting man stille fire kategorier op hvor der er to valg muligheder i hver.
+
+\begin{center}
+	\begin{tikzpicture}
+		%\draw[thin, draw=LightSkyBlue, anchor=south west, step=1mm] (0,0) grid (10,10);
+		%\draw[draw=blue,anchor=south west, step=5mm] (0,0) grid (10,10);
+		%\draw[thick,draw=SkyBlue,anchor=south west, step=10mm] (0,0) grid (10,10);
+		
+		\draw[thin, black] (2,5.5) -- (8,5.5) -- (8,8) -- (2,8) -- cycle;
+		\draw[thick, black] (4.7,7.7) -- (5.3,7.7);
+		\draw[thick, black] (4.7,7.2) -- (5.3,7.2);
+		\draw[thick, black] (4.7,6.7) -- (5.3,6.7);
+		\draw[thick, black] (4.7,6.2) -- (5.3,6.2);
+		
+		\node[black,left] at (4.5,7.6) {Ekstrovert ({\bf E})};
+		\node[black,left] at (4.5,7.2) {Sansning ({\bf S})};
+		\node[black,left] at (4.5,6.7) {Tænkning ({\bf T})};
+		\node[black,left] at (4.5,6.2) {Judging ({\bf J})};
+		
+		\node[black,right] at (5.5,7.6) {({\bf I}) Introvert};
+		\node[black,right] at (5.5,7.2) {({\bf N}) INtuition};
+		\node[black,right] at (5.5,6.7) {({\bf F}) Følelse};
+		\node[black,right] at (5.5,6.2) {({\bf P}) Perseption};
+	\end{tikzpicture}
+\end{center}
+Dette giver 16 mulige kombinationer som er vist på \figref{MBTI} herunder. 
+\begin{figure}[h!]
+	\centering
+	\begin{tikzpicture}
+		%\draw[thin, draw=LightSkyBlue, anchor=south west, step=1mm] (0,0) grid (10,10);
+		%\draw[draw=blue,anchor=south west, step=5mm] (0,0) grid (10,10);
+		%\draw[thick,draw=SkyBlue,anchor=south west, step=10mm] (0,0) grid (10,10);
+		%
+		%% DEFINE COLORS
+		\definecolor{r1}{cmyk}{0.08,0.36,0.21,0}
+		\definecolor{y1}{cmyk}{0.02,0.21,0.33,0}
+		\definecolor{g1}{cmyk}{0.2,0.04,0.36,0}
+		\definecolor{b1}{cmyk}{0.33,0.14,0.01,0}
+		
+		%% DEFINE COLORED REGIONS
+		\draw[very thin, fill=r1] (1,1) -- (3,1) -- (3,9) -- (1,9) -- cycle;
+		\draw[very thin, fill=y1] (3,1) -- (5,1) -- (5,9) -- (3,9) -- cycle;
+		\draw[very thin, fill=g1] (5,1) -- (7,1) -- (7,9) -- (5,9) -- cycle;
+		\draw[very thin, fill=b1] (7,1) -- (9,1) -- (9,9) -- (7,9) -- cycle;
+		
+		%% DRAW THE VERTICAL GRID
+		\draw[very thick, black] (1,9) -- (9,9);
+		\draw[very thick, black] (1,7) -- (9,7);
+		\draw[very thick, black] (1,5) -- (9,5);
+		\draw[very thick, black] (1,3) -- (9,3);
+		\draw[very thick, black] (1,1) -- (9,1);
+		
+		%% DRAW THE HORIZONTAL GRID
+		\draw[very thick, black] (9,1) -- (9,9);
+		\draw[very thick, black] (7,1) -- (7,9);
+		\draw[very thick, black] (5,1) -- (5,9);
+		\draw[very thick, black] (3,1) -- (3,9);
+		\draw[very thick, black] (1,1) -- (1,9);
+		
+		%% TOP LETTERS
+		\node[black] at (2,9.5) {\fontspec[SizeFeatures={{Size=14}}]{Neo Tech Std}S};
+		\node[black] at (4,9.5) {\fontspec[SizeFeatures={{Size=14}}]{Neo Tech Std}S};
+		\node[black] at (6,9.5) {\fontspec[SizeFeatures={{Size=14}}]{Neo Tech Std}N};
+		\node[black] at (8,9.5) {\fontspec[SizeFeatures={{Size=14}}]{Neo Tech Std}N};
+		
+		
+		%% LEFT SIDE LETTERS
+		\node[black] at (0.5,8) {\fontspec[SizeFeatures={{Size=14}}]{Neo Tech Std}I};
+		\node[black] at (0.5,6) {\fontspec[SizeFeatures={{Size=14}}]{Neo Tech Std}I};
+		\node[black] at (0.5,4) {\fontspec[SizeFeatures={{Size=14}}]{Neo Tech Std}E};
+		\node[black] at (0.5,2) {\fontspec[SizeFeatures={{Size=14}}]{Neo Tech Std}E};
+		
+		%% RIGHT SIDE LETTERS
+		\node[black] at (9.5,8) {\fontspec[SizeFeatures={{Size=14}}]{Neo Tech Std}J};
+		\node[black] at (9.5,6) {\fontspec[SizeFeatures={{Size=14}}]{Neo Tech Std}P};
+		\node[black] at (9.5,4) {\fontspec[SizeFeatures={{Size=14}}]{Neo Tech Std}P};
+		\node[black] at (9.5,2) {\fontspec[SizeFeatures={{Size=14}}]{Neo Tech Std}J};
+		
+		%% BOTTOM LETTERS
+		\node[black] at (2,.5) {\fontspec[SizeFeatures={{Size=14}}]{Neo Tech Std}T};
+		\node[black] at (4,.5) {\fontspec[SizeFeatures={{Size=14}}]{Neo Tech Std}F};
+		\node[black] at (6,.5) {\fontspec[SizeFeatures={{Size=14}}]{Neo Tech Std}F};
+		\node[black] at (8,.5) {\fontspec[SizeFeatures={{Size=14}}]{Neo Tech Std}T};
+		
+		%% TYPE INDICATORS
+		\node[black] at (2,8) {\fontspec[SizeFeatures={{Size=14}}]{Neo Tech Std}ISTJ};
+		\node[black] at (2,6) {\fontspec[SizeFeatures={{Size=14}}]{Neo Tech Std}ISTP};
+		\node[black] at (2,4) {\fontspec[SizeFeatures={{Size=14}}]{Neo Tech Std}ESTP};
+		\node[black] at (2,2) {\fontspec[SizeFeatures={{Size=14}}]{Neo Tech Std}ESTJ};
+		
+		\node[black] at (4,8) {\fontspec[SizeFeatures={{Size=14}}]{Neo Tech Std}ISFJ};
+		\node[black] at (4,6) {\fontspec[SizeFeatures={{Size=14}}]{Neo Tech Std}ISFP};
+		\node[black] at (4,4) {\fontspec[SizeFeatures={{Size=14}}]{Neo Tech Std}ESFP};
+		\node[black] at (4,2) {\fontspec[SizeFeatures={{Size=14}}]{Neo Tech Std}ESFJ};
+		
+		\node[black] at (6,8) {\fontspec[SizeFeatures={{Size=14}}]{Neo Tech Std}INFJ};
+		\node[black] at (6,6) {\fontspec[SizeFeatures={{Size=14}}]{Neo Tech Std}INFP};
+		\node[black] at (6,4) {\fontspec[SizeFeatures={{Size=14}}]{Neo Tech Std}ENFP};
+		\node[black] at (6,2) {\fontspec[SizeFeatures={{Size=14}}]{Neo Tech Std}ENFJ};
+		
+		\node[black] at (8,8) {\fontspec[SizeFeatures={{Size=14}}]{Neo Tech Std}INTJ};
+		\node[black] at (8,6) {\fontspec[SizeFeatures={{Size=14}}]{Neo Tech Std}INTP};
+		\node[black] at (8,4) {\fontspec[SizeFeatures={{Size=14}}]{Neo Tech Std}ENTP};
+		\node[black] at (8,2) {\fontspec[SizeFeatures={{Size=14}}]{Neo Tech Std}ENTJ};
+	\end{tikzpicture}
+	\caption[Jungs Type Indicator]{Skematisk opstilling af de 16 mulige personligheder som tillades jf. Jungs teori, \citep{Ringstad:2002}.}
+	\label{fig:MBTI}
+\end{figure}
+
+Skeler man til disse personlighedstyper når man sammensætter grupper vil man opnå mere harmoniske grupper hvori eleverne vil kunne opnå bedre resultater fordi man som underviser kan give gruppe en bedre dynamik hvor eleverne ikke som udgangspunkt vil modarbejde hinanden men naturligt vil kunne indgå et konstruktivt samarbejde. Fra \figref{MBTI} ses det at type matricen har et lag mere, den er farvekodet og dette er ikke tilfældige farver. Disse farver kommer fra \citet[s. 121]{DDS:2006}, her arbejdes der med de fire ledertyper. Ledertyperne er kategoriseret på baggrund af de to midderste bogstaver i JTI/MBTI typen. Således kan der opbygges følgende fire kategorier, i \tblref{DDS:seek} søger alle typerne:
+
+\begin{table}[h!]
+	\centering
+	\caption[De fire ledertyper fra \citep{DDS:2006} søger]{De fire ledertyper fra \citet{DDS:2006}, baseret på JTI/MBTI, søger:}
+	\label{tbl:DDS:seek}
+	\begin{tabular}{@{ } p{3.25cm} p{3.25cm} p{3.25cm} p{3.25cm} @{ }}
+		\toprule[2pt]
+			Røde			& Gule			& Grønne				& Blå\\
+			Sanse-/tænketypen	& Sanse-/føletypen	& Intuitions-/føletypen	& \mbox{Intuitions-/}\mbox{tænketypen}\\
+		\midrule[1.25pt]
+			At overvåge gruppens udvikling ved hjælp af budgetter, regnskaber, medlemstal osv.	&	At bruge afprøvede og gennemtænkte metoder	&	At fremme glæde, harmoni og nyskabelse	&	At få gruppen til at fokusere på fremtiden\\
+		\midrule[.5pt]
+			At styre udgifter og handlingsplaner	&	At anvende sine erfaringer på praktiske opgaver	&	At udfører arbejder der åbner mulighed for ny viden og udvikling	&	At kæde planer, metoder og modeller sammen\\
+		\midrule[.5pt]
+			At vise håndgribelige resultater	&	At fordele arbejdet retfærdigt	&	At kommunikere på kreative måder	&	at finde muligheder for udvikling i gruppen\\
+		\midrule[.5pt]
+			At anvende afprøvede metoder til at skabe succes	& At gennemgå planer og materialer som andre har udformet, for at finde frem til hvad der virker bedst	&	At skaffe sig indsigt i ting der er betydningsfulde for gruppens medlemmer	&	At undersøge komplekse problemers langsigtede virkning\\
+		\midrule[.5pt]	
+			At løse problemer med det samme	&		&	At arbejde på mange forskellige måder for at få succes	&	At diskutere udfordrende spørgsmål\\
+		\bottomrule[2pt]
+	\end{tabular}
+\end{table}
+
+På samme vis har de fire ledertyper også ting som de undgår, disse ting fremgår af \tblref{DDS:avoid}
+
+\begin{table}[h!]
+	\centering
+	\caption[De fire ledertyper fra \citep{DDS:2006}]{De fire ledertyper fra \citet{DDS:2006}, baseret på JTI/MBTI, undgår:}
+	\label{tbl:DDS:avoid}
+	\begin{tabular}{@{ } p{3.25cm} p{3.25cm} p{3.25cm} p{3.25cm} @{ }}
+		\toprule[2pt]
+			Røde			& Gule			& Grønne				& Blå\\
+			Sanse-/tænketypen	& Sanse-/føletypen	& Intuitions-/føletypen	& \mbox{Intuitions-/}\mbox{tænketypen}\\
+		\midrule[1.25pt]
+			At deltage i alt forsociale ("langhårede") aktiviteter	&	At anvende nye og uprøvede metoder	&	At tage sig af kontrolfunktioner så som regnskaber	&	At gøre andres arbejde\\
+		\midrule[.5pt]
+			Brainstorm som ikke medfører noget praktisk resulatat	&	At diskuteres forskellige teorierns fordele	&	At opstille hierakier og kommandoveje	&	At kappes med andre om popularitet\\
+		\midrule[.5pt]
+			At opstille hypoteser om fremtiden	&	At analysere og forudsige resultater af strategiske planer	&	Intriger	&	At arbejde med administrative detaljer\\
+		\midrule[.5pt]
+			At anvende uafprøvede og ikke gennemtænkte metoder	&	At komme med kritik i et åbent forum, især i relation til gruppemedlemmer som de kender	&	At tage sig af papirnusseri	&	At udfører rutinearbejde\\
+		\midrule[.5pt]
+			Manglende koncentration om arbejdet	&	At behandle andre mennesker som "udskiftelige manskindele"	&		&	At deltage i alt for sociale ("langhårede") aktiviteter\\
+		\bottomrule[2pt]
+	\end{tabular}
+\end{table}
+Farvelaget i \figref{MBTI} giver os altså informationer om hvilke arbejdsopgaver vi bør give den enkelte elev i et gruppearbejde. Dette benyttes allerede når man f.eks. sammensætter grupper efter Cooperative Learning (CO) princippet. Her pålægger man de dygtigste elever at hjælpe de mindre dygtige elever, her ved bliver de dygtige elever bedre da de formidler stoffet for deres kammerater, og de mindre dygtige elever bliver også bedre da de får  mere undervisning. Hermed sikres god progression som følge af en differentiering af undervisningen. Hvis man udvider den CL tanke til gruppe arbejde samtidig med at man bevidst anvender JTI/MBTI i forhold til gruppe dannelse opnår man at eleverne i gruppe arbejdet opnår en slags team-sprit. 
