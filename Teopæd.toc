@@ -9,27 +9,34 @@
 \contentsline {subsection}{\numberline {4.2.1}~Mening - Hvorfor?}{5}{subsection.4.2.1}
 \contentsline {subsection}{\numberline {4.2.2}~Koncepter - Hvad?}{6}{subsection.4.2.2}
 \contentsline {subsection}{\numberline {4.2.3}~F\IeC {\ae }rdigheder - Hvordan?}{7}{subsection.4.2.3}
-\contentsline {section}{\numberline {4.3}~Motivation}{7}{section.4.3}
-\contentsline {chapter}{\numberline {5}L\IeC {\ae }ringsstile i klassen}{9}{chapter.5}
-\contentsline {section}{\numberline {5.1}Elevtyper}{9}{section.5.1}
-\contentsline {chapter}{\numberline {6}Jungs Type Indikator}{10}{chapter.6}
-\contentsline {chapter}{\numberline {7}Didaktisk-teoretiske overvejelser om forl\IeC {\o }bet}{13}{chapter.7}
-\contentsline {section}{\numberline {7.1}Forl\IeC {\o }bets teoretiske udgangspunkt}{13}{section.7.1}
-\contentsline {section}{\numberline {7.2}Den faglige progression}{14}{section.7.2}
-\contentsline {chapter}{\numberline {8}Analyse og diskussion af den faglige progression}{15}{chapter.8}
-\contentsline {chapter}{\numberline {9}Evaluering af forl\IeC {\o }bet}{16}{chapter.9}
-\contentsline {section}{\numberline {9.1}Forl\IeC {\o }bets afvikling i 2bm}{16}{section.9.1}
-\contentsline {chapter}{\numberline {10}Konklusion}{20}{chapter.10}
-\contentsline {chapter}{\numberline {A}Undervisnings forl\IeC {\o }bet Verdensbilleder}{21}{appendix.A}
-\contentsline {section}{\numberline {A.1}Form\r al:}{21}{section.A.1}
-\contentsline {section}{\numberline {A.2}Indhold:}{21}{section.A.2}
-\contentsline {section}{\numberline {A.3}Metode:}{21}{section.A.3}
-\contentsline {section}{\numberline {A.4}Materiale:}{21}{section.A.4}
-\contentsline {section}{\numberline {A.5}Evaluering:}{21}{section.A.5}
-\contentsline {section}{\numberline {A.6}Modul plan:}{21}{section.A.6}
-\contentsline {chapter}{\numberline {B}Evaluering af forl\IeC {\o }bet Verdensbilleder}{27}{appendix.B}
-\contentsline {section}{\numberline {B.1}Evaluering af forl\IeC {\o }bet verdensbilleder}{27}{section.B.1}
-\contentsline {section}{\numberline {B.2}Evaluering af timerne}{27}{section.B.2}
-\contentsline {section}{\numberline {B.3}Evaluering af arbejdsformerne}{27}{section.B.3}
-\contentsline {section}{\numberline {B.4}Evaluering af Klassen}{28}{section.B.4}
-\contentsline {section}{\numberline {B.5}Forbedringer}{29}{section.B.5}
+\contentsline {subsection}{\numberline {4.2.4}~Anvendelse - Hvad nu hvis?}{7}{subsection.4.2.4}
+\contentsline {subsection}{\numberline {4.2.5}~4MAT en innovativ processtyrrings model}{8}{subsection.4.2.5}
+\contentsline {subsection}{\numberline {4.2.6}~4MAT og l\IeC {\ae }ringsstile}{8}{subsection.4.2.6}
+\contentsline {subsubsection}{~L\IeC {\ae }ringsstil 1 - Hvorfor-typen}{8}{subsubsection*.12}
+\contentsline {subsubsection}{~L\IeC {\ae }ringsstil 2 - Hvad-typen}{8}{subsubsection*.13}
+\contentsline {subsubsection}{~L\IeC {\ae }ringsstil 3 - Hvordan-typen}{9}{subsubsection*.14}
+\contentsline {subsubsection}{~L\IeC {\ae }ringsstil 4 - Hvad nu hvis-typen}{9}{subsubsection*.15}
+\contentsline {section}{\numberline {4.3}~Motivation}{9}{section.4.3}
+\contentsline {chapter}{\numberline {5}L\IeC {\ae }ringsstile i klassen}{10}{chapter.5}
+\contentsline {section}{\numberline {5.1}Elevtyper}{10}{section.5.1}
+\contentsline {chapter}{\numberline {6}Jungs Type Indikator}{11}{chapter.6}
+\contentsline {chapter}{\numberline {7}Didaktisk-teoretiske overvejelser om forl\IeC {\o }bet}{14}{chapter.7}
+\contentsline {section}{\numberline {7.1}Forl\IeC {\o }bets teoretiske udgangspunkt}{14}{section.7.1}
+\contentsline {section}{\numberline {7.2}Den faglige progression}{15}{section.7.2}
+\contentsline {chapter}{\numberline {8}Analyse og diskussion af den faglige progression}{16}{chapter.8}
+\contentsline {chapter}{\numberline {9}Evaluering af forl\IeC {\o }bet}{17}{chapter.9}
+\contentsline {section}{\numberline {9.1}Forl\IeC {\o }bets afvikling i 2bm}{17}{section.9.1}
+\contentsline {chapter}{\numberline {10}Konklusion}{21}{chapter.10}
+\contentsline {chapter}{\numberline {A}Undervisnings forl\IeC {\o }bet Verdensbilleder}{22}{appendix.A}
+\contentsline {section}{\numberline {A.1}Form\r al:}{22}{section.A.1}
+\contentsline {section}{\numberline {A.2}Indhold:}{22}{section.A.2}
+\contentsline {section}{\numberline {A.3}Metode:}{22}{section.A.3}
+\contentsline {section}{\numberline {A.4}Materiale:}{22}{section.A.4}
+\contentsline {section}{\numberline {A.5}Evaluering:}{22}{section.A.5}
+\contentsline {section}{\numberline {A.6}Modul plan:}{22}{section.A.6}
+\contentsline {chapter}{\numberline {B}Evaluering af forl\IeC {\o }bet Verdensbilleder}{28}{appendix.B}
+\contentsline {section}{\numberline {B.1}Evaluering af forl\IeC {\o }bet verdensbilleder}{28}{section.B.1}
+\contentsline {section}{\numberline {B.2}Evaluering af timerne}{28}{section.B.2}
+\contentsline {section}{\numberline {B.3}Evaluering af arbejdsformerne}{28}{section.B.3}
+\contentsline {section}{\numberline {B.4}Evaluering af Klassen}{29}{section.B.4}
+\contentsline {section}{\numberline {B.5}Forbedringer}{30}{section.B.5}

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.3-0.9997.5 (TeX Live 2011) (format=xelatex 2011.7.3)  20 MAR 2013 11:13
+This is XeTeX, Version 3.1415926-2.3-0.9997.5 (TeX Live 2011) (format=xelatex 2011.7.3)  20 MAR 2013 13:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1367,23 +1367,24 @@ LaTeX Font Info:    Try loading font information for U+lasy on input line 7.
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
-))
+) [3
+
+])
 \tf@toc=\write5
 \openout5 = `Teopæd.toc'.
 
- [3
-
-] (./Teopæd.lot)
+ [4]
+(./Teopæd.lot)
 \tf@lot=\write6
 \openout6 = `Teopæd.lot'.
 
- [4
+ [5
 
 ] (./Teopæd.lof)
 \tf@lof=\write7
 \openout7 = `Teopæd.lof'.
 
- [5
+ [6
 
 ]
 \openout2 = `chapters/Introduktion.aux'.
@@ -1479,16 +1480,17 @@ le
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 ) [5] (./figures/4MAT-blue.tex) (./figures/4MAT-green.tex [6])
-Overfull \hbox (24.24567pt too wide) in paragraph at lines 43--67
+(./figures/4MAT-yellow.tex) [7] [8]
+Overfull \hbox (24.24567pt too wide) in paragraph at lines 74--98
  [][] 
  []
 
-) [7] [8]
+) [9]
 \openout2 = `chapters/ringsstile.aux'.
 
  (./chapters/ringsstile.tex
 Kapitel 5.
-) [9
+) [10
 
 
 
@@ -1518,7 +1520,7 @@ LaTeX Font Warning: Font shape `EU1/NeoTechStd(3)/m/n' in size <10> not availab
 le
 (Font)              size <14> substituted on input line 63.
 
-[10
+[11
 
 
 
@@ -1630,7 +1632,7 @@ Underfull \hbox (badness 1117) in paragraph at lines 155--156
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) [11] [12]
+) [12] [13]
 \openout2 = `chapters/Didaktik.aux'.
 
  (./chapters/Didaktik.tex
@@ -1645,16 +1647,16 @@ File: figures/kolbstyle.eps Graphic file (type eps)
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[13
+[14
 
 
 
-]) [14]
+]) [15]
 \openout2 = `chapters/Analyse.aux'.
 
  (./chapters/Analyse.tex
 Kapitel 8.
-) [15
+) [16
 
 
 
@@ -1690,11 +1692,11 @@ File: figures/Verdensbilleder.eps Graphic file (type eps)
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) [16
+) [17
 
 
 
-] [17] [18] [19]
+] [18] [19] [20]
 \openout2 = `chapters/konklusion.aux'.
 
  (./chapters/konklusion.tex
@@ -1706,7 +1708,7 @@ Package FiXme Warning: \fixme is deprecated;
 
 FiXme Fatal Error: 'Konklusionen' on input line 4.
 
-) [20
+) [21
 
 
 
@@ -1934,20 +1936,20 @@ Underfull \hbox (badness 1112) in paragraph at lines 200--200
 \EU1/lmss/m/n/10 skrive rapport i og stille
  []
 
-) [21
+) [22
 
 
 
-] [22] [23] [24] [25] [26]
+] [23] [24] [25] [26] [27]
 \openout2 = `appendix/Sporgeskema.aux'.
 
  (./appendix/Sporgeskema.tex
 Bilag B.
-[27
+[28
 
 
 
-] [28]) [29] (./Teopæd.bbl
+] [29]) [30] (./Teopæd.bbl
 LaTeX Font Info:    Font shape `EU1/lmss/m/it' in size <10> not available
 (Font)              Font shape `EU1/lmss/m/sl' tried instead on input line 13.
 )
@@ -1962,7 +1964,7 @@ FiXme Summary: Number of notes: 0,
 (FiXme)        Total: 2.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 150.
-[30
+[31
 
 
 
@@ -1983,15 +1985,18 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 150.
  ) 
 Here is how much of TeX's memory you used:
- 29104 strings out of 494150
- 507717 string characters out of 3152950
- 695877 words of memory out of 3000000
- 31720 multiletter control sequences out of 15000+200000
+ 29113 strings out of 494150
+ 507891 string characters out of 3152950
+ 695904 words of memory out of 3000000
+ 31726 multiletter control sequences out of 15000+200000
  5575 words of font info for 70 fonts, out of 3000000 for 9000
  1018 hyphenation exceptions out of 8191
  56i,11n,92p,2232b,1157s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on Teopæd.pdf (36 pages).
+Output written on Teopæd.pdf (38 pages).
