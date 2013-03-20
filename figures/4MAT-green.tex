@@ -1,0 +1,78 @@
+\begin{figure}[h]
+	\centering
+	\begin{tikzpicture}
+		%\draw[very thin, lightgray, step=1mm] (0,0) grid (10,10);
+		%\draw[thin, gray, step=5mm] (0,0) grid (10,10);
+		%\draw[thick, darkgray, step=10mm] (0,0) grid (10,10);
+		
+		\clip (0,0) rectangle (5,5);
+		
+		% DRAW COORDINATES SYSTEM
+		\draw[very thick, darkgray] (0,5) -- (10,5) (5,0) -- (5,10);
+		
+		%DRAW RED PART
+		\filldraw[fill=red, draw=darkgray, very thick] (5,5) -- (5,9) arc (90:0:4cm) -- cycle;
+		%\draw[draw=darkgray, very thick] (5,5) -- (5,9) arc (90:0:4cm) -- cycle;
+		\draw[darkgray, very thick] (5,9.5) arc (90:0:4.5cm);
+		\draw[white,very thick] (5,8) arc (90:0:3cm);
+		\draw[white, dashed, very thick] (5,5) -- (7.1,7.1);
+		\node[white] at (6,7) {Forbinde};
+		\node[white] at (7,5.75) {Deltage};
+		\node[font=\Large ,white] at (5.25,8.75) {1};
+		\node[font={\Large \bfseries}, black,rotate=-45] at (7.5,7.5) {Hvorfor?};
+		%\filldraw[fill=red, draw=red, very thick] (8.35,8) -- (8.1,8.5) --(7.9,8.3) --  cycle;
+		\node[font=\LARGE,rotate=-45] at (8.5,8.5) {Mening};
+		
+		
+		% DRAW BLUE PART
+		\filldraw[fill=blue, draw=darkgray, very thick, rotate=-90] (-5,5) -- (-1,5) arc (0:90:4cm) -- cycle;
+		%\draw[draw=darkgray, very thick, rotate=-90] (-5,5) -- (-1,5) arc (0:90:4cm) -- cycle;
+		\draw[draw=darkgray, very thick, rotate=-90] (-.5,5) arc (0:90:4.5cm);
+		\draw[white, very thick,rotate=-90] (-2,5) arc (0:90:3cm);
+		\draw[white, dashed, very thick] (5,5) -- (7.1,2.9);
+		\node[white] at (7,4.25) {Forestille};
+		\node[white] at (7,3.75) {sig};
+		\node[white] at (6, 3) {Informere};
+		\node[font=\Large,white] at ( 8.75,4.75) {2};
+		\node[font={\Large \bfseries},black,rotate=45] at (7.5,2.5) {Hvad?};
+		%\filldraw[fill=blue, draw=blue, very thick] (8,1.65) -- (8.45,1.8) -- (8.2,2.1) -- cycle;
+		\node[font=\LARGE,rotate=45] at (8.5,1.5) {Koncepter};
+		
+		% DRAW GREEN PART
+		\filldraw[fill=green!95!black, draw=darkgray, very thick, rotate=-90] (-5,5) -- (-5,1) arc (-90:0:4cm) -- cycle;
+		%\draw[ draw=darkgray, very thick, rotate=-90] (-5,5) -- (-5,1) arc (-90:0:4cm) -- cycle;
+		\draw[darkgray, very thick, rotate=-90] (-5,.5) arc (-90:0:4.5cm);
+		\draw[white, very thick, rotate=-90] (-5,2) arc (-90:0:3cm);
+		\draw[white, very thick, dashed] (5,5) -- (2.9,2.9);
+		\node[white] at (4,3) {Øve};
+		\node[white] at (3,4.25) {Udvide};
+		\node[font=\Large, white] at (4.75,1.25) {3};
+		\node[font={\Large \bfseries}, black,rotate=-45] at (2.5,2.5) {Hvordan?};
+		\node[font=\LARGE, rotate=-45] at (1.5,1.5) {Færdigheder};
+		
+		% DRAW YELLOW PART
+		\filldraw[fill=yellow!90!red, draw=darkgray, very thick, rotate=180] (-5,-5) -- (-5,-9) arc (-90:0:4cm) -- cycle;
+		%\draw[draw=darkgray, very thick, rotate=180] (-5,-5) -- (-5,-9) arc (-90:0:4cm) -- cycle;
+		\draw[darkgray, very thick, rotate=180] ( -5,-9.5) arc (-90:0:4.5cm);
+		\draw[white, very thick, rotate=180] (-5,-8) arc (-90:0:3cm);
+		\draw[white, very thick, dashed] (5,5) -- (2.9,7.1);
+		\node[white] at (3,5.75) {Forfine};
+		\node[white] at (4,7) {Udføre};
+		\node[font=\Large,white] at (1.25,5.25) {4};
+		\node[font={\Large \bfseries},black, rotate=45] at (2.6,7.4) {Hvad nu hvis?};
+		\node[font=\LARGE, rotate=45] at (1.5,8.5) {Anvendelse};
+		% DRAWS A CIRCLE
+		\filldraw[fill=white, draw=darkgray, very thick] (5,5) circle (1.5cm);
+		\draw[dashed, darkgray, very thick] (5.2,5.2) -- (6.05,6.05) (5.3,5) -- (6.5,5) (4.8,5.2) -- (3.95,6.05) (5,5.3) -- (5,6.5) (5.2,4.8) -- (6.05,3.95) (5,4.7) -- (5,3.5) (4.8,4.8) -- (3.95,3.95) (4.7, 5) -- (3.5,5);
+		\node[darkgray] at (5.4, 6) {H};
+		\node[darkgray] at (4.6, 6) {H};
+		\node[darkgray] at (4, 4.6) {H};
+		\node[darkgray] at (6, 4.6) {H};
+		\node[darkgray] at (5.4, 4) {V};
+		\node[darkgray] at (4.6, 4) {V};
+		\node[darkgray] at (4, 5.4) {V};
+		\node[darkgray] at (6, 5.4) {V};
+	\end{tikzpicture}	
+	\caption[4MAT - Hvordan?]{4MAT modellens udvikling af færdighed gennem det anvendelses orienterede didaktiske spørgsmål Hvordan?}
+	\label{fig:4MAT:green}
+\end{figure}
