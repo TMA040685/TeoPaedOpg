@@ -14,48 +14,56 @@ A level-1 auxiliary file: chapters/konklusion.aux
 A level-1 auxiliary file: appendix/Verdensbilleder.aux
 A level-1 auxiliary file: appendix/Sporgeskema.aux
 Database file #1: bibliografi/bibliografi.bib
+Warning--entry type for "Fasting:2006" isn't style-file defined
+--line 96 of file bibliografi/bibliografi.bib
+Warning--entry type for "STXbek" isn't style-file defined
+--line 123 of file bibliografi/bibliografi.bib
 Warning--I didn't find a database entry for "JHT10"
+Warning--empty journal in Beck:2010
+Warning--there's a number but no volume in Christensen:2006
+Warning--empty year in Fasting:2006
 Warning--can't use both author and editor fields in Gympd
 Warning--can't use both author and editor fields in Kolb:1984
-You've used 18 entries,
+Warning--there's a number but no volume in Krogh:2010
+You've used 31 entries,
             2251 wiz_defined-function locations,
-            604 strings with 6849 characters,
-and the built_in function-call counts, 7243 in all, are:
-= -- 644
-> -- 453
-< -- 19
-+ -- 164
-- -- 164
-* -- 697
-:= -- 1329
+            673 strings with 8414 characters,
+and the built_in function-call counts, 11796 in all, are:
+= -- 1066
+> -- 640
+< -- 34
++ -- 228
+- -- 226
+* -- 1099
+:= -- 2126
 add.period$ -- 0
-call.type$ -- 18
-change.case$ -- 156
-chr.to.int$ -- 18
-cite$ -- 20
-duplicate$ -- 253
-empty$ -- 399
-format.name$ -- 192
-if$ -- 1343
+call.type$ -- 31
+change.case$ -- 239
+chr.to.int$ -- 31
+cite$ -- 37
+duplicate$ -- 449
+empty$ -- 711
+format.name$ -- 271
+if$ -- 2231
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 28
-newline$ -- 86
-num.names$ -- 54
-pop$ -- 169
+missing$ -- 46
+newline$ -- 144
+num.names$ -- 93
+pop$ -- 282
 preamble$ -- 1
-purify$ -- 172
+purify$ -- 268
 quote$ -- 0
-skip$ -- 187
+skip$ -- 327
 stack$ -- 0
-substring$ -- 276
-swap$ -- 48
-text.length$ -- 3
+substring$ -- 513
+swap$ -- 95
+text.length$ -- 9
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 86
-warning$ -- 2
-while$ -- 42
+type$ -- 150
+warning$ -- 6
+while$ -- 74
 width$ -- 0
-write$ -- 219
-(There were 3 warnings)
+write$ -- 368
+(There were 9 warnings)

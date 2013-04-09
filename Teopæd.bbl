@@ -13,6 +13,25 @@
 \newblock {\em Lederh{\aa}ndbogen},
 \newblock Det Danske Spejderkorps
 
+\bibitem[\protect\astroncite{{Alstrup} et~al.}{1997}]{Alstrup:1997}
+{Alstrup}, N., {Christensen}, I., {Darum}, J., {Hasselager}, A., {Iversen},
+  E.~H., {Petersen}, M., {Rasmussen}, I., and {Vistisen}, J.: 1997,
+\newblock {\em I bev{\ae}gelse - en bog om spejderledelse},
+\newblock Det Danske Spejderkorps
+
+\bibitem[\protect\astroncite{Beck}{2010}]{Beck:2010}
+Beck, S.: 2010
+
+\bibitem[\protect\astroncite{{Beck} and {Beck}}{2005}]{Beck:2005}
+{Beck}, S. and {Beck}, H.~R.: 2005,
+\newblock {\em Gyldendals Studiebog},
+\newblock Gyldendal
+
+\bibitem[\protect\astroncite{{Beck} et~al.}{2011}]{beck:2011}
+{Beck}, S., {Hansen}, J.~D., {Lind}, A., and {Lyng}, M.: 2011,
+\newblock {\em Studiebogen til HHX},
+\newblock Gyldendal
+
 \bibitem[\protect\astroncite{{Benoni} and {Elvekj{\ae}r}}{2011}]{Benoni:2011}
 {Benoni}, T. and {Elvekj{\ae}r}, F.: 2011,
 \newblock {\em FysikABbogen 1},
@@ -23,6 +42,15 @@
 \newblock {\em Det vurderende {\o}je},
 \newblock Gyldendal Akademisk, Oslo
 
+\bibitem[\protect\astroncite{{Bybee}}{2006}]{Flick:2006}
+{Bybee}, R.~E.: 2006,
+\newblock {\em Scientific Inquery and Nature of Science}, Chapt.~1, pp 1 -- 14,
+\newblock Springer
+
+\bibitem[\protect\astroncite{{Christensen} et~al.}{2006}]{Christensen:2006}
+{Christensen}, B.~L., {Dalsgaard}, B., {Knudsen}, H., and {Munk}, A.: 2006,
+\newblock {\em Gymnasiep{\ae}dagogik} (57)
+
 \bibitem[\protect\astroncite{Dewey}{1938}]{Dewey:1978}
 Dewey, J.: 1978/1938,
 \newblock {\em Erfaring og opdragelse},
@@ -31,6 +59,10 @@ Dewey, J.: 1978/1938,
 \bibitem[\protect\astroncite{Dolin}{2007}]{Dolin:2007M}
 Dolin, J.: 2007,
 \newblock {\em MONA} {\bf 2}, 20
+
+\bibitem[\protect\astroncite{{Fasting} and {Thygesen}}{}]{Fasting:2006}
+{Fasting}, R.~B. and {Thygesen}, R.,
+\newblock {\em Skrivehjulet: En modell for elevers skrivekompetanse}
 
 \bibitem[\protect\astroncite{Harlen}{2011}]{Harlen:2011:M}
 Harlen, W.: 2011,
@@ -81,6 +113,19 @@ Kolb, D.: 1984,
   Development},
 \newblock Prentice Hall
 
+\bibitem[\protect\astroncite{{Krathwool}}{2002}]{Krathwool:2002}
+{Krathwool}, D.~R.: 2002,
+\newblock {\em Theory into practice} {\bf 41(4)}, 212
+
+\bibitem[\protect\astroncite{Krogh}{2010}]{Krogh:2010}
+Krogh, E.: 2010,
+\newblock {\em Gymnasiep{\ae}dagogik} {\bf (77)}, 34 ff
+
+\bibitem[\protect\astroncite{Meyer}{2008}]{Meyer:2008}
+Meyer, H.: 2008,
+\newblock {\em Hvad er god undervisning?}, Chapt.~1,
+\newblock Gyldendal
+
 \bibitem[\protect\astroncite{Michelsen}{2011}]{Michelsen:2011M}
 Michelsen, C.: 2011,
 \newblock {\em MONA} {\bf 3}, 72
@@ -95,9 +140,26 @@ Michelsen, C.: 2011,
 \newblock {\em Gifts Differing: Understanding Personality Type.},
 \newblock Davies-Black Publishing, Mountain View CA
 
+\bibitem[\protect\astroncite{{Plauborg} et~al.}{2010}]{leder:2010}
+{Plauborg}, H., {Andersen}, J.~V., {Ingerslev}, G.~H., and {Laursen}, P.~F.:
+  2010,
+\newblock {\em L{\ae}reren som leder}, Chapt. 4 Forebyggende strategier og
+  fokus p{\aa} elevernes l{\ae}ring og motivation,
+\newblock Hans Reizels Forlag
+
 \bibitem[\protect\astroncite{Ringstad}{2002}]{Ringstad:2002}
 Ringstad, H.~E.: 2002,
 \newblock {\em Understanding Jungian Type - A practical guide},
 \newblock Optimas organisasjonspsykologene as
+
+\bibitem[\protect\astroncite{UVM.dk}{2013}]{STXbek}
+UVM.dk: 2013,
+\newblock {\em Bekendtg{\o}relsen for STX}
+
+\bibitem[\protect\astroncite{{Watson}}{2000}]{Warson:2000}
+{Watson}, R.: 2000,
+\newblock {\em Good practice in science teaching - What research has to say},
+  Chapt.~4, pp 57 -- 71,
+\newblock Open University Press, Buckingham, Philadelphia
 
 \end{thebibliography}
