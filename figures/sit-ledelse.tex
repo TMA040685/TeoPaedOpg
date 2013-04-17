@@ -1,0 +1,50 @@
+\begin{figure}[h!]
+	\centering
+	\begin{tikzpicture}
+		% DEFINE COORDINATE SYSTEM FOR DRAWING
+		%\draw[thin, draw=LightSkyBlue, anchor=south west, step=1mm] (0,0) grid (10,10);
+		%\draw[draw=blue,anchor=south west, step=5mm] (0,0) grid (10,10);
+		%\draw[thick,draw=SkyBlue,anchor=south west, step=10mm] (0,0) grid (10,10);
+
+		% DEFINE COLORS FOR SQUARES
+		\definecolor{r1}{cmyk}{0.08,0.36,0.21,0}
+		\definecolor{y1}{cmyk}{0.02,0.21,0.33,0}
+		\definecolor{g1}{cmyk}{0.2,0.04,0.36,0}
+		\definecolor{b1}{cmyk}{0.33,0.14,0.01,0}
+		
+		% DEFINE SQUARES
+		\filldraw[fill=g1!75, draw=black, fill opacity=0.5] (1,1) rectangle (5,5);
+		\filldraw[fill=r1!75, draw=black, fill opacity=0.5] (5,1) rectangle (9,5);
+		\filldraw[fill=y1!75, draw=black, fill opacity=0.5] (1,5) rectangle (5,9);
+		\filldraw[fill=b1!75, draw=black, fill opacity=0.5] (5,5) rectangle (9,9);
+		
+		% NAMING THE SQUARES
+		\node[black] at (5.5,4.5) {\fontspec{Neo Tech Std}S1};
+		\node[black] at (5.5,5.5) {\fontspec{Neo Tech Std}S2};
+		\node[black] at (4.5,5.5) {\fontspec{Neo Tech Std}S3};
+		\node[black] at (4.5,4.5) {\fontspec{Neo Tech Std}S4};
+		
+		% DEFINE AXIS
+		\node[black] at (.5,.5) {Lav grad};
+		\node[black] at (9.5,.5) {H¿j grad};
+		\node[black] at (.5,9.5) {H¿j grad};
+		\node[black] at (5,.5) {Instruerende adf¾rd};
+		\node[black,rotate=90] at (.5,5) {St¿ttende adf¾rd};
+		\draw[very thick, ->] (1.2,.5) -- (3.4,.5) (6.6,.5) -- (8.7,.5);
+		\draw[very thick, ->] (.5,1) -- (.5,3.6) (.5,6.4) -- (.5,9);
+		
+		% DRAW ARROW IN S1 - S4
+		\draw[draw=MGB, ->, very thick] (9,2) .. controls (7,2.5) and (6.5,3) ..  (6.5,5); 
+		\draw[draw=MGR, ->, very thick] (6.5,5) .. controls (6.5,7) and (6,8) .. (5,8);
+		\draw[draw=MGB, ->, very thick] (5,8) .. controls (4,8) and (3.5,7) .. (3.5,5);
+		\draw[draw=MGR, ->, very thick] (3.5,5) .. controls (3.5,3) and (3,2.5) ..  (1,2); 
+		
+		% TITLES IN S1 - S4
+		\node[black,right] at (5.5,1.5) {\fontspec{Neo Tech Std}\MakeUppercase{instruerende}};
+		\node[black,right] at (5.5,8.5) {\fontspec{Neo Tech Std}\MakeUppercase{Coachende}};
+		\node[black,right] at (1.5,8.5) {\fontspec{Neo Tech Std}\MakeUppercase{st¿ttende}};
+		\node[black,right] at (1.5,1.5) {\fontspec{Neo Tech Std}\MakeUppercase{delegerende}};
+	\end{tikzpicture}
+	\caption[Situationsbestemt ledelse]{De fire ledelsesstile - lederens rolle \citep{DDS:2006}}
+	\label{fig:sit:led1}
+\end{figure}
