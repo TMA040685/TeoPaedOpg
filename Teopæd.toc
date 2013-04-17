@@ -6,7 +6,8 @@
 \contentsline {subsection}{\numberline {1.1.2}~m optaget august 2012}{2}{subsection.1.1.2}
 \contentsline {section}{\numberline {1.2}JTI/MBTI}{2}{section.1.2}
 \contentsline {chapter}{\numberline {2}Problemformulering}{5}{chapter.2}
-\contentsline {section}{\numberline {2.1}~Opgavens motivation}{5}{section.2.1}
+\contentsline {section}{\numberline {2.1}~Problemstilling \& afgr\IeC {\ae }nsning}{5}{section.2.1}
+\contentsline {section}{\numberline {2.2}~Opgavens motivation}{5}{section.2.2}
 \contentsline {chapter}{\numberline {3}Progression og Metode i opgaven}{7}{chapter.3}
 \contentsline {chapter}{\numberline {4}Begrebsafklaring}{9}{chapter.4}
 \contentsline {section}{\numberline {4.1}~L\IeC {\ae }ring}{9}{section.4.1}

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.3-0.9997.5 (TeX Live 2011) (format=xelatex 2011.7.3)  17 APR 2013 07:21
+This is XeTeX, Version 3.1415926-2.3-0.9997.5 (TeX Live 2011) (format=xelatex 2011.7.3)  17 APR 2013 17:31
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1124,9 +1124,12 @@ Package: wrapfig 2003/01/31  v 3.6
 \openout2 = `bibliografi/abbrivations.aux'.
 
 (./bibliografi/abbrivations.tex) (./Teopæd.aux (./chapters/Introduktion.aux)
-(./chapters/problemformulering.aux) (./chapters/main.aux)
-(./chapters/ringsstile.aux) (./chapters/Didaktik.aux) (./chapters/Analyse.aux)
-(./chapters/Evaluering.aux) (./chapters/konklusion.aux)
+(./chapters/problemformulering.aux) (./chapters/main.aux
+
+LaTeX Warning: Label `sec:mot' multiply defined.
+
+) (./chapters/ringsstile.aux) (./chapters/Didaktik.aux) (./chapters/Analyse.aux
+) (./chapters/Evaluering.aux) (./chapters/konklusion.aux)
 (./appendix/Verdensbilleder.aux) (./appendix/4MAT.aux)
 (./appendix/Situationsbestemt.aux) (./appendix/Sporgeskema.aux))
 \openout1 = `Teopæd.aux'.
@@ -1617,20 +1620,20 @@ LaTeX Font Info:    Font shape `EU1/lmss/m/it' in size <10> not available
 
  (./chapters/problemformulering.tex
 Kapitel 2.
-) [5
+[5
 
 
 
-]
+]) [6]
 \openout2 = `chapters/main.aux'.
 
- (./chapters/main.tex [6
-
-
-
-]
+ (./chapters/main.tex
 Kapitel 3.
-(./figures/Vurdering.tex) [7] [8
+(./figures/Vurdering.tex) [7
+
+
+
+] [8
 
 ]
 Kapitel 4.
@@ -2033,13 +2036,16 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 156.
  ) 
 Here is how much of TeX's memory you used:
- 29356 strings out of 494150
- 513701 string characters out of 3152950
- 704521 words of memory out of 3000000
- 31930 multiletter control sequences out of 15000+200000
+ 29357 strings out of 494150
+ 513710 string characters out of 3152950
+ 704619 words of memory out of 3000000
+ 31931 multiletter control sequences out of 15000+200000
  5615 words of font info for 75 fonts, out of 3000000 for 9000
  1018 hyphenation exceptions out of 8191
  56i,12n,92p,2232b,1205s stack positions out of 5000i,500n,10000p,200000b,50000s
