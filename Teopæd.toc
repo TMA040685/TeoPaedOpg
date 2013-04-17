@@ -1,49 +1,54 @@
 \select@language {danish}
-\contentsline {chapter}{Forord}{ii}{chapter*.1}
+\contentsline {chapter}{Forord}{v}{chapter*.1}
 \contentsline {chapter}{\numberline {1}Introduktion}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}~Naturvidenskabelige studieretninger}{1}{section.1.1}
-\contentsline {subsection}{\numberline {1.1.1}~2.bm}{1}{subsection.1.1.1}
-\contentsline {subsection}{\numberline {1.1.2}~1.m}{1}{subsection.1.1.2}
-\contentsline {section}{\numberline {1.2}~2 klasser - 60 personligheder}{2}{section.1.2}
-\contentsline {chapter}{\numberline {2}Problemformulering}{3}{chapter.2}
-\contentsline {chapter}{\numberline {3}Progression og Metode i opgaven}{4}{chapter.3}
-\contentsline {chapter}{\numberline {4}Begrebsafklaring}{5}{chapter.4}
-\contentsline {section}{\numberline {4.1}~L\IeC {\ae }ring}{5}{section.4.1}
-\contentsline {section}{\numberline {4.2}~4MAT modellen}{6}{section.4.2}
-\contentsline {subsection}{\numberline {4.2.1}~Mening - Hvorfor?}{6}{subsection.4.2.1}
-\contentsline {subsection}{\numberline {4.2.2}~Koncepter - Hvad?}{7}{subsection.4.2.2}
-\contentsline {subsection}{\numberline {4.2.3}~F\IeC {\ae }rdigheder - Hvordan?}{8}{subsection.4.2.3}
-\contentsline {subsection}{\numberline {4.2.4}~Anvendelse - Hvad nu hvis?}{8}{subsection.4.2.4}
-\contentsline {subsection}{\numberline {4.2.5}~4MAT en innovativ processtyrrings model}{9}{subsection.4.2.5}
-\contentsline {subsection}{\numberline {4.2.6}~4MAT og l\IeC {\ae }ringsstile}{9}{subsection.4.2.6}
-\contentsline {subsubsection}{~L\IeC {\ae }ringsstil 1 - Hvorfor-typen}{9}{subsubsection*.13}
-\contentsline {subsubsection}{~L\IeC {\ae }ringsstil 2 - Hvad-typen}{9}{subsubsection*.14}
-\contentsline {subsubsection}{~L\IeC {\ae }ringsstil 3 - Hvordan-typen}{10}{subsubsection*.15}
-\contentsline {subsubsection}{~L\IeC {\ae }ringsstil 4 - Hvad nu hvis-typen}{10}{subsubsection*.16}
-\contentsline {section}{\numberline {4.3}~Motivation}{10}{section.4.3}
+\contentsline {subsection}{\numberline {1.1.1}~bm optaget august 2011}{2}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1.1.2}~m optaget august 2012}{2}{subsection.1.1.2}
+\contentsline {section}{\numberline {1.2}JTI/MBTI}{2}{section.1.2}
+\contentsline {chapter}{\numberline {2}Problemformulering}{5}{chapter.2}
+\contentsline {section}{\numberline {2.1}~Opgavens motivation}{5}{section.2.1}
+\contentsline {chapter}{\numberline {3}Progression og Metode i opgaven}{7}{chapter.3}
+\contentsline {chapter}{\numberline {4}Begrebsafklaring}{9}{chapter.4}
+\contentsline {section}{\numberline {4.1}~L\IeC {\ae }ring}{9}{section.4.1}
+\contentsline {section}{\numberline {4.2}~Motivation}{10}{section.4.2}
 \contentsline {chapter}{\numberline {5}L\IeC {\ae }ringsstile i klassen}{11}{chapter.5}
 \contentsline {section}{\numberline {5.1}Elevtyper}{11}{section.5.1}
-\contentsline {chapter}{\numberline {6}Jungs Type Indikator}{12}{chapter.6}
-\contentsline {chapter}{\numberline {7}Didaktisk-teoretiske overvejelser om forl\IeC {\o }bet}{15}{chapter.7}
-\contentsline {section}{\numberline {7.1}~Forl\IeC {\o }bets teoretiske udgangspunkt}{15}{section.7.1}
-\contentsline {section}{\numberline {7.2}~Den faglige progression}{16}{section.7.2}
-\contentsline {chapter}{\numberline {8}Analyse og diskussion af den faglige progression}{17}{chapter.8}
-\contentsline {chapter}{\numberline {9}Evaluering af forl\IeC {\o }bet}{18}{chapter.9}
-\contentsline {section}{\numberline {9.1}~Forl\IeC {\o }bets afvikling i 2bm}{18}{section.9.1}
-\contentsline {subsection}{\numberline {9.1.1}Hvordan var gennemf\IeC {\o }rslen af forl\IeC {\o }bet?}{18}{subsection.9.1.1}
-\contentsline {subsection}{\numberline {9.1.2}Hvad kan vi s\r a l\IeC {\ae }re af forl\IeC {\o }bet?}{19}{subsection.9.1.2}
-\contentsline {section}{\numberline {9.2}~Forl\IeC {\o }bets afvikling i 1m}{19}{section.9.2}
-\contentsline {chapter}{\numberline {10}Konklusion}{21}{chapter.10}
-\contentsline {chapter}{\numberline {A}Undervisnings forl\IeC {\o }bet Verdensbilleder}{22}{appendix.A}
-\contentsline {section}{\numberline {A.1}~Form\r al:}{22}{section.A.1}
-\contentsline {section}{\numberline {A.2}~Indhold:}{22}{section.A.2}
-\contentsline {section}{\numberline {A.3}~Metode:}{22}{section.A.3}
-\contentsline {section}{\numberline {A.4}~Materiale:}{22}{section.A.4}
-\contentsline {section}{\numberline {A.5}~Evaluering:}{22}{section.A.5}
-\contentsline {section}{\numberline {A.6}~Modul plan:}{22}{section.A.6}
-\contentsline {chapter}{\numberline {B}Evaluering af forl\IeC {\o }bet Verdensbilleder}{28}{appendix.B}
-\contentsline {section}{\numberline {B.1}~Evaluering af forl\IeC {\o }bet verdensbilleder}{28}{section.B.1}
-\contentsline {section}{\numberline {B.2}~Evaluering af timerne}{28}{section.B.2}
-\contentsline {section}{\numberline {B.3}~Evaluering af arbejdsformerne}{28}{section.B.3}
-\contentsline {section}{\numberline {B.4}~Evaluering af Klassen}{29}{section.B.4}
-\contentsline {section}{\numberline {B.5}~Forbedringer}{30}{section.B.5}
+\contentsline {chapter}{\numberline {6}Didaktisk-teoretiske overvejelser om forl\IeC {\o }bet}{13}{chapter.6}
+\contentsline {section}{\numberline {6.1}~Forl\IeC {\o }bets teoretiske udgangspunkt}{13}{section.6.1}
+\contentsline {section}{\numberline {6.2}~Den faglige progression}{14}{section.6.2}
+\contentsline {chapter}{\numberline {7}Analyse og diskussion af den faglige progression}{15}{chapter.7}
+\contentsline {chapter}{\numberline {8}Evaluering af forl\IeC {\o }bet}{17}{chapter.8}
+\contentsline {section}{\numberline {8.1}~Forl\IeC {\o }bets afvikling i 2bm}{17}{section.8.1}
+\contentsline {subsection}{\numberline {8.1.1}Hvordan var gennemf\IeC {\o }rslen af forl\IeC {\o }bet?}{17}{subsection.8.1.1}
+\contentsline {subsection}{\numberline {8.1.2}Hvad kan vi s\r a l\IeC {\ae }re af forl\IeC {\o }bet?}{18}{subsection.8.1.2}
+\contentsline {section}{\numberline {8.2}~Forl\IeC {\o }bets afvikling i 1m}{18}{section.8.2}
+\contentsline {chapter}{\numberline {9}Konklusion}{21}{chapter.9}
+\contentsline {chapter}{\numberline {A}Undervisnings forl\IeC {\o }bet Verdensbilleder}{23}{appendix.A}
+\contentsline {section}{\numberline {A.1}~Form\r al:}{23}{section.A.1}
+\contentsline {section}{\numberline {A.2}~Indhold:}{23}{section.A.2}
+\contentsline {section}{\numberline {A.3}~Metode:}{23}{section.A.3}
+\contentsline {section}{\numberline {A.4}~Materiale:}{23}{section.A.4}
+\contentsline {section}{\numberline {A.5}~Evaluering:}{23}{section.A.5}
+\contentsline {section}{\numberline {A.6}~Modul plan:}{23}{section.A.6}
+\contentsline {chapter}{\numberline {B}~4MAT modellen}{29}{appendix.B}
+\contentsline {section}{\numberline {B.1}~Mening - Hvorfor?}{29}{section.B.1}
+\contentsline {section}{\numberline {B.2}~Koncepter - Hvad?}{30}{section.B.2}
+\contentsline {section}{\numberline {B.3}~F\IeC {\ae }rdigheder - Hvordan?}{31}{section.B.3}
+\contentsline {section}{\numberline {B.4}~Anvendelse - Hvad nu hvis?}{31}{section.B.4}
+\contentsline {section}{\numberline {B.5}~4MAT en innovativ processtyrrings model}{32}{section.B.5}
+\contentsline {section}{\numberline {B.6}~4MAT og l\IeC {\ae }ringsstile}{32}{section.B.6}
+\contentsline {subsection}{\numberline {B.6.1}~L\IeC {\ae }ringsstil 1 - Hvorfor-typen}{32}{subsection.B.6.1}
+\contentsline {subsection}{\numberline {B.6.2}~L\IeC {\ae }ringsstil 2 - Hvad-typen}{32}{subsection.B.6.2}
+\contentsline {subsection}{\numberline {B.6.3}~L\IeC {\ae }ringsstil 3 - Hvordan-typen}{33}{subsection.B.6.3}
+\contentsline {subsection}{\numberline {B.6.4}~L\IeC {\ae }ringsstil 4 - Hvad nu hvis-typen}{33}{subsection.B.6.4}
+\contentsline {chapter}{\numberline {C}Situationsbestemt ledelse}{35}{appendix.C}
+\contentsline {section}{\numberline {C.1}~Instruerende}{35}{section.C.1}
+\contentsline {section}{\numberline {C.2}~Coachende}{36}{section.C.2}
+\contentsline {section}{\numberline {C.3}~St\IeC {\o }ttende}{36}{section.C.3}
+\contentsline {section}{\numberline {C.4}~Delegerende}{37}{section.C.4}
+\contentsline {chapter}{\numberline {D}Evaluering af forl\IeC {\o }bet Verdensbilleder}{39}{appendix.D}
+\contentsline {section}{\numberline {D.1}~Evaluering af forl\IeC {\o }bet verdensbilleder}{39}{section.D.1}
+\contentsline {section}{\numberline {D.2}~Evaluering af timerne}{39}{section.D.2}
+\contentsline {section}{\numberline {D.3}~Evaluering af arbejdsformerne}{39}{section.D.3}
+\contentsline {section}{\numberline {D.4}~Evaluering af Klassen}{40}{section.D.4}
+\contentsline {section}{\numberline {D.5}~Forbedringer}{41}{section.D.5}

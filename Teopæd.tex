@@ -1,6 +1,7 @@
 %% COMPILE WITH XeLaTeX %%
-\documentclass[svgnames,oneside,openright,a4paper,10pt]{book}
+\documentclass[svgnames,twoside,openright,a4paper,10pt]{book}
 \usepackage{tikz,booktabs}
+\usetikzlibrary{shadows}
 \usepackage[danish]{babel}
 \usepackage[lf]{venturis}
 \usepackage[explicit]{titlesec}
@@ -103,6 +104,7 @@
 \newcommand{\figref}[1]{figur \ref{fig:#1}}
 \newcommand{\tblref}[1]{tabel \ref{tbl:#1}}
 \newcommand{\secref}[1]{afsnit \ref{sec:#1}}
+\newcommand{\susref}[1]{afsnit \ref{sub:#1}}
 \newcommand{\appref}[1]{appendix \ref{app:#1}}
 \renewcommand{\eqref}[1]{ligning (\ref{eq:#1})}
 \newcommand{\chapref}[1]{kapitel \ref{ch:#1}}
@@ -130,7 +132,7 @@
 \include{chapters/problemformulering}
 \include{chapters/main}
 \include{chapters/ringsstile}
-\include{chapters/JTI-MBTI}
+%\include{chapters/JTI-MBTI}
 \include{chapters/Didaktik}
 \include{chapters/Analyse}
 \include{chapters/Evaluering}
@@ -139,6 +141,8 @@
 
 \begin{appendix}
 \include{appendix/Verdensbilleder}
+\include{appendix/4MAT}
+\include{appendix/Situationsbestemt}
 \include{appendix/Sporgeskema}
 
 \end{appendix}

@@ -6,7 +6,6 @@ A level-1 auxiliary file: chapters/Introduktion.aux
 A level-1 auxiliary file: chapters/problemformulering.aux
 A level-1 auxiliary file: chapters/main.aux
 A level-1 auxiliary file: chapters/ringsstile.aux
-A level-1 auxiliary file: chapters/JTI-MBTI.aux
 A level-1 auxiliary file: chapters/Didaktik.aux
 A level-1 auxiliary file: chapters/Analyse.aux
 A level-1 auxiliary file: chapters/Evaluering.aux
@@ -15,9 +14,9 @@ A level-1 auxiliary file: appendix/Verdensbilleder.aux
 A level-1 auxiliary file: appendix/Sporgeskema.aux
 Database file #1: bibliografi/bibliografi.bib
 Warning--entry type for "Fasting:2006" isn't style-file defined
---line 96 of file bibliografi/bibliografi.bib
+--line 133 of file bibliografi/bibliografi.bib
 Warning--entry type for "STXbek" isn't style-file defined
---line 123 of file bibliografi/bibliografi.bib
+--line 160 of file bibliografi/bibliografi.bib
 Warning--I didn't find a database entry for "JHT10"
 Warning--empty journal in Beck:2010
 Warning--there's a number but no volume in Christensen:2006
@@ -25,45 +24,45 @@ Warning--empty year in Fasting:2006
 Warning--can't use both author and editor fields in Gympd
 Warning--can't use both author and editor fields in Kolb:1984
 Warning--there's a number but no volume in Krogh:2010
-You've used 31 entries,
+You've used 34 entries,
             2251 wiz_defined-function locations,
-            673 strings with 8414 characters,
-and the built_in function-call counts, 11796 in all, are:
-= -- 1066
-> -- 640
-< -- 34
-+ -- 228
-- -- 226
-* -- 1099
-:= -- 2126
+            687 strings with 8949 characters,
+and the built_in function-call counts, 12728 in all, are:
+= -- 1157
+> -- 673
+< -- 37
++ -- 238
+- -- 236
+* -- 1173
+:= -- 2297
 add.period$ -- 0
-call.type$ -- 31
-change.case$ -- 239
-chr.to.int$ -- 31
-cite$ -- 37
-duplicate$ -- 449
-empty$ -- 711
-format.name$ -- 271
-if$ -- 2231
+call.type$ -- 34
+change.case$ -- 256
+chr.to.int$ -- 34
+cite$ -- 40
+duplicate$ -- 491
+empty$ -- 780
+format.name$ -- 288
+if$ -- 2417
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 46
-newline$ -- 144
-num.names$ -- 93
-pop$ -- 282
+missing$ -- 52
+newline$ -- 159
+num.names$ -- 102
+pop$ -- 304
 preamble$ -- 1
-purify$ -- 268
+purify$ -- 288
 quote$ -- 0
-skip$ -- 327
+skip$ -- 357
 stack$ -- 0
-substring$ -- 513
-swap$ -- 95
+substring$ -- 549
+swap$ -- 101
 text.length$ -- 9
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 150
+type$ -- 162
 warning$ -- 6
-while$ -- 74
+while$ -- 80
 width$ -- 0
-write$ -- 368
+write$ -- 406
 (There were 9 warnings)
