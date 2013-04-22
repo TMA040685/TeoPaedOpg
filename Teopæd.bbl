@@ -1,5 +1,15 @@
 \begin{thebibliography}{}
 
+\bibitem[\protect\astroncite{Abd-El-Khalick
+  et~al.}{1998}]{Abd-El-Khalick:1998fk}
+Abd-El-Khalick, F., Bell, R.~L., and Lederman, N.~G.: 1998,
+\newblock {\em Science Education} {\bf 82(4)}, 417
+
+\bibitem[\protect\astroncite{Abd-El-Khalick and
+  Lederman}{2000}]{Abd-El-Khalick:2000kx}
+Abd-El-Khalick, F. and Lederman, N.~G.: 2000,
+\newblock {\em International journal of science education} {\bf 22(7)}, 665
+
 \bibitem[\protect\astroncite{{Alstrup} et~al.}{2006}]{DDS:2006}
 {Alstrup}, N., {Andersen}, B., {Ankerfelt}, D., {Bahnsen}, L., {Birk}, M.,
   {Christensen}, L.~F., {Danielsen}, S.~L., {Klander}, A., {Kirstrand}, B.,
@@ -20,7 +30,8 @@
 \newblock Det Danske Spejderkorps
 
 \bibitem[\protect\astroncite{Beck}{2010}]{Beck:2010}
-Beck, S.: 2010
+Beck, S.: 2010,
+\newblock {\em IFPR}
 
 \bibitem[\protect\astroncite{{Beck} and {Beck}}{2005}]{Beck:2005}
 {Beck}, S. and {Beck}, H.~R.: 2005,
@@ -32,6 +43,11 @@ Beck, S.: 2010
 \newblock {\em Studiebogen til HHX},
 \newblock Gyldendal
 
+\bibitem[\protect\astroncite{{Benoni} and {Elvekj{\ae}r}}{2009}]{Benoni:2009}
+{Benoni}, T. and {Elvekj{\ae}r}, F.: 2009,
+\newblock {\em FysikABbogen 2},
+\newblock Systime A/S
+
 \bibitem[\protect\astroncite{{Benoni} and {Elvekj{\ae}r}}{2011}]{Benoni:2011}
 {Benoni}, T. and {Elvekj{\ae}r}, F.: 2011,
 \newblock {\em FysikABbogen 1},
@@ -42,6 +58,10 @@ Beck, S.: 2010
 \newblock {\em Det vurderende {\o}je},
 \newblock Gyldendal Akademisk, Oslo
 
+\bibitem[\protect\astroncite{Brickhouse}{1990}]{Brickhouse:1990uq}
+Brickhouse, N.~W.: 1990,
+\newblock {\em Journal of teacher education} {\bf 41(3)}, 53
+
 \bibitem[\protect\astroncite{{Bybee}}{2006}]{Flick:2006}
 {Bybee}, R.~E.: 2006,
 \newblock {\em Scientific Inquery and Nature of Science}, Chapt.~1, pp 1 -- 14,
@@ -49,7 +69,7 @@ Beck, S.: 2010
 
 \bibitem[\protect\astroncite{{Christensen} et~al.}{2006}]{Christensen:2006}
 {Christensen}, B.~L., {Dalsgaard}, B., {Knudsen}, H., and {Munk}, A.: 2006,
-\newblock {\em Gymnasiep{\ae}dagogik} (57)
+\newblock {\em Gymnasiep{\ae}dagogik} --(57)
 
 \bibitem[\protect\astroncite{Dewey}{1938}]{Dewey:1978}
 Dewey, J.: 1978/1938,
@@ -60,9 +80,9 @@ Dewey, J.: 1978/1938,
 Dolin, J.: 2007,
 \newblock {\em MONA} {\bf 2}, 20
 
-\bibitem[\protect\astroncite{{Fasting} and {Thygesen}}{}]{Fasting:2006}
-{Fasting}, R.~B. and {Thygesen}, R.,
-\newblock {\em Skrivehjulet: En modell for elevers skrivekompetanse}
+\bibitem[\protect\astroncite{{Fasting} and {Thygesen}}{2006}]{Fasting:2006}
+{Fasting}, R.~B. and {Thygesen}, R.: 2006,
+\newblock {\em http://lesesenteret.uis.no/leseopplaering}
 
 \bibitem[\protect\astroncite{Harlen}{2011}]{Harlen:2011:M}
 Harlen, W.: 2011,
@@ -119,13 +139,23 @@ Kolb, D.: 1984,
   Development},
 \newblock Prentice Hall
 
+\bibitem[\protect\astroncite{{Kragh}}{2004}]{Kragh:2004}
+{Kragh}, H.: 2004,
+\newblock {\em Naturerkendelse og videnskabstoeri - De uorganiske videnskabers
+  filosofi og historie -},
+\newblock Aarhus Universitetsforlag
+
 \bibitem[\protect\astroncite{{Krathwool}}{2002}]{Krathwool:2002}
 {Krathwool}, D.~R.: 2002,
 \newblock {\em Theory into practice} {\bf 41(4)}, 212
 
 \bibitem[\protect\astroncite{Krogh}{2010}]{Krogh:2010}
 Krogh, E.: 2010,
-\newblock {\em Gymnasiep{\ae}dagogik} {\bf (77)}, 34 ff
+\newblock {\em Gymnasiep{\ae}dagogik} {\bf --(77)}, 34 ff
+
+\bibitem[\protect\astroncite{Lederman}{1999}]{Lederman:1999vn}
+Lederman, N.~G.: 1999,
+\newblock {\em Journal of Research in Science Teaching} {\bf 36(8)}, 916
 
 \bibitem[\protect\astroncite{McCarthy and
   McCarthy}{2006}]{mccarthy2006teaching}

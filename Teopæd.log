@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.3-0.9997.5 (TeX Live 2011) (format=xelatex 2011.7.3)  17 APR 2013 17:31
+This is XeTeX, Version 3.1415926-2.3-0.9997.5 (TeX Live 2011) (format=xelatex 2011.7.3)  22 APR 2013 12:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1665,24 +1665,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--6
 
  []
 
+[13]
 File: figures/kolbstyle.eps Graphic file (type eps)
-<figures/kolbstyle.eps>
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[13]) [14]
+ <figures/kolbstyle.eps> [14]) [15]
 \openout2 = `chapters/Analyse.aux'.
 
- (./chapters/Analyse.tex
-Kapitel 7.
-) [15
+ (./chapters/Analyse.tex [16
 
 
 
 ]
+Kapitel 7.
+) [17]
 \openout2 = `chapters/Evaluering.aux'.
 
- (./chapters/Evaluering.tex [16
+ (./chapters/Evaluering.tex [18
 
 
 
@@ -1697,7 +1694,7 @@ Invalid UTF-8 byte or sequence at line 32 replaced by U+FFFD.
 Missing character: There is no � in font [lmsans10-regular]:mapping=tex-text!
 Missing character: There is no � in font [lmsans10-regular]:mapping=tex-text!
 File: figures/matrix.eps Graphic file (type eps)
- <figures/matrix.eps> [17]
+ <figures/matrix.eps> [19]
 File: figures/tavle.eps Graphic file (type eps)
 
 <figures/tavle.eps>
@@ -1716,12 +1713,12 @@ Overfull \hbox (13.91797pt too wide) in paragraph at lines 75--75
  []|[]| 
  []
 
-[18]
+[20]
 File: figures/Verdensbilleder.eps Graphic file (type eps)
- <figures/Verdensbilleder.eps>) [19]
+ <figures/Verdensbilleder.eps>) [21]
 \openout2 = `chapters/konklusion.aux'.
 
- (./chapters/konklusion.tex [20
+ (./chapters/konklusion.tex [22
 
 
 
@@ -1736,10 +1733,10 @@ line 4.
 
 FiXme Fatal Error: 'Konklusionen' on input line 4.
 
-) [21]
+) [23]
 \openout2 = `appendix/Verdensbilleder.aux'.
 
- (./appendix/Verdensbilleder.tex [22
+ (./appendix/Verdensbilleder.tex [24
 
 
 
@@ -1964,7 +1961,7 @@ Underfull \hbox (badness 1112) in paragraph at lines 200--200
 \EU1/lmss/m/n/10 skrive rapport i og stille
  []
 
-) [23] [24] [25] [26] [27] [28]
+) [25] [26] [27] [28] [29] [30]
 \openout2 = `appendix/4MAT.aux'.
 
  (./appendix/4MAT.tex
@@ -1973,16 +1970,16 @@ Bilag B.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) [29
+) [31
 
 
 
-] (./figures/4MAT-blue.tex) (./figures/4MAT-green.tex [30])
-(./figures/4MAT-yellow.tex) [31] [32]) [33]
+] (./figures/4MAT-blue.tex) (./figures/4MAT-green.tex [32])
+(./figures/4MAT-yellow.tex) [33] [34]) [35]
 \openout2 = `appendix/Situationsbestemt.aux'.
 
  (./appendix/Situationsbestemt.tex
-[34
+[36
 
 
 
@@ -1992,19 +1989,19 @@ Bilag C.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[35] [36]) [37]
+[37] [38]) [39]
 \openout2 = `appendix/Sporgeskema.aux'.
 
- (./appendix/Sporgeskema.tex [38
+ (./appendix/Sporgeskema.tex [40
 
 
 
 ]
 Bilag D.
-[39] [40]) [41] [42
+[41] [42]) [43] [44
 
 
-] (./Teopæd.bbl [43
+] (./Teopæd.bbl [45
 
 ])
 
@@ -2018,7 +2015,7 @@ FiXme Summary: Number of notes: 0,
 (FiXme)        Total: 1.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 156.
-[44]
+[46]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 156.
  (./Teopæd.aux (./chapters/Introduktion.aux)
 (./chapters/problemformulering.aux) (./chapters/main.aux)
@@ -2042,12 +2039,12 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 156.
  ) 
 Here is how much of TeX's memory you used:
- 29357 strings out of 494150
- 513710 string characters out of 3152950
- 704619 words of memory out of 3000000
- 31931 multiletter control sequences out of 15000+200000
+ 29384 strings out of 494150
+ 514235 string characters out of 3152950
+ 705345 words of memory out of 3000000
+ 31958 multiletter control sequences out of 15000+200000
  5615 words of font info for 75 fonts, out of 3000000 for 9000
  1018 hyphenation exceptions out of 8191
  56i,12n,92p,2232b,1205s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on Teopæd.pdf (56 pages).
+Output written on Teopæd.pdf (58 pages).
