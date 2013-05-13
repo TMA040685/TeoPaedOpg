@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.3-0.9997.5 (TeX Live 2011) (format=xelatex 2011.7.3)  13 MAY 2013 11:15
+This is XeTeX, Version 3.1415926-2.3-0.9997.5 (TeX Live 2011) (format=xelatex 2011.7.3)  13 MAY 2013 15:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1090,6 +1090,13 @@ Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
 LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
 (Font)                  U/lasy/m/n --> U/lasy/b/n on input line 47.
 )
+(/usr/local/texlive/2011/texmf-dist/tex/latex/epigraph/epigraph.sty
+Package: epigraph 2009/09/02 v1.5c typesetting epigraphs
+\beforeepigraphskip=\skip69
+\afterepigraphskip=\skip70
+\epigraphwidth=\skip71
+\epigraphrule=\skip72
+)
 (/usr/local/texlive/2011/texmf-dist/tex/latex/tools/showkeys.sty
 Package: showkeys 2007/08/07 v3.15 Show cite and label keys (DPC, MH)
 )
@@ -1405,7 +1412,7 @@ le
 (Font)              size <24> substituted on input line 120.
 
 (./Teopæd.toc
-LaTeX Font Info:    Try loading font information for U+lasy on input line 4.
+LaTeX Font Info:    Try loading font information for U+lasy on input line 3.
  (/usr/local/texlive/2011/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
@@ -1427,11 +1434,17 @@ File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 
  [9] [10
 
+] (./Teopæd.lox)
+\tf@lox=\write8
+\openout8 = `Teopæd.lox'.
+
+
+[11] [12
+
 ]
 \openout2 = `chapters/Introduktion.aux'.
 
-
-(./chapters/Introduktion.tex
+ (./chapters/Introduktion.tex
 Kapitel 1.
  fontspec info: Defining font family 'NeoTechStdLight(1)' for font 'Neo Tech St
 d Light' with options [SizeFeatures={{Size=14}}].
@@ -1454,11 +1467,12 @@ LaTeX Font Warning: Font shape `EU1/NeoTechStdLight(1)/m/n' in size <10> not av
 ailable
 (Font)              size <14> substituted on input line 7.
 
+(./tables/gender.tex)
 File: figures/optag.eps Graphic file (type eps)
-<figures/optag.eps> [1
+ <figures/optag.eps>
 
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-]
  fontspec info: Defining font family 'NeoTechStd(2)' for font 'Neo Tech Std' wi
 th options [SizeFeatures={{Size=12}}].
 
@@ -1476,11 +1490,17 @@ th options [SizeFeatures={{Size=12}}].
 (fontspec)  <12>"Neo Tech Std/BI/ICU:script=latn;language=DFLT;"
 
 
-
 LaTeX Font Warning: Font shape `EU1/NeoTechStd(2)/m/n' in size <10> not availab
 le
-(Font)              size <12> substituted on input line 37.
+(Font)              size <12> substituted on input line 23.
 
+[1
+
+
+]
+Underfull \vbox (badness 5274) has occurred while \output is active []
+
+ [2]
 (./figures/JTI.tex
  fontspec info: Defining font family 'NeoTechStd(3)' for font 'Neo Tech Std' wi
 th options [SizeFeatures={{Size=14}}].
@@ -1504,146 +1524,156 @@ LaTeX Font Warning: Font shape `EU1/NeoTechStd(3)/m/n' in size <10> not availab
 le
 (Font)              size <14> substituted on input line 35.
 
-)
-Overfull \hbox (3.02856pt too wide) in paragraph at lines 82--83
+) (./tables/Alstrup-seek.tex
+Overfull \hbox (3.02856pt too wide) in paragraph at lines 8--9
 [][][]| 
  []
 
 
-Underfull \hbox (badness 4429) in paragraph at lines 84--84
+Underfull \hbox (badness 4429) in paragraph at lines 10--10
 \EU1/lmss/m/n/10 udvikling ved hjælp
  []
 
 
-Underfull \hbox (badness 1112) in paragraph at lines 84--84
+Underfull \hbox (badness 1112) in paragraph at lines 10--10
 \EU1/lmss/m/n/10 gennemtænkte meto-
  []
 
 
-Underfull \hbox (badness 5756) in paragraph at lines 86--86
+Underfull \hbox (badness 5756) in paragraph at lines 12--12
 []\EU1/lmss/m/n/10 At udfører arbejder
  []
 
 
-Underfull \hbox (badness 8151) in paragraph at lines 88--88
+Underfull \hbox (badness 8151) in paragraph at lines 14--14
 []\EU1/lmss/m/n/10 At fordele arbejdet
  []
 
 
-Underfull \hbox (badness 3312) in paragraph at lines 88--88
+Underfull \hbox (badness 3312) in paragraph at lines 14--14
 []\EU1/lmss/m/n/10 At kommunikere på
  []
 
 
-Underfull \hbox (badness 1622) in paragraph at lines 90--90
+Underfull \hbox (badness 1622) in paragraph at lines 16--16
 []\EU1/lmss/m/n/10 At gennemgå planer
  []
 
 
-Underfull \hbox (badness 3343) in paragraph at lines 90--90
+Underfull \hbox (badness 3343) in paragraph at lines 16--16
 \EU1/lmss/m/n/10 ningsfulde for grup-
  []
 
 
-Underfull \hbox (badness 6348) in paragraph at lines 90--91
+Underfull \hbox (badness 6348) in paragraph at lines 16--17
 []\EU1/lmss/m/n/10 At undersøge kom-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 90--91
+Underfull \hbox (badness 10000) in paragraph at lines 16--17
 \EU1/lmss/m/n/10 plekse problemers
  []
 
 
-Underfull \hbox (badness 1460) in paragraph at lines 92--92
+Underfull \hbox (badness 1460) in paragraph at lines 18--18
 \EU1/lmss/m/n/10 forskellige måder for
  []
 
 
-Underfull \hbox (badness 6775) in paragraph at lines 92--93
+Underfull \hbox (badness 6775) in paragraph at lines 18--19
 []\EU1/lmss/m/n/10 At diskutere udfor-
  []
 
-[2]
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-Overfull \hbox (3.02856pt too wide) in paragraph at lines 104--105
+) (./tables/Alstrup-avoid.tex
+Overfull \hbox (3.02856pt too wide) in paragraph at lines 8--9
 [][][]| 
  []
 
 
-Underfull \hbox (badness 1117) in paragraph at lines 106--106
+Underfull \hbox (badness 1117) in paragraph at lines 10--10
 []\EU1/lmss/m/n/10 At deltage i alt for
  []
 
 
-Underfull \hbox (badness 2556) in paragraph at lines 106--106
+Underfull \hbox (badness 2556) in paragraph at lines 10--10
 []\EU1/lmss/m/n/10 At anvende nye og
  []
 
 
-Underfull \hbox (badness 5050) in paragraph at lines 112--112
+Underfull \hbox (badness 5050) in paragraph at lines 16--16
 []\EU1/lmss/m/n/10 At anvende uafprø-
  []
 
 
-Underfull \hbox (badness 5985) in paragraph at lines 112--112
+Underfull \hbox (badness 5985) in paragraph at lines 16--16
 \EU1/lmss/m/n/10 vede og ikke gen-
  []
 
 
-Underfull \hbox (badness 1057) in paragraph at lines 112--112
+Underfull \hbox (badness 1057) in paragraph at lines 16--16
 []\EU1/lmss/m/n/10 At komme med kri-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 114--114
+Underfull \hbox (badness 10000) in paragraph at lines 18--18
 []\EU1/lmss/m/n/10 At behandle an-
  []
 
 
-Underfull \hbox (badness 5345) in paragraph at lines 114--114
+Underfull \hbox (badness 5345) in paragraph at lines 18--18
 \EU1/lmss/m/n/10 dre mennesker som
  []
 
 
-Underfull \hbox (badness 1117) in paragraph at lines 114--115
+Underfull \hbox (badness 1117) in paragraph at lines 18--19
 []\EU1/lmss/m/n/10 At deltage i alt for
  []
+
+)
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 LaTeX Font Info:    Font shape `EU1/lmss/m/it' in size <10> not available
-(Font)              Font shape `EU1/lmss/m/sl' tried instead on input line 119.
-
-) [3] [4]
+(Font)              Font shape `EU1/lmss/m/sl' tried instead on input line 64.
+) [3] [4] [5]
 \openout2 = `chapters/problemformulering.aux'.
 
- (./chapters/problemformulering.tex
-Kapitel 2.
-) [5
+ (./chapters/problemformulering.tex [6
 
 
 
 ]
+Kapitel 2.
+[7]) [8]
 \openout2 = `chapters/main.aux'.
 
- (./chapters/main.tex [6
+ (./chapters/main.tex
+Kapitel 3.
+(./figures/kolb1.tex) (./tables/Kolb.tex)
+
+Package FiXme Warning: \fixme is deprecated;
+(FiXme)                please use \fxfatal instead on input line 24.
+
+Package hyperref Info: bookmark level for unknown fixme defaults to 0 on input 
+line 24.
+
+FiXme Fatal Error: 'F\IeC {\ae }rdigg\IeC {\o }r eksempel med 4MAT' on input li
+ne 24.
+
+[9
 
 
 
 ]
-Kapitel 3.
-(./figures/kolb1.tex) [7]
 File: figures/Didaktisk.png Graphic file (type QTm)
- <use  "figures/Didaktisk.png" >
+ <use  "figures/Didaktisk.png" > [10]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[8] [9]) [10]
+[11]) [12]
 \openout2 = `chapters/Didaktik.aux'.
 
  (./chapters/Didaktik.tex
@@ -1653,7 +1683,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--6
 
  []
 
-[11
+[13
 
 
 
@@ -1677,13 +1707,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 34--36
 
  []
 
-[12]
+[14]
 Underfull \hbox (badness 10000) in paragraph at lines 37--39
 
  []
 
 File: figures/wordle.pdf Graphic file (type QTm)
-<use  "figures/wordle.pdf" > [13] (./figures/karaktere1m.tex
+<use  "figures/wordle.pdf" > [15] (./figures/karaktere1m.tex
 File: figures/karaktere1m.eps Graphic file (type eps)
 
 <figures/karaktere1m.eps>) (./figures/karaktere2bm.tex
@@ -1697,23 +1727,23 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 File: figures/kolbstyle.eps Graphic file (type eps)
-<figures/kolbstyle.eps> [14]
+<figures/kolbstyle.eps> [16]
 
-LaTeX Warning: Text page 15 contains only floats.
+LaTeX Warning: Text page 17 contains only floats.
 
-[15]) [16]
+[17]) [18]
 \openout2 = `chapters/Analyse.aux'.
 
  (./chapters/Analyse.tex
 Kapitel 5.
-) [17
+) [19
 
 
 
 ]
 \openout2 = `chapters/Evaluering.aux'.
 
- (./chapters/Evaluering.tex [18
+ (./chapters/Evaluering.tex [20
 
 
 
@@ -1728,20 +1758,20 @@ Invalid UTF-8 byte or sequence at line 32 replaced by U+FFFD.
 Missing character: There is no � in font [lmsans10-regular]:mapping=tex-text!
 Missing character: There is no � in font [lmsans10-regular]:mapping=tex-text!
 File: figures/matrix.eps Graphic file (type eps)
- <figures/matrix.eps> [19]
+ <figures/matrix.eps> [21]
 File: figures/tavle.eps Graphic file (type eps)
 
-<figures/tavle.eps> [20]
+<figures/tavle.eps> [22]
 File: figures/type.eps Graphic file (type eps)
  <figures/type.eps>
 File: figures/Verdensbilleder.eps Graphic file (type eps)
  <figures/Verdensbilleder.eps>)
-[21
+[23
 
 ]
 \openout2 = `chapters/konklusion.aux'.
 
- (./chapters/konklusion.tex [22
+ (./chapters/konklusion.tex [24
 
 
 
@@ -1751,15 +1781,13 @@ Kapitel 7.
 Package FiXme Warning: \fixme is deprecated;
 (FiXme)                please use \fxfatal instead on input line 4.
 
-Package hyperref Info: bookmark level for unknown fixme defaults to 0 on input 
-line 4.
 
 FiXme Fatal Error: 'Konklusionen' on input line 4.
 
-) [23]
+) [25]
 \openout2 = `appendix/Verdensbilleder.aux'.
 
- (./appendix/Verdensbilleder.tex [24
+ (./appendix/Verdensbilleder.tex [26
 
 
 
@@ -1984,7 +2012,7 @@ Underfull \hbox (badness 1112) in paragraph at lines 200--200
 \EU1/lmss/m/n/10 skrive rapport i og stille
  []
 
-) [25] [26] [27] [28] [29] [30]
+) [27] [28] [29] [30] [31] [32]
 \openout2 = `appendix/4MAT.aux'.
 
  (./appendix/4MAT.tex
@@ -1993,7 +2021,7 @@ Bilag B.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) [31
+) [33
 
 
 
@@ -2001,11 +2029,11 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) [32] (./figures/4MAT-yellow.tex) [33] [34]) [35]
+) [34] (./figures/4MAT-yellow.tex) [35] [36]) [37]
 \openout2 = `appendix/Situationsbestemt.aux'.
 
 
-(./appendix/Situationsbestemt.tex [36
+(./appendix/Situationsbestemt.tex [38
 
 
 
@@ -2015,39 +2043,39 @@ Bilag C.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[37] [38]) [39]
+[39] [40]) [41]
 \openout2 = `appendix/Sporgeskema.aux'.
 
- (./appendix/Sporgeskema.tex [40
+ (./appendix/Sporgeskema.tex [42
 
 
 
 ]
 Bilag D.
-[41] [42]) [43] [44
+[43] [44]) [45] [46
 
 
-] (./Teopæd.bbl [45
+] (./Teopæd.bbl [47
 
-] [46])
+] [48])
 
 FiXme Summary: Number of notes: 0,
 (FiXme)        Number of warnings: 0,
 (FiXme)        Number of errors: 0,
-(FiXme)        Number of fatal errors: 1,
-(FiXme)        Total: 1.
+(FiXme)        Number of fatal errors: 2,
+(FiXme)        Total: 2.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 157.
-[47]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 157.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 158.
+[49]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 158.
  (./Teopæd.aux (./chapters/Introduktion.aux)
 (./chapters/problemformulering.aux) (./chapters/main.aux)
 (./chapters/Didaktik.aux) (./chapters/Analyse.aux) (./chapters/Evaluering.aux)
 (./chapters/konklusion.aux) (./appendix/Verdensbilleder.aux)
 (./appendix/4MAT.aux) (./appendix/Situationsbestemt.aux)
 (./appendix/Sporgeskema.aux))
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 157.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 157.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 158.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 158.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -2056,18 +2084,15 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 157.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 158.
  ) 
 Here is how much of TeX's memory you used:
- 30016 strings out of 494150
- 524658 string characters out of 3152950
- 723334 words of memory out of 3000000
- 32570 multiletter control sequences out of 15000+200000
- 8116 words of font info for 87 fonts, out of 3000000 for 9000
+ 30136 strings out of 494150
+ 526368 string characters out of 3152950
+ 725820 words of memory out of 3000000
+ 32660 multiletter control sequences out of 15000+200000
+ 9383 words of font info for 95 fonts, out of 3000000 for 9000
  1018 hyphenation exceptions out of 8191
- 56i,12n,92p,2325b,1201s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 56i,12n,92p,2325b,1205s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on Teopæd.pdf (57 pages).
+Output written on Teopæd.pdf (61 pages).

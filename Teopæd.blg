@@ -5,7 +5,6 @@ The style file: astron.bst
 A level-1 auxiliary file: chapters/Introduktion.aux
 A level-1 auxiliary file: chapters/problemformulering.aux
 A level-1 auxiliary file: chapters/main.aux
-A level-1 auxiliary file: chapters/ringsstile.aux
 A level-1 auxiliary file: chapters/Didaktik.aux
 A level-1 auxiliary file: chapters/Analyse.aux
 A level-1 auxiliary file: chapters/Evaluering.aux
@@ -16,50 +15,51 @@ A level-1 auxiliary file: appendix/Situationsbestemt.aux
 A level-1 auxiliary file: appendix/Sporgeskema.aux
 Database file #1: bibliografi/bibliografi.bib
 Warning--entry type for "Rasmussen:2009" isn't style-file defined
---line 76 of file bibliografi/bibliografi.bib
+--line 139 of file bibliografi/bibliografi.bib
 Warning--entry type for "STXbek" isn't style-file defined
---line 404 of file bibliografi/bibliografi.bib
-Warning--I didn't find a database entry for "JHT10"
+--line 467 of file bibliografi/bibliografi.bib
 Warning--can't use both author and editor fields in Laursen:2002
-You've used 60 entries,
+Warning--can't use both author and editor fields in Thyssen:2004
+Warning--can't use both author and editor fields in Wenger:2007
+You've used 67 entries,
             2251 wiz_defined-function locations,
-            835 strings with 12405 characters,
-and the built_in function-call counts, 20562 in all, are:
-= -- 1904
-> -- 930
-< -- 63
-+ -- 318
-- -- 314
-* -- 1822
-:= -- 3715
+            868 strings with 13121 characters,
+and the built_in function-call counts, 22482 in all, are:
+= -- 2079
+> -- 979
+< -- 72
++ -- 332
+- -- 328
+* -- 1977
+:= -- 4072
 add.period$ -- 0
-call.type$ -- 60
-change.case$ -- 399
-chr.to.int$ -- 60
-cite$ -- 61
-duplicate$ -- 851
-empty$ -- 1337
-format.name$ -- 406
-if$ -- 3930
+call.type$ -- 67
+change.case$ -- 434
+chr.to.int$ -- 67
+cite$ -- 70
+duplicate$ -- 945
+empty$ -- 1488
+format.name$ -- 427
+if$ -- 4296
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 87
-newline$ -- 276
-num.names$ -- 180
-pop$ -- 457
+missing$ -- 97
+newline$ -- 309
+num.names$ -- 201
+pop$ -- 499
 preamble$ -- 1
-purify$ -- 457
+purify$ -- 499
 quote$ -- 0
-skip$ -- 656
+skip$ -- 727
 stack$ -- 0
-substring$ -- 947
-swap$ -- 175
-text.length$ -- 12
+substring$ -- 1031
+swap$ -- 193
+text.length$ -- 14
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 296
-warning$ -- 1
-while$ -- 140
+type$ -- 330
+warning$ -- 3
+while$ -- 154
 width$ -- 0
-write$ -- 706
-(There were 4 warnings)
+write$ -- 790
+(There were 5 warnings)

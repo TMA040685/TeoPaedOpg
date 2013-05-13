@@ -131,6 +131,10 @@ Haue, H., Damberg, E., Gleerup, J., Dolin, J., Kaspersen, P., Lieberkind, L.,
   Pejlinger og skitser},
 \newblock Learning Lab Denmark, DPU
 
+\bibitem[\protect\astroncite{{Herman}}{2009}]{Hermann:2009}
+{Herman}, S.: 2009,
+\newblock {\em Information} december(09)
+
 \bibitem[\protect\astroncite{{Hersey} and {Blanchard}}{1969}]{Hersey1}
 {Hersey}, P. and {Blanchard}, K.: 1969,
 \newblock {\em Training and Development Journal} {\bf 23(5)}, 26
@@ -177,6 +181,22 @@ Jung, C.~G.: 1971,
 \newblock {\em "Psychological Types" Collected Works of Carl Gustav Jung},
   Vol.~6,
 \newblock Princeton University Press
+
+\bibitem[\protect\astroncite{{Klafki}}{2002}]{Klafki:2002}
+{Klafki}, W.: 2002,
+\newblock {\em Dannelsesteori og didaktik},
+\newblock Klim
+
+\bibitem[\protect\astroncite{{klausen}}{2009}]{Klausen:2009}
+{klausen}, S.~H.: 2009,
+\newblock {\em Hvorfor fagligt samspil?},
+\newblock Ikke udgivet, SDU
+
+\bibitem[\protect\astroncite{{klausen}}{2011}]{Klausen:2011}
+{klausen}, S.~H.: 2011,
+\newblock {\em P{\aa} tv{\ae}rs af fag - Fagligt samspil i undervisning,
+  forskning og teamarbejde},
+\newblock Akademisk Forlag
 
 \bibitem[\protect\astroncite{Kolb}{1984}]{Kolb:1984}
 Kolb, D.: 1984,
@@ -291,6 +311,12 @@ Ringstad, H.~E.: 2002,
 {Saugstad}, T.: 2009,
 \newblock {\em KvaN} 83
 
+\bibitem[\protect\astroncite{{Thyssen}}{2004}]{Thyssen:2004}
+{Thyssen}, O.: 2004,
+\newblock {\em Uddannelse og dannelse l{\ae}sestykker til p{\ae}dagogisk
+  filosofi}, Chapt. Dannelse i moderniteten,
+\newblock P{\ae}dagogiske Linjer
+
 \bibitem[\protect\astroncite{{Ulriksen} et~al.}{2009}]{Ulriksen:2009}
 {Ulriksen}, L., {Murning}, S., and {Ebbensgaard}, A.~B.: 2009,
 \newblock {\em N{\aa}r gymnasiet er en fremmed verden},
@@ -305,5 +331,14 @@ UVM.dk: 2013,
 \newblock {\em Good practice in science teaching - What research has to say},
   Chapt.~4, pp 57 -- 71,
 \newblock Open University Press, Buckingham, Philadelphia
+
+\bibitem[\protect\astroncite{{Wenger}}{2007}]{Wenger:2007}
+{Wenger}, E.: 2007,
+\newblock {\em L{\ae}ringsteorier}, Chapt. Social L{\ae}ringsteori,
+\newblock Roskilde Universitetsforlag
+
+\bibitem[\protect\astroncite{{Wiese}}{2010}]{Wiese:2010}
+{Wiese}, L.: 2010,
+\newblock {\em Gymnasiep{\ae}dagogik} 77
 
 \end{thebibliography}
