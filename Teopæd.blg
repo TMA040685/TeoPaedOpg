@@ -15,48 +15,51 @@ A level-1 auxiliary file: appendix/4MAT.aux
 A level-1 auxiliary file: appendix/Situationsbestemt.aux
 A level-1 auxiliary file: appendix/Sporgeskema.aux
 Database file #1: bibliografi/bibliografi.bib
+Warning--entry type for "Rasmussen:2009" isn't style-file defined
+--line 76 of file bibliografi/bibliografi.bib
 Warning--entry type for "STXbek" isn't style-file defined
---line 228 of file bibliografi/bibliografi.bib
+--line 404 of file bibliografi/bibliografi.bib
 Warning--I didn't find a database entry for "JHT10"
-You've used 40 entries,
+Warning--can't use both author and editor fields in Laursen:2002
+You've used 60 entries,
             2251 wiz_defined-function locations,
-            734 strings with 10055 characters,
-and the built_in function-call counts, 14643 in all, are:
-= -- 1347
-> -- 738
-< -- 42
-+ -- 260
-- -- 256
-* -- 1347
-:= -- 2638
+            835 strings with 12405 characters,
+and the built_in function-call counts, 20562 in all, are:
+= -- 1904
+> -- 930
+< -- 63
++ -- 318
+- -- 314
+* -- 1822
+:= -- 3715
 add.period$ -- 0
-call.type$ -- 40
-change.case$ -- 290
-chr.to.int$ -- 40
-cite$ -- 40
-duplicate$ -- 576
-empty$ -- 913
-format.name$ -- 318
-if$ -- 2787
+call.type$ -- 60
+change.case$ -- 399
+chr.to.int$ -- 60
+cite$ -- 61
+duplicate$ -- 851
+empty$ -- 1337
+format.name$ -- 406
+if$ -- 3930
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 61
-newline$ -- 186
-num.names$ -- 120
-pop$ -- 334
+missing$ -- 87
+newline$ -- 276
+num.names$ -- 180
+pop$ -- 457
 preamble$ -- 1
-purify$ -- 328
+purify$ -- 457
 quote$ -- 0
-skip$ -- 428
+skip$ -- 656
 stack$ -- 0
-substring$ -- 660
-swap$ -- 116
-text.length$ -- 9
+substring$ -- 947
+swap$ -- 175
+text.length$ -- 12
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 194
-warning$ -- 0
-while$ -- 96
+type$ -- 296
+warning$ -- 1
+while$ -- 140
 width$ -- 0
-write$ -- 477
-(There were 2 warnings)
+write$ -- 706
+(There were 4 warnings)

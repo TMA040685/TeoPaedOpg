@@ -29,6 +29,11 @@ Abd-El-Khalick, F. and Lederman, N.~G.: 2000,
 \newblock {\em I bev{\ae}gelse - en bog om spejderledelse},
 \newblock Det Danske Spejderkorps
 
+\bibitem[\protect\astroncite{{Aspelin}}{2004}]{Aspelin:2004}
+{Aspelin}, J.: 2004,
+\newblock {\em Stolthed og skam i undervisningen},
+\newblock Gyldendals L{\ae}rerbibliotek
+
 \bibitem[\protect\astroncite{Beck}{2010}]{Beck:2010}
 Beck, S.: 2010,
 \newblock {\em IFPR}
@@ -37,6 +42,10 @@ Beck, S.: 2010,
 {Beck}, S. and {Beck}, H.~R.: 2005,
 \newblock {\em Gyldendals Studiebog},
 \newblock Gyldendal
+
+\bibitem[\protect\astroncite{{Beck} and {Ebbensgaard}}{2009}]{Beck:2009}
+{Beck}, S. and {Ebbensgaard}, A.~B.: 2009,
+\newblock {\em Gymnasiep{\ae}dagogik} 75
 
 \bibitem[\protect\astroncite{{Beck} et~al.}{2011}]{beck:2011}
 {Beck}, S., {Hansen}, J.~D., {Lind}, A., and {Lyng}, M.: 2011,
@@ -71,6 +80,11 @@ Brickhouse, N.~W.: 1990,
 {Christensen}, B.~L., {Dalsgaard}, B., {Knudsen}, H., and {Munk}, A.: 2006,
 \newblock {\em Gymnasiep{\ae}dagogik} --(57)
 
+\bibitem[\protect\astroncite{{Dahler-Larsen}}{2006}]{Dahler-Larsen:2006}
+{Dahler-Larsen}, P.: 2006,
+\newblock {\em Evalueringskultur},
+\newblock Syddansk Universitetsforlag
+
 \bibitem[\protect\astroncite{Dewey}{1938}]{Dewey:1978}
 Dewey, J.: 1978/1938,
 \newblock {\em Erfaring og opdragelse},
@@ -79,6 +93,20 @@ Dewey, J.: 1978/1938,
 \bibitem[\protect\astroncite{Dolin}{2007}]{Dolin:2007M}
 Dolin, J.: 2007,
 \newblock {\em MONA} {\bf 2}, 20
+
+\bibitem[\protect\astroncite{{Elf}}{2012}]{Elf:2012}
+{Elf}, N.~F.: 2012,
+\newblock {\em GymPad 2.0} 8
+
+\bibitem[\protect\astroncite{Evalueringsinstitut}{2011}]{EVA:2011}
+Evalueringsinstitut, D.: 2011,
+\newblock {\em Undervisningsdifferentiering som b{\ae}rende p{\ae}dagogisk
+  princip},
+\newblock Danmarks Evalueringsinstitut
+
+\bibitem[\protect\astroncite{{Fahrendorff}}{2011}]{Fahrendorff:2011}
+{Fahrendorff}, L.: 2011,
+\newblock {\em Jyske Vestkysten} p.~10
 
 \bibitem[\protect\astroncite{{Fasting} and {Thygesen}}{2006}]{Fasting:2006}
 {Fasting}, R.~B. and {Thygesen}, R.: 2006,
@@ -97,6 +125,12 @@ Haue, H., Damberg, E., Gleerup, J., Dolin, J., Kaspersen, P., Lieberkind, L.,
 \newblock {\em Gymnasiep{\ae}dagogik - En grundbog}, Vol.~4,
 \newblock Hans Reitzels Forlag, 1 edition
 
+\bibitem[\protect\astroncite{{Herman}}{2008}]{Herman:2008}
+{Herman}, S.: 2008,
+\newblock {\em Et dianostisk landkort over kompetenceudvikling og l{\ae}ring -
+  Pejlinger og skitser},
+\newblock Learning Lab Denmark, DPU
+
 \bibitem[\protect\astroncite{{Hersey} and {Blanchard}}{1969}]{Hersey1}
 {Hersey}, P. and {Blanchard}, K.: 1969,
 \newblock {\em Training and Development Journal} {\bf 23(5)}, 26
@@ -105,6 +139,12 @@ Haue, H., Damberg, E., Gleerup, J., Dolin, J., Kaspersen, P., Lieberkind, L.,
 {Hersey}, P. and {Blanchard}, K.: 1977,
 \newblock {\em Management of Organizational Behavior},
 \newblock Utilizing Human Resources, Prentice Hall, New Jersey, 3 edition
+
+\bibitem[\protect\astroncite{{Hiim} and {Hippe}}{1997}]{Hiim:1997}
+{Hiim}, H. and {Hippe}, E.: 1997,
+\newblock {\em L{\ae}ring gennem oplevelse, forst{\aa}else og handling. En
+  studiebog i didaktik},
+\newblock Gyldendal
 
 \bibitem[\protect\astroncite{Illeris}{2006}]{Illeris}
 Illeris, K.: 2006,
@@ -115,6 +155,11 @@ Illeris, K.: 2006,
 \bibitem[\protect\astroncite{Jacobsen}{2008}]{Jacobsen:2008M}
 Jacobsen, L.~B.: 2008,
 \newblock {\em MONA} {\bf 4}, 22
+
+\bibitem[\protect\astroncite{{Jensen}}{2012}]{Jensen:2012}
+{Jensen}, H.~S.: 2012,
+\newblock {\em Digital dannelse - Et overblik},
+\newblock Ikke udgivet
 
 \bibitem[\protect\astroncite{{Johannsen} and
   {Jacobsen}}{2009}]{Johannsen:2009M}
@@ -151,11 +196,31 @@ Kolb, D.: 1984,
 
 \bibitem[\protect\astroncite{Krogh}{2010}]{Krogh:2010}
 Krogh, E.: 2010,
-\newblock {\em Gymnasiep{\ae}dagogik} {\bf --(77)}, 34 ff
+\newblock {\em Gymnasiep{\ae}dagogik} {\bf 77}, 34 ff
+
+\bibitem[\protect\astroncite{{Kyrstein} and
+  {Vestergaard}}{2006}]{Kyrstein:2006}
+{Kyrstein}, J. and {Vestergaard}, E.: 2006,
+\newblock {\em Undervisning og l{\ae}ringen - en grundbog i didaktik},
+\newblock Hans Reitzels Forlag
+
+\bibitem[\protect\astroncite{{Laursen}}{2002}]{Laursen:2002}
+{Laursen}, E.: 2002,
+\newblock {\em Projektp{\ae}dagogik i udvikling}, Chapt. Projektp{\ae}dagogik,
+  konstruktivisme og individualisering, pp 113 -- 142,
+\newblock Aalborg Universitetsforlag
+
+\bibitem[\protect\astroncite{{Laursen} and {Rasmussen}}{2009}]{Laursen:2009}
+{Laursen}, E. and {Rasmussen}, P.: 2009,
+\newblock {\em Dansk P{\ae}dagogisk Tidsskrift} {\bf 09(1)}, 46
 
 \bibitem[\protect\astroncite{Lederman}{1999}]{Lederman:1999vn}
 Lederman, N.~G.: 1999,
 \newblock {\em Journal of Research in Science Teaching} {\bf 36(8)}, 916
+
+\bibitem[\protect\astroncite{{Mathiassen}}{2012}]{Mathiassen:2012}
+{Mathiassen}, H.: 2012,
+\newblock {\em MONA} 1
 
 \bibitem[\protect\astroncite{McCarthy and
   McCarthy}{2006}]{mccarthy2006teaching}
@@ -173,6 +238,10 @@ Meyer, H.: 2008,
 Michelsen, C.: 2011,
 \newblock {\em MONA} {\bf 3}, 72
 
+\bibitem[\protect\astroncite{{Miller}}{2006}]{Miller:2006}
+{Miller}, T.: 2006,
+\newblock {\em S{\aa} kan I l{\ae}re det!}
+
 \bibitem[\protect\astroncite{{Ministeriet for B{\o}rn og
   Undervisning}}{2013}]{FysB}
 {Ministeriet for B{\o}rn og Undervisning}: 2013,
@@ -183,10 +252,18 @@ Michelsen, C.: 2011,
 \newblock {\em Gifts Differing: Understanding Personality Type.},
 \newblock Davies-Black Publishing, Mountain View CA
 
+\bibitem[\protect\astroncite{{Olsen}}{2012}]{Olasen:2010}
+{Olsen}, F.~B.: 2012,
+\newblock {\em Ph.D. thesis}, IFPR, SDU
+
 \bibitem[\protect\astroncite{O'Neill-Blackwell}{2012}]{o2012engage}
 O'Neill-Blackwell, J.: 2012,
 \newblock {\em Engage: The Trainer's Guide to Learning Styles},
 \newblock Pfeiffer essential resources for training and HR professionals, Wiley
+
+\bibitem[\protect\astroncite{{Paulsen} and {Beck}}{2011}]{paulsen:2011}
+{Paulsen}, M. and {Beck}, S.: 2011,
+\newblock {\em Gymnasiep{\ae}dagogik} 80
 
 \bibitem[\protect\astroncite{{Plauborg} et~al.}{2010}]{leder:2010}
 {Plauborg}, H., {Andersen}, J.~V., {Ingerslev}, G.~H., and {Laursen}, P.~F.:
@@ -195,10 +272,29 @@ O'Neill-Blackwell, J.: 2012,
   fokus p{\aa} elevernes l{\ae}ring og motivation,
 \newblock Hans Reizels Forlag
 
+\bibitem[\protect\astroncite{{Rasmussen}}{2009}]{Rasmussen:2009}
+{Rasmussen}, J.: 2009,
+\newblock {\em Intellegent undervisningsdifferentiering}
+
+\bibitem[\protect\astroncite{{Rienecker} et~al.}{2005}]{Rienecker:2005}
+{Rienecker}, L., {Harboe}, T., and {J{\o}rgensen}, P.~S.: 2005,
+\newblock {\em Vejledning - En brugsbog for opgave- og specialevejledere p{\aa}
+  videreg{\aa}ende uddannelser},
+\newblock Samfundslitteratur
+
 \bibitem[\protect\astroncite{Ringstad}{2002}]{Ringstad:2002}
 Ringstad, H.~E.: 2002,
 \newblock {\em Understanding Jungian Type - A practical guide},
 \newblock Optimas organisasjonspsykologene as
+
+\bibitem[\protect\astroncite{{Saugstad}}{2009}]{Saugstad:2009}
+{Saugstad}, T.: 2009,
+\newblock {\em KvaN} 83
+
+\bibitem[\protect\astroncite{{Ulriksen} et~al.}{2009}]{Ulriksen:2009}
+{Ulriksen}, L., {Murning}, S., and {Ebbensgaard}, A.~B.: 2009,
+\newblock {\em N{\aa}r gymnasiet er en fremmed verden},
+\newblock Samfundslitteratur
 
 \bibitem[\protect\astroncite{UVM.dk}{2013}]{STXbek}
 UVM.dk: 2013,
