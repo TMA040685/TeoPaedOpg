@@ -14,13 +14,14 @@
 \usepackage[applemac]{inputenc}
 \usepackage[colorlinks]{hyperref}
 \usepackage{graphicx}
-\bibliographystyle{astron}
+%\bibliographystyle{astron}
+\bibliographystyle{dlfltxbbibtex}
 \usepackage{fancyhdr}
 \usepackage{varioref,caption,subcaption}
-\usepackage[draft,inline]{fixme}
+\usepackage[final,inline]{fixme}
 \usepackage{appendix}
 \usepackage{amsmath, latexsym,epigraph}
-\usepackage[notref,notcite,draft]{showkeys}
+\usepackage[notref,notcite,final]{showkeys}
 \usepackage[a4paper]{geometry}
 \usepackage{multirow}
 \usepackage{wrapfig}
@@ -127,8 +128,11 @@
 %	- Introduktion								 %
 %	- Problemformulering						 %
 %	- Main									 %
+%	- Didaktik									 %
+%	- Analyse									 %
+%	- Evaluering								 %
 %	- Konklusion								 %
-% -------------------------------------------------------------------------- %
+% -------------------------------------------------------------------------  %
 
 \include{chapters/Introduktion}
 \include{chapters/problemformulering}
@@ -136,13 +140,15 @@
 %\include{chapters/ringsstile}
 %\include{chapters/JTI-MBTI}
 \include{chapters/Didaktik}
-\include{chapters/Analyse}
+%\include{chapters/Analyse}
 \include{chapters/Evaluering}
+\include{chapters/progression}
 \include{chapters/konklusion}
 
 
 \begin{appendix}
 \include{appendix/Verdensbilleder}
+\include{appendix/relation}
 \include{appendix/4MAT}
 \include{appendix/Situationsbestemt}
 \include{appendix/Sporgeskema}
@@ -150,7 +156,7 @@
 \end{appendix}
 
 \backmatter
-\nocite{*}
+%\nocite{*}
 %\begin{thebibliography}{}
 \bibliography{bibliografi/bibliografi}
 %\end{thebibliography}

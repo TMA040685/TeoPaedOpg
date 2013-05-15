@@ -1,65 +1,68 @@
 This is BibTeX, Version 0.99d (TeX Live 2011)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: Teopæd.aux
-The style file: astron.bst
+The style file: dlfltxbbibtex.bst
 A level-1 auxiliary file: chapters/Introduktion.aux
 A level-1 auxiliary file: chapters/problemformulering.aux
 A level-1 auxiliary file: chapters/main.aux
 A level-1 auxiliary file: chapters/Didaktik.aux
-A level-1 auxiliary file: chapters/Analyse.aux
 A level-1 auxiliary file: chapters/Evaluering.aux
+A level-1 auxiliary file: chapters/progression.aux
 A level-1 auxiliary file: chapters/konklusion.aux
 A level-1 auxiliary file: appendix/Verdensbilleder.aux
 A level-1 auxiliary file: appendix/4MAT.aux
 A level-1 auxiliary file: appendix/Situationsbestemt.aux
 A level-1 auxiliary file: appendix/Sporgeskema.aux
 Database file #1: bibliografi/bibliografi.bib
+Warning--entry type for "EVA:2013" isn't style-file defined
+--line 12 of file bibliografi/bibliografi.bib
 Warning--entry type for "Rasmussen:2009" isn't style-file defined
---line 139 of file bibliografi/bibliografi.bib
+--line 227 of file bibliografi/bibliografi.bib
 Warning--entry type for "STXbek" isn't style-file defined
---line 467 of file bibliografi/bibliografi.bib
+--line 556 of file bibliografi/bibliografi.bib
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Warning--can't use both author and editor fields in Laursen:2002
 Warning--can't use both author and editor fields in Thyssen:2004
 Warning--can't use both author and editor fields in Wenger:2007
-You've used 67 entries,
-            2251 wiz_defined-function locations,
-            868 strings with 13121 characters,
-and the built_in function-call counts, 22482 in all, are:
-= -- 2079
-> -- 979
-< -- 72
-+ -- 332
-- -- 328
-* -- 1977
-:= -- 4072
-add.period$ -- 0
-call.type$ -- 67
-change.case$ -- 434
-chr.to.int$ -- 67
-cite$ -- 70
-duplicate$ -- 945
-empty$ -- 1488
-format.name$ -- 427
-if$ -- 4296
+You've used 77 entries,
+            3024 wiz_defined-function locations,
+            1086 strings with 16357 characters,
+and the built_in function-call counts, 38652 in all, are:
+= -- 2560
+> -- 1557
+< -- 86
++ -- 606
+- -- 525
+* -- 2713
+:= -- 5914
+add.period$ -- 116
+call.type$ -- 77
+change.case$ -- 493
+chr.to.int$ -- 86
+cite$ -- 80
+duplicate$ -- 3205
+empty$ -- 3362
+format.name$ -- 688
+if$ -- 7620
 int.to.chr$ -- 1
-int.to.str$ -- 0
-missing$ -- 97
-newline$ -- 309
-num.names$ -- 201
-pop$ -- 499
+int.to.str$ -- 1
+missing$ -- 761
+newline$ -- 241
+num.names$ -- 308
+pop$ -- 1548
 preamble$ -- 1
-purify$ -- 499
+purify$ -- 483
 quote$ -- 0
-skip$ -- 727
+skip$ -- 1274
 stack$ -- 0
-substring$ -- 1031
-swap$ -- 193
-text.length$ -- 14
+substring$ -- 1254
+swap$ -- 1451
+text.length$ -- 15
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 330
+type$ -- 576
 warning$ -- 3
-while$ -- 154
+while$ -- 259
 width$ -- 0
-write$ -- 790
-(There were 5 warnings)
+write$ -- 788
+(There were 6 warnings)
