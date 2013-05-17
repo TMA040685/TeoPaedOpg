@@ -1,4 +1,4 @@
-\begin{thebibliography}{77}
+\begin{thebibliography}{41}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\urlprefix}{URL }
@@ -47,32 +47,16 @@ Niels {Alstrup}, Inger {Christensen}, Jesper {Darum}, Anders {Hasselager},
   {Vistisen}, \emph{I bev{\ae}gelse - en bog om spejderledelse}, Det Danske
   Spejderkorps, 1997.
 
-\bibitem[{{Aspelin}(2004)}]{Aspelin:2004}
-Jonas {Aspelin}, \emph{Stolthed og skam i undervisningen}, Gyldendals
-  L{\ae}rerbibliotek, 2004.
-
-\bibitem[{Beck(2010)}]{Beck:2010}
-Steen Beck, \emph{L{\ae}ring og psykodynamik - en lille introduktion}.
-  \emph{IFPR}, 2010.
-
-\bibitem[{{Beck}(2010)}]{Beck:2010b}
-Steen {Beck}, \emph{Lev Vygotsky -- l{\ae}ring mellem tilegnelse og Lev
-  Vygotsky - l{\ae}ring mellem tilegensle og virksomhed}, 2010. Arbejdspapir,
-  SDU.
-
-\bibitem[{{Beck} og {Beck}(2005)}]{Beck:2005}
-Steen {Beck} og Hanne~Richardt {Beck}, \emph{Gyldendals Studiebog}, Gyldendal,
-  2005.
-
-\bibitem[{{Beck} og {Ebbensgaard}(2009)}]{Beck:2009}
-Steen {Beck} og Aase~Bitsch {Ebbensgaard}, \emph{Mellem Bagenkop og
-  Harbo{\o}re}. \emph{Gymnasiep{\ae}dagogik}, 75, 2009.
+\bibitem[{{Andersen}(2008)}]{Andersen:2008fk}
+Hanne~Leth {Andersen}, red., \emph{Bevisthed om l{\ae}ring i uddannelserne:
+  progression, portfolio og entrepreneurship}, bind~1, Aarhus Universitet,
+  Center for Undervisningsudvikling, Jens Chr. Skous Vej 3, bygn. 1451, 2008.
 
 \bibitem[{{Beck} og {Gottlieb}(2002)}]{Beck:2002}
 Steen {Beck} og Birgitte {Gottlieb}, \emph{Senmodernitet, l{\ae}ring og
   skolekultur: en perspektivering}. \emph{Gymnasiep{\ae}dagogik}, 32, 2002.
 
-\bibitem[{{Beck} et~al.(2011){Beck}, {Hansen}, {Lind} og {Lyng}}]{beck:2011}
+\bibitem[{{Beck} et~al.(2011){Beck}, {Hansen}, {Lind} og {Lyng}}]{Beck:2011}
 Steen {Beck}, Jens~Ditlev {Hansen}, Anette {Lind} og Mette {Lyng},
   \emph{Studiebogen til HHX}, Gyldendal, 2011.
 
@@ -106,48 +90,19 @@ Bente~Lukman {Christensen}, Birthe {Dalsgaard}, Henriette {Knudsen} og Aase
 Peter {Dahler-Larsen}, \emph{Evalueringskultur}, Syddansk Universitetsforlag,
   2006.
 
-\bibitem[{{Dale}(1998)}]{Dale:1998}
-Erling~Lars {Dale}, \emph{P{\ae}dagogik og professionalitet}, Klim, 1998.
-
 \bibitem[{{Danmarks Evalueringsinstitut}(2012)}]{EVA:2013}
 {Danmarks Evalueringsinstitut}, \emph{L{\ae}ringsm{\aa}l i praksis}, 2012.
 
 \bibitem[{Dewey(1978/1938)}]{Dewey:1978}
 John Dewey, \emph{Erfaring og opdragelse}, Chr. Ejlers' Forlag, 1978/1938.
 
-\bibitem[{Dolin(2007)}]{Dolin:2007M}
-Jens Dolin, \emph{Naturvidenskab efter gymnasiereformen - intentioner og
-  resultater}. \emph{MONA}, 2, 20 -- 28, 2007.
-
-\bibitem[{{Dorf}(2009)}]{Dorf:2009}
-Hans {Dorf}, \emph{Er kompetence 00'ernes dannelsesbegreb}.
-  \emph{Danskl{\ae}rerforeningen: F{\ae}llesskrift}, For{\aa}r, 30 -- 36, 2009.
-
-\bibitem[{{Elf}(2012)}]{Elf:2012}
-Nikolaj~Frydensberg {Elf}, \emph{En tur rundt i norske uddannelsestidsskrifter
-  - med s{\ae}rlig fokus p{\aa} brug af it i undervisningen og didaktik}.
-  \emph{GymPad 2.0}, 8, 2012.
-
 \bibitem[{Evalueringsinstitut(2011)}]{EVA:2011}
 Danmarks Evalueringsinstitut, \emph{Undervisningsdifferentiering som
   b{\ae}rende p{\ae}dagogisk princip}, Danmarks Evalueringsinstitut, 2011.
 
-\bibitem[{{Fahrendorff}(2011)}]{Fahrendorff:2011}
-Lars {Fahrendorff}, \emph{Tema: Skoler uden lektier}. \emph{Jyske Vestkysten},
-  s.~10, 2011.
-
-\bibitem[{{Fasting} og {Thygesen}(2006)}]{Fasting:2006}
-Rolf~B. {Fasting} og Ragnar {Thygesen}, \emph{Skrivehjulet: En modell for
-  elevers skrivekompetanse}. \emph{http://lesesenteret.uis.no/leseopplaering},
-  2006.
-
 \bibitem[{Harlen(2011)}]{Harlen:2011:M}
 Wynne Harlen, \emph{Udvikling og evaluering af unders{\o}gelsesbaseret
   undervisning}. \emph{MONA}, 3, 46 -- 70, 2011.
-
-\bibitem[{Haue(2011)}]{Haue:2011}
-Harry Haue, \emph{Almendannelse - et tidssvarende begreb}, 2011. Arbejdspapir,
-  SDU.
 
 \bibitem[{Haue et~al.(2012)Haue, Damberg, Gleerup, Dolin, Kaspersen,
   Lieberkind, Madsen, Lauridsen, Sanden, Ingerslev, Krogh, Michelsen,
@@ -161,14 +116,6 @@ Harry Haue, Erik Damberg, J{\o}rgen Gleerup, Jens Dolin, Peter Kaspersen,
   Wiuff, Steen Beck, Agnes Witzke og Anne~Birgitte Klange,
   \emph{Gymnasiep{\ae}dagogik - En grundbog}, bind~4, Hans Reitzels Forlag,
   2012, 1. udgave.
-
-\bibitem[{{Herman}(2008)}]{Herman:2008}
-Stefan {Herman}, \emph{Et dianostisk landkort over kompetenceudvikling og
-  l{\ae}ring - Pejlinger og skitser}, Learning Lab Denmark, DPU, 2008.
-
-\bibitem[{{Herman}(2009)}]{Hermann:2009}
-Stefan {Herman}, \emph{Den stille revolution}. \emph{Information},
-  december(09), 2009.
 
 \bibitem[{{Hersey} og {Blanchard}(1969)}]{Hersey1}
 P.~{Hersey} og K.H. {Blanchard}, \emph{Life cycle theory of leadership}.
@@ -186,17 +133,9 @@ Hilde {Hiim} og Else {Hippe}, \emph{L{\ae}ring gennem oplevelse, forst{\aa}else
 Knud Illeris, \emph{L{\ae}ringens og t{\ae}nkningens stil}, kapitel 5 David
   Kolbs teori om l{\ae}ringsstile, Billes{\o} \& Baltzer, 2006.
 
-\bibitem[{{Iversen}(2002)}]{Iversen:2002}
-Kjeld~Sten {Iversen}, \emph{Psykodynamisk teori om l{\ae}rer-elev-relationen}.
-  \emph{KvaN}, Psykologiske Grundtemaer, 2002.
-
 \bibitem[{Jacobsen(2008)}]{Jacobsen:2008M}
 L{\ae}rke~Bang Jacobsen, \emph{Form{\aa}l med eksperimentelt arbejde i
   fysikundervisningen}. \emph{MONA}, 4, 22 -- 41, 2008.
-
-\bibitem[{{Jensen}(2012)}]{Jensen:2012}
-Hans~Siggaard {Jensen}, \emph{Digital dannelse - Et overblik}, 2012. Ikke
-  udgivet.
 
 \bibitem[{{Johannsen} og {Jacobsen}(2009)}]{Johannsen:2009M}
 Bj{\o}rn~Friis {Johannsen} og L{\ae}rke~Bang {Jacobsen}, \emph{Fysikdidaktik
@@ -213,17 +152,6 @@ C.G. Jung og H.G. Baynes, \emph{Psychological Types: Or, The Psychology of
   scientific method, Kegan Paul, Trench, Trubner \& Company, Limited, 1923.
   \urlprefix\url{http://books.google.dk/books?id=l9UDAQAAIAAJ}.
 
-\bibitem[{{Klafki}(2002)}]{Klafki:2002}
-Wolfgang {Klafki}, \emph{Dannelsesteori og didaktik}, Klim, 2002.
-
-\bibitem[{{klausen}(2009)}]{Klausen:2009}
-S{\o}ren~Harnow {klausen}, \emph{Hvorfor fagligt samspil?}, 2009. Ikke udgivet,
-  SDU.
-
-\bibitem[{{klausen}(2011)}]{Klausen:2011}
-S{\o}ren~Harnow {klausen}, \emph{P{\aa} tv{\ae}rs af fag - Fagligt samspil i
-  undervisning, forskning og teamarbejde}, Akademisk Forlag, 2011.
-
 \bibitem[{Kolb(1984)}]{Kolb:1984}
 David Kolb, \emph{Experiential Learning: Experience as the Source of Learning
   and Development}, Prentice Hall, 1984.
@@ -236,36 +164,10 @@ Helge {Kragh}, \emph{Naturerkendelse og videnskabstoeri - De uorganiske
 David~R. {Krathwool}, \emph{A Revision of Bloom's Taxonomy: An Overview}.
   \emph{Theory into practice}, 41(4), 212 -- 218, 2002.
 
-\bibitem[{Krogh(2010)}]{Krogh:2010}
-Ellen Krogh, \emph{Videnskabsretorik og skrivedidaktik}.
-  \emph{Gymnasiep{\ae}dagogik}, 77, 34 ff, 2010.
-
-\bibitem[{{Kyrstein} og {Vestergaard}(2006)}]{Kyrstein:2006}
-Jens {Kyrstein} og Ebbe {Vestergaard}, \emph{Undervisning og l{\ae}ringen - en
-  grundbog i didaktik}, Hans Reitzels Forlag, 2006.
-
-\bibitem[{{Laursen}(2002)}]{Laursen:2002}
-Erik {Laursen}, \emph{Projektp{\ae}dagogik i udvikling}, kapitel
-  Projektp{\ae}dagogik, konstruktivisme og individualisering, pp. 113 -- 142,
-  Aalborg Universitetsforlag, 2002.
-
-\bibitem[{{Laursen} og {Rasmussen}(2009)}]{Laursen:2009}
-Erik {Laursen} og Palle {Rasmussen}, \emph{Sammenh{\ae}ng i
-  ungdomsuddannelserne}. \emph{Dansk P{\ae}dagogisk Tidsskrift}, 09(1), 46--55,
-  2009.
-
 \bibitem[{Lederman(1999)}]{Lederman:1999vn}
 Norman~G Lederman, \emph{Teachers' understanding of the nature of science and
   classroom practice: Factors that facilitate or impede the relationship}.
   \emph{Journal of Research in Science Teaching}, 36(8), 916--929, 1999.
-
-\bibitem[{{Lunde}(2004)}]{Lunde:2004}
-Niels {Lunde}, \emph{Hurra for den klassiske dannelse}. \emph{Berlingske},
-  december(12), 2004.
-
-\bibitem[{{Mathiassen}(2012)}]{Mathiassen:2012}
-Helle {Mathiassen}, \emph{It i undervisningen - if{\o}lge elever og l{\ae}rer}.
-  \emph{MONA}, 1, 2012.
 
 \bibitem[{McCarthy og McCarthy(2006)}]{mccarthy2006teaching}
 B.~McCarthy og D.~McCarthy, \emph{Teaching Around the 4MAT{\textregistered}
@@ -280,9 +182,6 @@ Hilbert Meyer, \emph{Hvad er god undervisning?}, kapitel~1, Gyldendal, 2008.
 Claus Michelsen, \emph{IBSME - inquiry-based science and mathematics
   education}. \emph{MONA}, 3, 72 -- 77, 2011.
 
-\bibitem[{{Miller}(2006)}]{Miller:2006}
-Tanja {Miller}, \emph{Hvad fik du?} \emph{S{\aa} kan I l{\ae}re det!}, 2006.
-
 \bibitem[{{Ministeriet for B{\o}rn og Undervisning}(2013)}]{FysB}
 {Ministeriet for B{\o}rn og Undervisning}, \emph{L{\ae}replan Fysik B}, 2013.
   \urlprefix\url{https://www.retsinformation.dk/Forms/R0710.aspx?id=132647#B24}.
@@ -291,19 +190,11 @@ Tanja {Miller}, \emph{Hvad fik du?} \emph{S{\aa} kan I l{\ae}re det!}, 2006.
 Isabel~Briggs {Myers} og Peter~B. {Myers}, \emph{Gifts Differing: Understanding
   Personality Type.}, Davies-Black Publishing, Mountain View CA, 1980, 1995.
 
-\bibitem[{{Olsen}(2012)}]{Olasen:2010}
-Flemming~B. {Olsen}, \emph{Lektiel{\ae}sningens betydning for elevernes
-  l{\ae}reprocesser}, ph.d.-afhandling, IFPR, SDU, 2012.
-
 \bibitem[{O'Neill-Blackwell(2012)}]{o2012engage}
 J.~O'Neill-Blackwell, \emph{Engage: The Trainer's Guide to Learning Styles},
   Pfeiffer essential resources for training and HR professionals, Wiley, 2012,
   ISBN 9781118222317.
   \urlprefix\url{http://books.google.dk/books?id=yOuNRskR5fYC}.
-
-\bibitem[{{Paulsen} og {Beck}(2011)}]{paulsen:2011}
-Micael {Paulsen} og Steen {Beck}, \emph{Mangfoldighed og f{\ae}llesskab}.
-  \emph{Gymnasiep{\ae}dagogik}, 80, 2011.
 
 \bibitem[{{Plauborg} et~al.(2010){Plauborg}, {Andersen}, {Ingerslev} og
   {Laursen}}]{leder:2010}
@@ -312,43 +203,9 @@ Helle {Plauborg}, Jytte~Vinther {Andersen}, Gitte~Holten {Ingerslev} og
   strategier og fokus p{\aa} elevernes l{\ae}ring og motivation, Hans Reizels
   Forlag, 2010.
 
-\bibitem[{{Rasmussen}(2009)}]{Rasmussen:2009}
-Jens {Rasmussen}, \emph{Intellegent undervisningsdifferentiering}, 2009.
-  \urlprefix\url{http://www.folkeskolen.dk/60506/intelligent-undervisningsdifferentiering}.
-
-\bibitem[{{Rienecker} et~al.(2005){Rienecker}, {Harboe} og
-  {J{\o}rgensen}}]{Rienecker:2005}
-Lotte {Rienecker}, Thomas {Harboe} og Peter~Stray {J{\o}rgensen},
-  \emph{Vejledning - En brugsbog for opgave- og specialevejledere p{\aa}
-  videreg{\aa}ende uddannelser}, Samfundslitteratur, 2005.
-
 \bibitem[{Ringstad(2002)}]{Ringstad:2002}
 Hallvard~E. Ringstad, \emph{Understanding Jungian Type - A practical guide},
   Optimas organisasjonspsykologene as, 2002.
-
-\bibitem[{{Saugstad}(2009)}]{Saugstad:2009}
-Tone {Saugstad}, \emph{Vejledning og Intimitetssamfund}. \emph{KvaN}, 83, 2009.
-
-\bibitem[{{Sch{\"o}n}(2001)}]{Schon:2001}
-D.~{Sch{\"o}n}, \emph{Den reflekterende praktiker}, Klim, 2001.
-
-\bibitem[{{Thyssen}(2004)}]{Thyssen:2004}
-Ole {Thyssen}, \emph{Uddannelse og dannelse l{\ae}sestykker til p{\ae}dagogisk
-  filosofi}, kapitel Dannelse i moderniteten, P{\ae}dagogiske Linjer, 2004.
-
-\bibitem[{{Ulriksen} et~al.(2009){Ulriksen}, {Murning} og
-  {Ebbensgaard}}]{Ulriksen:2009}
-Lars {Ulriksen}, Susanne {Murning} og Aase~Bitsch {Ebbensgaard}, \emph{N{\aa}r
-  gymnasiet er en fremmed verden}, Samfundslitteratur, 2009.
-
-\bibitem[{UVM.dk(2013)}]{STXbek}
-UVM.dk, \emph{Bekendtg{\o}relsen for STX}, 2013.
-  \urlprefix\url{https://www.retsinformation.dk/forms/r0710.aspx?id=132647#K1}.
-
-\bibitem[{{Vejleskov}(2004)}]{Vejleskov:2004}
-Hans {Vejleskov}, \emph{P{\ae}dagogiske teorier}, kapitel Teorier om kognitiv
-  udvikling som inspiration for p{\ae}dagogikken, Billes{\o} \& Baltzer, 2004,
-  4. udgave.
 
 \bibitem[{{Watson}(2000)}]{Warson:2000}
 Rod {Watson}, \emph{Good practice in science teaching - What research has to
@@ -358,9 +215,5 @@ Rod {Watson}, \emph{Good practice in science teaching - What research has to
 \bibitem[{{Wenger}(2007)}]{Wenger:2007}
 Etienne {Wenger}, \emph{L{\ae}ringsteorier}, kapitel Social L{\ae}ringsteori,
   Roskilde Universitetsforlag, 2007.
-
-\bibitem[{{Wiese}(2010)}]{Wiese:2010}
-Lisbeth {Wiese}, \emph{Skriftlighed i fagligt samspil - om de tre skriftlige
-  opgaver i STX}. \emph{Gymnasiep{\ae}dagogik}, 77, 2010.
 
 \end{thebibliography}

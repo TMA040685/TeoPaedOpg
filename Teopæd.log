@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.3-0.9997.5 (TeX Live 2011) (format=xelatex 2011.7.3)  15 MAY 2013 14:52
+This is XeTeX, Version 3.1415926-2.3-0.9997.5 (TeX Live 2011) (format=xelatex 2011.7.3)  16 MAY 2013 13:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -831,7 +831,7 @@ LaTeX Info: Redefining \upshape on input line 2117.
  fontspec info: Defining shape 'bold italic' with NFSS spec.:
 (fontspec)  <->"Arial/BI/ICU:script=latn;language=DFLT;"
 
-LaTeX Font Info:    Try loading font information for EU1+lmss on input line 11.
+LaTeX Font Info:    Try loading font information for EU1+lmss on input line 12.
 
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/euenc/eu1lmss.fd
@@ -1147,37 +1147,37 @@ File: ppxetex.def 2011/03/10 v0.4n Pdfpages driver for XeTeX (AM)
 (./bibliografi/abbrivations.tex) (./Teopæd.aux (./chapters/Introduktion.aux)
 (./chapters/problemformulering.aux) (./chapters/main.aux)
 (./chapters/Didaktik.aux) (./chapters/Evaluering.aux)
-(./chapters/progression.aux) (./chapters/konklusion.aux)
-(./appendix/Verdensbilleder.aux) (./appendix/relation.aux) (./appendix/4MAT.aux
-) (./appendix/Situationsbestemt.aux) (./appendix/Sporgeskema.aux))
+(./chapters/konklusion.aux) (./appendix/Verdensbilleder.aux)
+(./appendix/relation.aux) (./appendix/4MAT.aux)
+(./appendix/Situationsbestemt.aux) (./appendix/Sporgeskema.aux))
 \openout1 = `Teopæd.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 115.
-LaTeX Font Info:    ... okay on input line 115.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 115.
-LaTeX Font Info:    ... okay on input line 115.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 115.
-LaTeX Font Info:    ... okay on input line 115.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 115.
-LaTeX Font Info:    ... okay on input line 115.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 115.
-LaTeX Font Info:    ... okay on input line 115.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 115.
-LaTeX Font Info:    ... okay on input line 115.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 115.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 115.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 117.
+LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 117.
+LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 117.
+LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 117.
+LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 117.
+LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 117.
+LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 117.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 117.
 
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 115.
-LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 115.
-LaTeX Font Info:    ... okay on input line 115.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 115.
-LaTeX Font Info:    ... okay on input line 115.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 115.
-LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 117.
+LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 117.
+LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 117.
+LaTeX Font Info:    ... okay on input line 117.
 
 ABD: EveryShipout initializing macros
 *** you should *not* be loading the inputenc package
@@ -1187,68 +1187,68 @@ ABD: EveryShipout initializing macros
 
 \symlegacymaths=\mathgroup5
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 115.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 115.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 115.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 115.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 115.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 115.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 115.
-LaTeX Font Info:    Redeclaring math accent \check on input line 115.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 115.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 115.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 115.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 115.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 115.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 115.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 115.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 115.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 115.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 115.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 115.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 115.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 115.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 115.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 115.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 115.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 117.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 117.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 117.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 117.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 117.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 117.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 117.
+LaTeX Font Info:    Redeclaring math accent \check on input line 117.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 117.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 117.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 117.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 117.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 117.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 117.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 117.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 117.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 117.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 117.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 117.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 117.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 117.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 117.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 117.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 117.
 LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
-(Font)              `operators' in the math version `normal' on input line 115.
+(Font)              `operators' in the math version `normal' on input line 117.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> EU1/Arial(0)/m/n on input line 115.
+(Font)                  OT1/cmr/m/n --> EU1/Arial(0)/m/n on input line 117.
 LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
-(Font)              `operators' in the math version `bold' on input line 115.
+(Font)              `operators' in the math version `bold' on input line 117.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> EU1/Arial(0)/m/n on input line 115.
+(Font)                  OT1/cmr/bx/n --> EU1/Arial(0)/m/n on input line 117.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  EU1/Arial(0)/m/n --> EU1/Arial(0)/m/n on input line 115
+(Font)                  EU1/Arial(0)/m/n --> EU1/Arial(0)/m/n on input line 117
 .
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  EU1/Arial(0)/m/n --> EU1/Arial(0)/m/n on input line 115
+(Font)                  EU1/Arial(0)/m/n --> EU1/Arial(0)/m/n on input line 117
 .
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> EU1/Arial(0)/m/it on input line 115.
+(Font)                  OT1/cmr/m/it --> EU1/Arial(0)/m/it on input line 117.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> EU1/Arial(0)/bx/n on input line 115.
+(Font)                  OT1/cmr/bx/n --> EU1/Arial(0)/bx/n on input line 117.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> EU1/lmss/m/n on input line 115.
+(Font)                  OT1/cmss/m/n --> EU1/lmss/m/n on input line 117.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> EU1/lmtt/m/n on input line 115.
+(Font)                  OT1/cmtt/m/n --> EU1/lmtt/m/n on input line 117.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  EU1/Arial(0)/m/n --> EU1/Arial(0)/bx/n on input line 11
-5.
+7.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
 (Font)                  EU1/Arial(0)/m/n --> EU1/Arial(0)/bx/n on input line 11
-5.
+7.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> EU1/Arial(0)/bx/it on input line 115.
+(Font)                  OT1/cmr/bx/it --> EU1/Arial(0)/bx/it on input line 117.
 
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> EU1/lmss/bx/n on input line 115.
+(Font)                  OT1/cmss/bx/n --> EU1/lmss/bx/n on input line 117.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> EU1/lmtt/bx/n on input line 115.
+(Font)                  OT1/cmtt/m/n --> EU1/lmtt/bx/n on input line 117.
 \AtBeginShipoutBox=\box43
-Package hyperref Info: Link coloring ON on input line 115.
+Package hyperref Info: Link coloring ON on input line 117.
 (/usr/local/texlive/2011/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
 
@@ -1258,15 +1258,15 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 \c@section@level=\count315
 LaTeX Info: Redefining \Ref on input line 498.
 )
-LaTeX Info: Redefining \ref on input line 115.
-LaTeX Info: Redefining \pageref on input line 115.
-LaTeX Info: Redefining \nameref on input line 115.
+LaTeX Info: Redefining \ref on input line 117.
+LaTeX Info: Redefining \pageref on input line 117.
+LaTeX Info: Redefining \nameref on input line 117.
 
 (./Teopæd.out) (./Teopæd.out)
 \@outlinefile=\write4
 \openout4 = `Teopæd.out'.
 
-LaTeX Info: Redefining \Ref on input line 115.
+LaTeX Info: Redefining \Ref on input line 117.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
@@ -1407,7 +1407,7 @@ th options [SizeFeatures={{Size=24}}].
 
 LaTeX Font Warning: Font shape `EU1/NeoTechStd(1)/m/n' in size <10> not availab
 le
-(Font)              size <24> substituted on input line 121.
+(Font)              size <24> substituted on input line 123.
 
 (./Teopæd.toc
 LaTeX Font Info:    Try loading font information for U+lasy on input line 3.
@@ -1426,7 +1426,12 @@ File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 
 ] [6
 
-] (./Teopæd.lof)
+] (./Teopæd.lof
+
+Package natbib Warning: Citation `beck:2011' on page vii undefined on input lin
+e 13.
+
+)
 \tf@lof=\write7
 \openout7 = `Teopæd.lof'.
 
@@ -1435,8 +1440,7 @@ File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 ]
 \openout2 = `chapters/Introduktion.aux'.
 
-
-(./chapters/Introduktion.tex
+ (./chapters/Introduktion.tex
 Kapitel 1.
  fontspec info: Defining font family 'NeoTechStdLight(1)' for font 'Neo Tech St
 d Light' with options [SizeFeatures={{Size=14}}].
@@ -1644,51 +1648,68 @@ Kapitel 2.
 
  (./chapters/main.tex
 Kapitel 3.
-(./figures/kolb1.tex) (./tables/Kolb.tex)) [9
+(./figures/kolb1.tex) (./tables/Kolb.tex)
+File: figures/kort.png Graphic file (type QTm)
+ <use  "figures/kort.png" > [9
 
 
 
-] [10] [11]
+]
+[10]
+File: figures/trappe.png Graphic file (type QTm)
+ <use  "figures/trappe.png" > [11]
+File: figures/kolbstyle.eps Graphic file (type eps)
+ <figures/kolbstyle.eps> [12]) [13]
 \openout2 = `chapters/Didaktik.aux'.
 
 
-(./chapters/Didaktik.tex [12
+(./chapters/Didaktik.tex [14
 
 
 
 ]
 Kapitel 4.
 
-LaTeX Warning: Reference `sec:DDR' on page 13 undefined on input line 5.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 15--16
+Underfull \hbox (badness 10000) in paragraph at lines 16--17
 
  []
 
-[13]
-File: figures/kolbstyle.eps Graphic file (type eps)
- <figures/kolbstyle.eps> [14] [15]
+[15]
 
-LaTeX Warning: Reference `app:4mat' on page 16 undefined on input line 56.
+Package natbib Warning: Citation `beck:2011' on page 16 undefined on input line
+ 28.
 
-[16]
+[16] [17] [18]
 Kapitel 5.
+
+Package natbib Warning: Citation `beck:2011' on page 19 undefined on input line
+ 54.
+
 File: figures/SOLO.png Graphic file (type QTm)
 <use  "figures/SOLO.png" >
+
+Package natbib Warning: Citation `beck:2011' on page 19 undefined on input line
+ 58.
+
+
+Package natbib Warning: Citation `beck:2011' on page 19 undefined on input line
+ 58.
+
 File: figures/Beck.png Graphic file (type QTm)
- <use  "figures/Beck.png" >
+<use  "figures/Beck.png" >
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-File: figures/wordle.pdf Graphic file (type QTm)
-<use  "figures/wordle.pdf" >
-Underfull \vbox (badness 1490) has occurred while \output is active []
-
- [17
+[19
 
 ]
-[18] [19] (./figures/karaktere1m.tex
+File: figures/wordle.pdf Graphic file (type QTm)
+ <use  "figures/wordle.pdf" >
+Underfull \hbox (badness 10000) in paragraph at lines 72--79
+\EU1/lmss/m/n/10 fra Institut for Fysik og Astronomi ved Aarhus Universitet.
+ []
+
+[20] [21] (./figures/karaktere1m.tex
 File: figures/karaktere1m.eps Graphic file (type eps)
  <figures/karaktere1m.eps>)
 (./figures/karaktere2bm.tex
@@ -1697,10 +1718,10 @@ File: figures/karaktere2bm.eps Graphic file (type eps)
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[20] [21]
+[22] [23]
 \openout2 = `chapters/Evaluering.aux'.
 
- (./chapters/Evaluering.tex [22
+ (./chapters/Evaluering.tex [24
 
 
 
@@ -1710,48 +1731,31 @@ File: figures/enepar.eps Graphic file (type eps)
 <figures/enepar.eps>
 File: figures/gruppe.eps Graphic file (type eps)
  <figures/gruppe.eps>
-Invalid UTF-8 byte or sequence at line 34 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 34 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 33 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 33 replaced by U+FFFD.
 Missing character: There is no � in font [lmsans10-regular]:mapping=tex-text!
 Missing character: There is no � in font [lmsans10-regular]:mapping=tex-text!
- [23]
+ [25]
 File: figures/matrix.eps Graphic file (type eps)
  <figures/matrix.eps>
 File: figures/tavle.eps Graphic file (type eps)
 
-<figures/tavle.eps>
-Overfull \hbox (41.11995pt too wide) in paragraph at lines 65--65
- |[]| 
- []
-
-
-Package wrapfig Warning: Collision between wrapping environments on input line 
-66.
-
+<figures/tavle.eps> [26]
 File: figures/type.eps Graphic file (type eps)
-<figures/type.eps>
+ <figures/type.eps> (./figures/comp.tex
+File: figures/comp.eps Graphic file (type eps)
 
-Package wrapfig Warning: Stationary wrapfigure forced to float on input line 77
-.
+<figures/comp.eps>))
 
-) [24] [25]
-\openout2 = `chapters/progression.aux'.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
- (./chapters/progression.tex [26
+[27
 
-
-
-]
-Kapitel 7.
-File: figures/kort.png Graphic file (type QTm)
-<use  "figures/kort.png" >
-File: figures/trappe.png Graphic file (type QTm)
- <use  "figures/trappe.png" > [27]) [28]
+] [28]
 \openout2 = `chapters/konklusion.aux'.
 
-
-(./chapters/konklusion.tex
-Kapitel 8.
+ (./chapters/konklusion.tex
+Kapitel 7.
 ) [29
 
 
@@ -2043,20 +2047,16 @@ Bilag E.
 
 ] (./Teopæd.bbl [53
 
-] [54] [55]
-Underfull \hbox (badness 7344) in paragraph at lines 287--289
+]
+Underfull \hbox (badness 7344) in paragraph at lines 186--188
 []\EU1/lmss/m/n/10 Ministeriet for Børn og Undervisning, \EU1/lmss/m/sl/10 Læ
 replan Fysik B\EU1/lmss/m/n/10 , 2013. URL [][]$[][][][][] [] [] [] [][][] []
  []
 
+[54])
 
-Underfull \hbox (badness 1389) in paragraph at lines 345--347
-[]\EU1/lmss/m/n/10 UVM.dk, \EU1/lmss/m/sl/10 Bekendtgørelsen for STX\EU1/lmss/
-m/n/10 , 2013. URL [][]$[][][][][] [] [] [] [][][] [] [][][][][][][][][][][][][
-][][] [] [][] [] [][][][][] []
- []
+Package natbib Warning: There were undefined citations.
 
-)
 
 FiXme Summary: Number of notes: 0,
 (FiXme)        Number of warnings: 0,
@@ -2064,17 +2064,17 @@ FiXme Summary: Number of notes: 0,
 (FiXme)        Number of fatal errors: 0,
 (FiXme)        Total: 0.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 164.
-[56]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 164.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 162.
+[55]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 162.
  (./Teopæd.aux (./chapters/Introduktion.aux)
 (./chapters/problemformulering.aux) (./chapters/main.aux)
 (./chapters/Didaktik.aux) (./chapters/Evaluering.aux)
-(./chapters/progression.aux) (./chapters/konklusion.aux)
-(./appendix/Verdensbilleder.aux) (./appendix/relation.aux) (./appendix/4MAT.aux
-) (./appendix/Situationsbestemt.aux) (./appendix/Sporgeskema.aux))
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 164.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 164.
+(./chapters/konklusion.aux) (./appendix/Verdensbilleder.aux)
+(./appendix/relation.aux) (./appendix/4MAT.aux)
+(./appendix/Situationsbestemt.aux) (./appendix/Sporgeskema.aux))
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 162.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 162.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -2083,18 +2083,15 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: There were undefined references.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 164.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 162.
  ) 
 Here is how much of TeX's memory you used:
- 30151 strings out of 494150
- 526818 string characters out of 3152950
- 727770 words of memory out of 3000000
- 32677 multiletter control sequences out of 15000+200000
+ 30037 strings out of 494150
+ 524570 string characters out of 3152950
+ 726082 words of memory out of 3000000
+ 32567 multiletter control sequences out of 15000+200000
  8110 words of font info for 86 fonts, out of 3000000 for 9000
  1018 hyphenation exceptions out of 8191
- 56i,12n,92p,2488b,1231s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 56i,12n,92p,2493b,1231s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on Teopæd.pdf (64 pages).
+Output written on Teopæd.pdf (63 pages).
